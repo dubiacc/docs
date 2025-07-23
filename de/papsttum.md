@@ -295,3 +295,25 @@
 > die Mutter aller war, hat nie aufgehört, den richtigen Glauben zu bekennen.“
 >
 > -- [Hl. Maximus der Bekenner](https://de.wikipedia.org/wiki/Maximus_Confessor): [Disputation mit Pyrrhus, ca. 649]()
+
+> **Die Kirche nimmt den Nachfolger Petri an**
+>
+> **Er billigt die wohlgeordnete Liebe der gesamten Kirche, die denjenigen, der
+> seinen Stuhl innehat, wie Petrus annimmt und in ihrer Liebe zu einem so
+> großen Hirten nicht lau wird, nicht einmal in der Person eines so niederen
+> Erben.** [...] da er es war, **der wollte, dass ich der Leitung seiner Kirche
+> vorstehe, ‚um den Reichtum seiner Gnade zu offenbaren‘**.
+>
+> -- [Hl. Leo der Große](https://de.wikipedia.org/wiki/Leo_der_Gro%C3%9Fe): [Sermon 2.2–3, St. Leo the Great: Sermons]()
+
+> **Das Privileg des Petrus**
+>
+> **Doch nicht ohne Grund wurde es einem einzigen übergeben, obwohl es allen
+> bekannt gemacht wurde. Es wurde in einzigartiger Weise Petrus anvertraut,
+> weil die Person Petrus allen Führern der Kirche vor Augen steht. Deshalb
+> besteht dieses Privileg des Petrus überall dort, wo ein Urteil gemäß seiner
+> Gerechtigkeit gefällt wurde.** Es kann nicht zu viel Strenge oder zu viel
+> Nachsicht geben, wo nichts gebunden oder gelöst wird, **außer dem, was der
+> selige Petrus gelöst oder gebunden hat.**
+>
+> -- [Hl. Leo der Große](https://de.wikipedia.org/wiki/Leo_der_Gro%C3%9Fe): [Sermon 4.3, St. Leo the Great: Sermons]()
