@@ -317,3 +317,97 @@
 > selige Petrus gelöst oder gebunden hat.**
 >
 > -- [Hl. Leo der Große](https://de.wikipedia.org/wiki/Leo_der_Gro%C3%9Fe): [Sermon 4.3, St. Leo the Great: Sermons]()
+
+> **Das Recht des Apostolischen Stuhls**
+>
+> ...**__dass nämlich der Stuhl des seligen Petrus, des Apostels, das Recht
+> hat, das zu lösen, was durch die Urteile irgendwelcher Bischöfe gebunden
+> wurde, und da er die Jurisdiktion über jede Kirche hat, so dass niemand
+> über sein Urteil urteilen kann__**, wobei die Kanones vorsehen, dass eine
+> Berufung an ihn aus jedem Teil der Welt möglich ist, **__ist es niemandem
+> erlaubt, gegen sein Urteil Berufung einzulegen.“__**
+>
+> -- [Hl. Papst Gelasius I.](https://de.wikipedia.org/wiki/Gelasius_I.): [Coll. Avell, 95,8 27, ed. citation. p.378]()
+
+> **Freisprechung und Verurteilung ohne Synode**
+>
+> „[…] **Der Apostolische Stuhl** hat oft die Freiheit (facultas) gehabt,
+> **__ohne eine vorangehende Synode diejenigen freizusprechen, die eine Synode
+> zu Unrecht verurteilt hatte, und auch, wenn nötig, andere ohne die
+> Einberufung einer Synode zu verurteilen...."__**
+>
+> -- [Hl. Papst Gelasius I.](https://de.wikipedia.org/wiki/Gelasius_I.): [Patrologia Latina 59.66C, 67 B,C]()
+
+> **Berufung an den Bischof von Rom**
+>
+> "Wenn ein Bischof das Urteil in einem Fall verliert... **so wollen wir das
+> Andenken des Apostels Petrus ehren, indem wir... an Julius, den Bischof von
+> Rom, schreiben lassen, damit er, wenn es ihm angemessen erscheint, selbst
+> Schiedsrichter schickt...**"
+>
+> -- [Konzil von Sardica](https://de.wikipedia.org/wiki/Synode_von_Serdica): [Kanon 3 [342 n. Chr.]]()
+
+> **Keine Neubesetzung bis zum Urteil Roms**
+>
+> __"Wenn ein Bischof durch das Urteil der... Bischöfe abgesetzt wird__...
+> **soll kein anderer auf seinen Stuhl berufen werden, bis der Bischof von Rom
+> den Fall kennengelernt und ein Urteil gefällt hat"**
+>
+> -- [Konzil von Sardica](https://de.wikipedia.org/wiki/Synode_von_Serdica): [Kanon 4]()
+
+> **Die unanfechtbare Autorität des Apostolischen Stuhls**
+>
+> **__„Die Überlieferung der Väter schrieb dem Apostolischen Stuhl eine solche
+> Autorität zu, dass niemand es wagte, sein Urteil anzufechten;__** ...wurde
+> diesem Apostel...solche Macht verliehen, __dass er lösen konnte, was gebunden
+> war, und binden konnte, was gelöst war.__ ...eine gleichrangige Machtposition
+> wurde jenen übertragen, die __durch seine Vollmacht das Erbe seines Stuhls
+> erlangt haben...__
+>
+> -- [Papst Zosimus](https://de.wikipedia.org/wiki/Zosimus_(Papst)): [Brief vom 21. März 418, Collectio Avellana]()
+
+> **Der Rang des Apostels Petrus**
+>
+> „...seinem Stuhl in erster Linie **der Rang oder die Oberhoheit des Apostels
+> Petrus**...eine Macht übertragen hatten, die in den Kirchen ihresgleichen
+> suchte; **__auch ließe sich nicht leicht ein Präzedenzfall finden, der zeigt,
+> dass der Prälat...dem Urteil seiner Untergebenen unterworfen gewesen wäre.“__**
+>
+> -- [Römische Synode (502)](https://de.wikipedia.org/wiki/Symmachus_(Papst)): [Mansi, viii, 248]()
+
+> **Die Privilegien des Neuen Roms (Kanon 28)**
+>
+> ...wir beschließen... hinsichtlich der Privilegien __**der heiligsten Kirche
+> von Konstantinopel, dem Neuen Rom**__. ...die hundertfünfzig frommen
+> Bischöfe...__** gaben dem heiligsten Thron des Neuen Rom gleichwertige
+> Privilegien**__ ...dass die Stadt...gleiche Privilegien __**wie das alte
+> kaiserliche Rom genießt, auch in kirchlichen Angelegenheiten so geachtet
+> werden sollte...und den Rang nach ihr einnehmen sollte**__
+>
+> -- [Konzil von Chalcedon](https://de.wikipedia.org/wiki/Konzil_von_Chalkedon): [Kanon 28]()
+
+> **Ablehnung von Kanon 28**
+>
+> „Aber **die Zustimmungen der Bischöfe [zu Kanon 28]**, die den Vorschriften
+> der heiligen Kanonen widersprechen... **__erkennen wir nicht, und durch die
+> Autorität des gesegneten Apostels Petrus widerschreiben wir absolut in
+> umfassenden Begriffen..."__**
+>
+> -- [Hl. Papst Leo der Große](https://de.wikipedia.org/wiki/Leo_der_Gro%C3%9Fe): [Brief 105]()
+
+> **Annullierung durch päpstliche Autorität**
+>
+> „Was den Beschluss der Bischöfe beträcht, der dem Dekret von Nicäa
+> entgegengesetzt ist, **__erkläre ich ihn in Verbindung mit Ihrer treuen
+> Frömmigkeit für ungültig und annulliert ihn durch die Autorität des heiligen
+> Apostels Petrus“__**
+>
+> -- [Hl. Papst Leo der Große](https://de.wikipedia.org/wiki/Leo_der_Gro%C3%9Fe): [Briefe 110 [A.D. 445]]()
+
+> **Unterwerfung unter die Autorität des Papstes**
+>
+> ...die ganze Kraft der Bestätigung der Taten für die Autorität Eurer
+> Seligkeit reserviert. **__Lassen Sie Ihre Heiligkeit daher mit Sicherheit
+> wissen, dass ich nichts getan habe, um die Angelegenheit voranzutreiben...__**
+>
+> -- [Patriarch Anatolius von Konstantinopel](https://de.wikipedia.org/wiki/Anatolios_von_Konstantinopel): [Brief 132 an Papst Leo]()
