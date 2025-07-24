@@ -40,8 +40,6 @@ The Nordic countries and England, where Arianism had once been strong among Germ
 forms of Protestantism that emphasized God's transcendence over papal authority - perhaps echoing earlier 
 anti-hierarchical tendencies.
 
-Your geographical heresy theory works remarkably well for Islam! The pattern of early Islamic sects persisting in specific regions and influencing later theological developments is even more pronounced than in Christianity.
-
 ## Early Islamic Heresies and Their Geographic Distribution
 
 ### Kharijites (7th century)
