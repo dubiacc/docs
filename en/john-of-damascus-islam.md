@@ -1,4 +1,4 @@
-### Analysis of St. John of Damascus's Apologetic Arguments
+# Analysis of St. John of Damascus's Apologetic Arguments
 
 St. John of Damascus did not engage with Islam as a completely separate religion but as a Christian heresy. 
 His apologetic approach was built on a three-step method: 
@@ -37,7 +37,7 @@ suggesting Islam is not a new truth but an old error.
 > **Qur'an 5:3:** "...This day I have perfected for you your religion and completed My favor upon you and have approved
 > for you Islam as religion."
 
-### The Unverified Prophet
+## The Unverified Prophet
 
 John consistently attacked the legitimacy of Muhammad's prophethood by contrasting it with the established 
 standards for prophets in the Judeo-Christian tradition.
