@@ -58,7 +58,7 @@ included: (1) the unity of God; (2) divine justice; (3) the promise and the thre
 position; and (5) the commanding of good and forbidding of evil. They emphasized human free will and 
 divine justice.
 
-## Geographic Persistence - The Ibadi Example
+### The Ibadi Example
 
 The most striking example of your theory is Ibadism. Various Ibāḍī communities were established in southern 
 Arabia, with bases in Oman, North Africa, and East Africa. Ibâdism represents a branch of the third great 
