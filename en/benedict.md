@@ -1,5 +1,6 @@
 "Vademecum" of the errors of Ratzinger-Benedict XVI, extracted from the 
-Osservatore Romano. From: "Documentation on the Revolution in the Church" 06/2025
+Osservatore Romano. From: "Documentation on the Revolution in the Church" 
+by Fr. Gulio Maria Tam, 06/2025
 
 # The Errors of Pope Benedict XVI
 
