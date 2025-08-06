@@ -4211,4 +4211,96 @@ Diese Liste enthält Bücher, die als geeignet oder erlaubt zum Lesen oder Lehre
 *   **1569** - Basiliensis ministrorum responsio contra missam (Antwort der Basler Geistlichen gegen die Messe).
 *   **1569** - Brevis cometarum explicatio, physicum ordinem et exempla historiarum praecipue complectens (Kurze Erklärung der Kometen, hauptsächlich ihren physikalischen Aufbau und historische Beispiele umfassend).
 *   **1569** - Catechismus Genevensis et omnes alii a catholicis non conscripti (Genfer Katechismus und alle anderen, die nicht von Katholiken verfasst wurden).
-*   **1569** - Colloquium Bernense, Badense, Coclaei et Lutheri, clerici et militis, Gronicense, Herffordiense, Lipsiense, Marpurgense, Mulbrunnense, Possiacum, Parisiense, Smalcaldicum, Wittenbergense et omnia similia (Kolloquien von Bern, Baden, Cochläus und Luther, Kleriker und Ritter, Groninger, Herforder, Leipziger, Marburger, Maulbronner,
+*   **1569** - *Colloquium Bernense, Badense, Coclaei et Lutheri, clerici et militis, Gronicense, Herffordiense, Lipsiense, Marpurgense, Mulbrunnense, Possiacum, Schmaldicum, Wittenbergense, Parisiense et omnia similia ab incertis authoribus et impressoribus vel ab haereticis in lucem emissa* (Kolloquien von Bern, Baden, Cochläus und Luther, Kleriker und Ritter, Groninger, Herforder, Leipziger, Marburger, Maulbronner, Poissy, Pariser, Schmalkaldischer, Wittenberger und alle ähnlichen, von unbekannten Autoren und Druckern oder von Häretikern herausgegeben).
+*   **1569** - *Confessiones omnes, ut Augustana, Antverpiensis, Argentinensis, Anglica, Gallica, Baronum et Nobilium Bohemiae, Helvetiorum, Tigurina, Saxonica, Wirtembergensis etc. seu quotquot non sunt a catholicis theologis receptae et editae* (Alle Bekenntnisse, wie das Augsburger, Antwerpener, Straßburger, Englische, Gallische, der Barone und Adligen Böhmens, der Schweizer, Zürcher, Sächsische, Württembergische etc. oder so viele, die nicht von katholischen Theologen angenommen und herausgegeben wurden).
+*   **1569** - *Epistolae consolatoriae collectae per Cyriacum Spangebergium* (Tröstliche Briefe, gesammelt von Cyriacus Spangenberg).
+*   **1569** - *Epitomata historiae in Gallia de bello religionis ab anno 1556 usque 1566* (Kurzfassungen der Geschichte in Gallien über den Religionskrieg von 1556 bis 1566).
+*   **1569** - *Evangelium laetum regni Dei nuncium* (Das frohe Evangelium der Botschaft vom Reich Gottes).
+*   **1569** - *Fidei christianae capita contra PP.* (Hauptartikel des christlichen Glaubens gegen die Päpste).
+*   **1569** - *Glossa ordinaria Genevensis* (Genfer Ordinärglosse).
+*   **1569** - *Heidelbergensis theologia de coena. 1566* (Heidelberger Theologie über das Abendmahl. 1566).
+*   **1569** - *Historiae Magdeburgicae ab Illirico et suis complicibus mendacissime coacervatae* (Magdeburger Geschichten, von Illyricus und seinen Komplizen lügenhaft zusammengestellt).
+*   **1569** - *Introductio admirabilium antiqua et moderna, seu Apologia ficta pro Herodoto* (Einführung in die alten und modernen Wunder, oder gefälschte Apologie für Herodot).
+*   **1569** - *Mappemonde papistique* (Papistische Weltkarte).
+*   **1569** - *Missa Latina quae olim ante Romanam circa annum 700. erat* (Lateinische Messe, die einst vor der römischen um das Jahr 700 existierte).
+*   **1569** - *Narratio rerum quae contigerunt anno 1566 in patria inferiore* (Erzählung der Dinge, die im Jahr 1566 im unteren Land geschahen).
+*   **1569** - *Oratio ecclesiarum Germaniae ac Belgiae sub Antichristi jugo etc. 1566* (Gebet der Kirchen Deutschlands und Belgiens unter dem Joch des Antichristen etc. 1566).
+*   **1569** - *Passio Domini per Nicodemum* (Leiden des Herrn durch Nikodemus).
+*   **1569** - *Praxis et taxa officinae PP. poenitentiariae* (Praxis und Taxe des päpstlichen Pönitenziar-Amtes).
+*   **1569** - *Protoevangelium Jacobi* (Protoevangelium des Jakobus).
+*   **1569** - *Sanctae inquisitionis Hispanicae artes* (Künste der spanischen Inquisition).
+*   **1569** - *Scripta eruditorum virorum de coena Domini impressa anno 1561* (Schriften gelehrter Männer über das Herrenmahl, gedruckt im Jahr 1561).
+*   **1569** - *Signa sacra et origo missae* (Heilige Zeichen und Ursprung der Messe).
+*   **1569** - *Speculum justitiae* (Spiegel der Gerechtigkeit).
+*   **1569** - *Stratagemata Satanae* (Strategeme Satans).
+*   **1569** - *Summa purioris doctrinae Re. Mansfelden. ad Gallicam ecclesiam 61. adversum Sacramentarios* (Summa der reineren Lehre der Grafen von Mansfeld an die gallikanische Kirche 61. gegen die Sakramentaristen).
+*   **1569** - *Turingicorum exulum responsio* (Antwort der Thüringer Exulanten).
+*   **1569** - *Ulderici ad PP. Nicolaum epistola, quam finxerunt Baleus, Flaccus et Westhemerus* (Brief des Uldericus an Papst Nikolaus, den Baleus, Flaccus und Westhemerus gefälscht haben).
+*   **1569** - *Virgilius Polydorus de inventoribus rerum, auctus ab haereticis, imo mutatus* (Polydorus Virgilius über die Erfinder der Dinge, von Häretikern erweitert, ja sogar verändert).
+*   **1580** - *Apologi Viae* (Apologien des Weges).
+*   **1580** - *Apologia ecclesiae Anglicanae, sine nomine* (Apologie der englischen Kirche, ohne Namen).
+*   **1580** - *Apostolicum et Decalogum Basileae* (Apostolisches und Dekalog in Basel).
+*   **1580** - *Asino volgare in tit. Ragionamento dell' asino* (Volksesel im Titel: Gespräch des Esels).
+*   **1580** - *Biblioteca Elvetica universitatum* (Helvetische Bibliothek der Universitäten).
+*   **1580** - *Biblie volg. Testamento novo. Evang. omnia volg.* (Volksbibel. Neues Testament. Alle Evangelien in Volkssprache).
+*   **1580** - *Breviarium et officium Vercellarum* (Brevier und Offizium von Vercelli).
+*   **1580** - *Canzone disoneste o lascive* (Unehrliche oder laszive Lieder).
+*   **1580** - *Comedie disoneste o lascive* (Unehrliche oder laszive Komödien).
+*   **1580** - *Canzone in morte d'Ascanio della Cornia* (Lieder zum Tod von Ascanio della Cornia).
+*   **1580** - *Confessione del B. F. Jacomo della Maria* (Bekenntnis des seligen Br. Jakobus della Maria).
+*   **1580** - *Capitolo del palamaglio* (Kapitel des Palamaglio).
+*   **1580** - *Dialogo della bella creanza delle donne* (Dialog über die schöne Erziehung der Frauen).
+*   **1580** - *Dialogo de l'unione spirituale d'Iddio con l'anima* (Dialog über die geistige Vereinigung Gottes mit der Seele).
+*   **1580** - *Dialogo di Nicolo Leonito* (Dialog von Nicolo Leonito).
+*   **1580** - *Dialogo di Nicolo Franco. Venet. 1545* (Dialog von Nicolo Franco. Venedig 1545).
+*   **1580** - *Dialogi di Luciano d'amore e meretricio* (Dialoge des Lucian über Liebe und Prostitution).
+*   **1580** - *Dialogo intit . L'innam. Dialogo del Zampeschi* (Dialog mit dem Titel: Der Liebhaber. Dialog des Zampeschi).
+*   **1580** - *Discorsi del Parobosco* (Diskurse von Parabosco).
+*   **1580** - *Discorsi di Fabio Benevoglienti, per qual cagion* (Diskurse von Fabio Benevoglienti, aus welchem Grund).
+*   **1580** - *Duelli tutti* (Alle Duelle).
+*   **1580** - *Detti fatti piacevoli e gravi di diversi principi, filosofi e cortegiani, raccolti dal Guicciardini* (Worte, angenehme und ernste Taten verschiedener Fürsten, Philosophen und Höflinge, gesammelt von Guicciardini).
+*   **1580** - *Epistola della domenica, falsa, erronea, haeretica, quae inadvertenter legitur et recitatur* (Sonntagsbrief, falsch, irrtümlich, häretisch, der unbedacht gelesen und rezitiert wird).
+*   **1580** - *Facetie del piovano Arlotto* (Späße des Pfarrers Arlotto).
+*   **1580** - *Farrago poematum ex optimis quibusque per Leodegarium a Quercu* (Gedichtsammlung aus den besten von Leodegarius a Quercu).
+*   **1580** - *Flores epigrammatum ex optimis quibusque per Leodegarium ut supra* (Epigramm-Blumen aus den besten von Leodegarius wie oben).
+*   **1580** - *Filena di Nicolo Franco* (Filena von Nicolo Franco).
+*   **1580** - *Filone l'opere stampate in Basilea dell' Episcopio, si lieva vicino al fine una epistola* (Filone, die in Basel gedruckten Werke des Bischofs, am Ende wird ein Brief entfernt).
+*   **1580** - *Figure del Vecchio Testam. con versi Toscani per Damiano Maralsi, in Lione per Gio. de Touernes 1554; deleatur atti 4 la stanza: Felice chiesa povera dell' oro* (Figuren des Alten Testaments mit toskanischen Versen von Damiano Maralsi, in Lyon von Gio. de Touernes 1554; lösche in Akt 4 die Strophe: Glückliche Kirche, arm an Gold).
+*   **1580** - *Francesco Sansovino, le lettere* (Francesco Sansovino, die Briefe).
+*   **1580** - *Facetie, motti e burle di diversi signori; hic liber fuit omnino rejectus* (Späße, Sprüche und Witze verschiedener Herren; dieses Buch wurde gänzlich verworfen).
+*   **1580** - *Francesco Bernia del stato de buffoni in 8. rima* (Francesco Berni vom Stand der Narren in 8 Reimen).
+*   **1580** - *Giard. de orationi, stamp. dalla Speranza in Venet.* (Garten der Gebete, gedruckt von Speranza in Venedig).
+*   **1580** - *Hist. univers. dell' orig. de Turchi da Franc. Sansovino, auferatur in princip. toto vita Maumet.* (Weltgeschichte des Ursprungs der Türken von Francesco Sansovino, im Prinzip ganz aus dem Leben Mohammeds entfernt).
+*   **1580** - *Hist. di Ravenna di Thomasso Tornei, stampata in Pesaro* (Geschichte von Ravenna von Thomasso Tornei, gedruckt in Pesaro).
+*   **1580** - *Hist. tutte che non portano giovamento ne à boni costumi ne à dogmi della fede* (Alle Geschichten, die weder den guten Sitten noch den Glaubensdogmen nützen).
+*   **1580** - *Historiarum Brandelicam* (Geschichte von Brandelicam).
+*   **1580** - *Historia Turglini* (Geschichte von Turglini).
+*   **1580** - *Historia ecclesiastica nova auctore Michaele Buchenguo* (Neue Kirchengeschichte von Michael Buchinger).
+*   **1580** - *Historiae Brattanicae deffensio* (Verteidigung der britischen Geschichte).
+*   **1580** - *Hortomanus de regulis juris sive de verbis juris* (Hortomanus über die Regeln des Rechts oder über Rechtsworte).
+*   **1580** - *Hore di recreatione, Guicciardini* (Stunden der Erholung, Guicciardini).
+*   **1580** - *Instituta canonica dell' Ancilletto* (Kanonsrecht des Ancilletto).
+*   **1580** - *Inamoramento d'Orlando* (Orlandos Verliebtheit).
+*   **1580** - *Lettere di Horatio Brunetto* (Briefe von Horatio Brunetto).
+*   **1580** - *Lettere amorose, lib. dua per il Sansovino, e qualunque altre lettere amorose* (Liebesbriefe, zwei Bücher von Sansovino, und alle anderen Liebesbriefe).
+*   **1580** - *Lettere scritte d'autori damnati* (Briefe, geschrieben von verdammten Autoren).
+*   **1580** - *Lettere facecie et piacevoli, quoad res jocosas, si abutuntur sacris litteris* (Witzige und angenehme Briefe, sofern sie in Bezug auf witzige Dinge die heiligen Schriften missbrauchen).
+*   **1580** - *Lettere di diversi nobiliss. Venet. 1567, prius corrigantur* (Briefe verschiedener sehr edler Venezianer 1567, sollen zuerst korrigiert werden).
+*   **1580** - *Meditatione della morte* (Meditation über den Tod).
+*   **1580** - *Meditationi di S. Bonaventura volgari e latine, perche falsamente sono atribuite a San Bonaventura* (Meditationen des hl. Bonaventura, volkssprachlich und lateinisch, weil sie fälschlich dem hl. Bonaventura zugeschrieben werden).
+*   **1580** - *Manipulus curatorum, cosi volgare come Latino* (Manipulus Curatorum, sowohl volkssprachlich als auch lateinisch).
+*   **1580** - *Matagonis de Matagonibus decretorum* (Dekrete des Matagones de Matagones).
+*   **1580** - *Moralia Plutarchi et descriptio Jacobi terrae sanctae* (Moralia des Plutarch und Beschreibung des Heiligen Landes Jakobs).
+*   **1580** - *Novelle 70 del Sabbatino* (70 Novellen des Sabatino).
+*   **1580** - *Novelle del Bandello* (Novellen des Bandello).
+*   **1580** - *Novelle d'Angelo Fiorenzola* (Novellen von Angelo Fiorenzola).
+*   **1580** - *Novelle de Gio. Baptist. Ghirardi de Monte Regali, 1565, duoi libri* (Novellen von Giovanni Battista Ghirardi da Monte Regale, 1565, zwei Bücher).
+*   **1580** - *Opere moderne in verso, cosi Latine come volg., di sacra Scrittura* (Moderne Werke in Versen, sowohl lateinisch als auch volkssprachlich, aus der Heiligen Schrift).
+*   **1580** - *Opus historicum in 4 thomos Schardii* (Historisches Werk in 4 Bänden von Schardius).
+*   **1580** - *Opusculum scholae Salernitanae de conservanda bona valitu[dine]. Venet. 1573* (Kleines Werk der Schule von Salerno über die Erhaltung der Gesundheit. Venedig 1573).
+*   **1580** - *Orthographia patrum* (Orthographie der Väter).
+*   **1580** - *Onufrius, Vitae Pontif.* (Onuphrius Panvinius, Leben der Päpste).
+*   **1580** - *Oratorio de religiosi* (Oratorium der Ordensleute).
+*   **1580** - *Officina Textoris* (Werkstatt des Textor).
+*   **1580** - *Olimpia Fulvia Morata, Andreae Grutherii uxor* (Olympia Fulvia Morata, Ehefrau von Andreas Gruther).
+   **1580** - *Oratione de Girolamo Sorboli nella morte di D. Francesco d'Este* (Rede von Girolamo Sorbolo zum Tod von D. Francesco d'Este).
