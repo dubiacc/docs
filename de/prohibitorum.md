@@ -2688,4 +2688,1527 @@ nach der frühesten Erwähnung der Verdammung oder des Erscheinungsjahres sortie
 *   **1559** - *Speculum caecorum ad cognitionem evangelicae veritatis* (Spiegel der Blinden zur Erkenntnis der evangelischen Wahrheit).
 *   **1559** - *Suermenica doctrina* (Schwärmerische Lehre).
 *   **1559** - *Summa totius Scripturae* (Summe der gesamten Schrift).
-   **1559** - *Summarium Scripturae* (Summarium der Schrift).
+*   **1559** - *Summarium Scripturae* (Summarium der Schrift).
+*   **1559** - *Summa in Smaragdum super evangelia et epistolas totius anni, tam separatim, quam una cum dicto auctore impressa* (Summa zu Smaragdus über die Evangelien und Episteln des ganzen Jahres, sowohl separat als auch mit dem genannten Autor gedruckt).
+*   **1559** - *Supplicatio quorundum apud Helvetios evangelistarum ad episcopum Constantiensem* (Bittschrift einiger evangelischer Helvetier an den Bischof von Konstanz).
+*   **1559** - *Supputatio annorum mundi* (Berechnung der Weltjahre).
+*   **1559** - *Supplice essortatione di nuovo mandata all' invittiss. Cesare Carlo V. etc.* (Erneute demütige Ermahnung an den unbesiegbarsten Kaiser Karl V. etc.).
+*   **1559** - *Syncrama clarissimorum virorum, qui Halae convenerunt, super verbis in Domini* (Syncrama der berühmtesten Männer, die in Halle zusammenkamen, über die Worte im Herrn).
+*   **1559** - *Synodus Marpurgen.* (Marpurger Synode).
+*   **1559** - *Thalmud Hebraeorum ejusque glossae, annotationes, interpretationes et expositiones omnes* (Der Talmud der Hebräer und alle seine Glossen, Anmerkungen, Interpretationen und Erklärungen).
+*   **1559** - *Themata 114 Basileae disputata* (114 in Basel disputierte Thesen).
+*   **1559** - *Threni Hieremiae mysticati* (Mystische Klagelieder Jeremias').
+*   **1559** - *Tractatus ad omnes in christianam libertatem malevolos* (Traktat an alle, die der christlichen Freiheit feindlich gesinnt sind).
+*   **1559** - *Tractatus de redditibus et decimis* (Traktat über Einkünfte und Zehnten).
+*   **1559** - *Tragoedia de libero arbitrio* (Tragödie vom freien Willen).
+*   **1559** - *Trigamus* (Trigamus).
+*   **1559** - *Trilogium pro catechistis* (Trilogium für Katechisten).
+*   **1559** - *Troporum theologicorum etc.* (Dergleichen theologische Tropen etc.).
+*   **1559** - *Turicella* (Torricella).
+*   **1559** - *Tractatus de vera et pura ecclesia, D. Athanasio falsissime adscriptus* (Traktat über die wahre und reine Kirche, dem hl. Athanasius fälschlichst zugeschrieben).
+*   **1559** - *Trattato del beneficio di Christo* (Traktat über den Nutzen Christi).
+*   **1559** - *Valdensium confessio et apologia fidei ad Vladislaum regem Ungariae* (Bekenntnis und Apologie des Glaubens der Waldenser an König Wladislaw von Ungarn).
+*   **1559** - *Varia doctorum piorumque virorum de corrupto ecclesiae statu poemata* (Verschiedene Gedichte gelehrter und frommer Männer über den korrupten Zustand der Kirche).
+*   **1559** - *Viridarii somnium de potestate Papae et principum saecularium* (Traum des Viridarium über die Macht des Papstes und der weltlichen Fürsten).
+*   **1559** - *Visitatio Saxonica* (Sächsische Visitation).
+*   **1559** - *Vitae patrum cum praefatione Martini Lutheri* (Leben der Väter mit Vorwort von Martin Luther).
+*   **1559** - *Vita et gesta Hildebrandi* (Leben und Taten Hildebrands).
+*   **1559** - *Vitae Pont. Rom. Witenberg. impressae* (Leben der römischen Päpste, in Wittenberg gedruckt).
+*   **1559** - *Un brieve modo, qual dee tenere ciascun padre* (Eine kurze Art und Weise, wie jeder Vater sich verhalten soll).
+*   **1559** - *Unio dissidentium tripartita* (Dreigeteilte Einigung der Widersprechenden).
+*   **1559** - *Universitatis Wittembergensis seria actio apud Principem Fridericum* (Ernsthafte Handlung der Universität Wittenberg vor Fürst Friedrich).
+*   **1559** - *Acaescimiento o comedia llamada Orphea, dirigida al muy illustre y assi magnifico señor don Pedro de Arellano, conde de Aguilar* (Begebenheit oder Komödie namens Orphea, dem sehr illustren und so prächtigen Herrn Don Pedro de Arellano, Graf von Aguilar, gewidmet).
+*   **1559** - *Los deze ayuntamientos de los apostoles* (Die zwölf Versammlungen der Apostel).
+*   **1559** - *Los tres capitulos del Apocalypsi en Romance* (Die drei Kapitel der Apokalypse in Romanze).
+*   **1559** - *Aviso breve para recebir la comunion amenudo, traduzido de Toscano por el maestro Bernardino* (Kurze Anweisung zum häufigen Empfang der Kommunion, aus dem Toskanischen übersetzt vom Meister Bernardino).
+*   **1559** - *Belial procurador de Lucifer contra Moysen procurador de Jesu Christo* (Belial, Ankläger Luzifers, gegen Moses, Ankläger Jesu Christi).
+*   **1559** - *Biblia en nuestro vulgar o en otro qualquier traduzido en todo o en parte, como no este en Hebraico, Chaldeo, Griego o Latin* (Bibel in unserer Volkssprache oder einer anderen, ganz oder teilweise übersetzt, sofern nicht in Hebräisch, Chaldäisch, Griechisch oder Latein).
+*   **1559** - *Breve y compendiosa instruction de la religion christiana en nuestro vulgar Castellano, impressa en Flandes o en Alemania o en otra qualquier parte. Con otro libro intitulado: De la libertad christiana* (Kurze und umfassende Unterweisung in der christlichen Religion in unserer kastilischen Volkssprache, gedruckt in Flandern oder Deutschland oder anderswo. Mit einem weiteren Buch mit dem Titel: Über die christliche Freiheit).
+*   **1559** - *Carta embiada a nuestro augustissimo señor principe don Phelippe, Rey de España, sin nombre de autor ni impressor* (Brief an unseren allererhabendsten Herrn Prinz Don Phelippe, König von Spanien, ohne Namen des Autors oder Druckers).
+*   **1559** - *Cavalleria celestial, por otro nombre el pie de la rosa fragante, prima y segunda parte* (Himmlische Ritterschaft, auch der Fuß der duftenden Rose genannt, erster und zweiter Teil).
+*   **1559** - *Catholica impugnacion del heretico libello, que en el año pasado de 1480 años fue divulgado en la ciudad de Sevilla, hecha por el licenciado fray Hernando de Talavera, obispo de Avila, prior que fue de nuestra Señora de Prado* (Katholische Widerlegung des häretischen Büchleins, das im vergangenen Jahr 1480 in der Stadt Sevilla verbreitet wurde, verfasst vom Lizentiaten Fray Hernando de Talavera, Bischof von Avila, ehemals Prior unserer Lieben Frau von Prado).
+*   **1559** - *Commentario breve o declaracion compendiosa sobre la epistola de Sant Pablo a los Romanos, impressa en Venecia por Juan Philadelfo año de 1556, compuesta por Juan Valdes* (Kurzer Kommentar oder umfassende Erklärung des Paulusbriefes an die Römer, gedruckt in Venedig von Juan Philadelfo im Jahr 1556, verfasst von Juan Valdés).
+*   **1559** - *Commentario en Romance sobre la epistola primera de Sant Pablo ad Corinthios, traduzida de Griego en Romance, sin autor ni impressor* (Kommentar in Romanze zum ersten Paulusbrief an die Korinther, aus dem Griechischen in Romanze übersetzt, ohne Autor oder Drucker).
+*   **1559** - *Confessionario o manera de confessar, de Erasmo, en Romance* (Beichtbuch oder Art zu beichten, von Erasmus, in Romanze).
+*   **1559** - *Colloquios de Erasmo, en Romance y en otra qualquier lengua vulgar* (Kolloquien des Erasmus, in Romanze und jeder anderen Volkssprache).
+*   **1559** - *Combite gracioso de las gracias del sancto sacramento* (Anmutiges Fest der Gnaden des heiligen Sakraments).
+*   **1559** - *Contemplaciones del Idiota, en qualquier lengua vulgar* (Kontemplationen des Idioten, in jeder Volkssprache).
+*   **1559** - *Comedia llamada Jacinta, compuesta e impressa con una epistola familiar* (Komödie namens Jacinta, verfasst und gedruckt mit einem Familienbrief).
+*   **1559** - *Comedia llamada Aquilana, hecha por Bartolome de Torres Naharro* (Komödie namens Aquilana, verfasst von Bartolome de Torres Naharro).
+*   **1559** - *Comedia llamada Thesorina, hecha nuevamente por Jayme de Huete* (Komödie namens Thesorina, neu verfasst von Jayme de Huete).
+*   **1559** - *Comedia llamada Tidea, compuesta por Francisco de las Natas* (Komödie namens Tidea, verfasst von Francisco de las Natas).
+*   **1559** - *Colloquio de damas* (Kolloquium der Damen).
+*   **1559** - *Circe de Juan Baptista, en qualquier lengua vulgar* (Circe von Juan Baptista, in jeder Volkssprache).
+*   **1559** - *Chronica de Joan Carrion, en Romance o otra qualquier lengua vulgar* (Chronik von Joan Carrion, in Romanze oder jeder anderen Volkssprache).
+*   **1559** - *Christiados Hieronymi Vidae, en Romance o en otra lengua vulgar* (Christiados des Hieronymus Vida, in Romanze oder einer anderen Volkssprache).
+*   **1559** - *Dialogo de Mercurio y Charon, en qualquier lengua* (Dialog von Merkur und Charon, in jeder Sprache).
+*   **1559** - *Dialogo de doctrina christiana, compuesto nuevamente por un cierto religioso, sin nombre de autor* (Dialog über christliche Lehre, neu verfasst von einem gewissen Ordensmann, ohne Angabe des Autors).
+*   **1559** - *Dionysio Richel Cartuxano de los quatro postrimeros trances, en Romance, traduzido por un religioso de la orden de la Carthuxa* (Dionysius Richelius von den Kartäuserordensmännern, über die vier letzten Zustände, in Romanze, übersetzt von einem Ordensmann der Kartäuserordens).
+*   **1559** - *Dialogos de la union del anima con Dios, en Toscano y en otra qualquier lengua* (Dialoge über die Vereinigung der Seele mit Gott, auf Toskanisch und in jeder anderen Sprache).
+*   **1559** - *Despertador del alma* (Der Seelenwecker).
+*   **1559** - *Egloga nuevamente trobada por Juan del Enzina, en la qual se introduzen dos enamorados, llamados Placido y Victoriano* (Ekloge, neu gefunden von Juan del Enzina, in der zwei Verliebte, Placido und Victoriano genannt, eingeführt werden).
+*   **1559** - *El recogimiento de las figuras communes de la sagrada Escriptura* (Die Sammlung der allgemeinen Figuren der Heiligen Schrift).
+*   **1559** - *Enquiridion del cavallero christiano de Erasmo, en Romance y en Latin o en otra qualquier lengua* (Handbuch des christlichen Ritters von Erasmus, in Romanze und Latein oder jeder anderen Sprache).
+*   **1559** - *Exposicion del Pater noster de Erasmo* (Auslegung des Vaterunsers von Erasmus).
+*   **1559** - *Exposicion del psalmo Beatus vir, literal y moral, de Erasmo* (Auslegung des Psalms Beatus vir, wörtlich und moralisch, von Erasmus).
+*   **1559** - *Exposicion sobre el psalmo Miserere mei Deus, y Cum invocarem, del mismo Erasmo* (Auslegung des Psalms Miserere mei Deus, und Cum invocarem, von demselben Erasmus).
+*   **1559** - *Farsa llamada Custodia* (Farce namens Custodia).
+*   **1559** - *Farsa llamada Josephina* (Farce namens Josephina).
+*   **1559** - *Farsa de dos enamorados* (Farce von zwei Verliebten).
+*   **1559** - *Fasciculus myrrhae en Romance* (Myrrhenbündel in Romanze).
+*   **1559** - *Flos sanctorum, impresso en Zaragoça año de 1558* (Blumen der Heiligen, gedruckt in Saragossa im Jahr 1558).
+*   **1559** - *Flores Romanas, sin nombre de autor* (Römische Blumen, ohne Namen des Autors).
+*   **1559** - *Genesi en Toscano, traduzido por Pietro Aretino* (Genesis auf Toskanisch, übersetzt von Pietro Aretino).
+*   **1559** - *Genesis Alphonsi* (Genesis von Alphonsus).
+*   **1559** - *Glosa nuevamente hecha por Baltasar Diaz, con el romance que dize: Retrayda esta la infanta* (Glosse, neu verfasst von Baltasar Diaz, mit der Romanze, die sagt: Die Infantin ist zurückgezogen).
+*   **1559** - *Harpa de David en vulgar* (Davids Harfe in Volkssprache).
+*   **1559** - *Mandan se quitar las Horas siguientes, porque contienen muchas cosas curiosas y supersticiosas (sino estuvieren corregidas legitimamente)* (Es wird befohlen, die folgenden Stundenbücher zu entfernen, weil sie viele kuriose und abergläubische Dinge enthalten (sofern sie nicht rechtmäßig korrigiert wurden)).
+*   **1559** - *Horas Romanas en Romance, impressas en Paris por Gulielmo Merlin del año de 1551 y el año de 1554* (Römische Stundenbücher in Romanze, gedruckt in Paris von Guillaume Merlin im Jahr 1551 und im Jahr 1554).
+*   **1559** - *Ho. Ro. en Romance, Paris por Joan Amaseur y Gulielmo Merlin del año de 1546* (Römische Stundenbücher in Romanze, Paris, von Joan Amaseur und Guillaume Merlin im Jahr 1546).
+*   **1559** - *Ho. Ro. en Romance, por Joan de Brie en Paris año de 1544 y 1547* (Römische Stundenbücher in Romanze, von Joan de Brie in Paris im Jahr 1544 und 1547).
+*   **1559** - *Ho. Ro. en Romance, Paris por Simon año de 1509* (Römische Stundenbücher in Romanze, Paris, von Simon im Jahr 1509).
+*   **1559** - *Ho. Ro. en Romance, en Sevilla por Joan Cromberger anno de 1528 y 1538* (Römische Stundenbücher in Romanze, in Sevilla von Joan Cromberger in den Jahren 1528 und 1538).
+*   **1559** - *Ho. Ro. en Romance, en Sevilla por Jacobo Cromberger año de 1542 y 1550* (Römische Stundenbücher in Romanze, in Sevilla von Jacobo Cromberger in den Jahren 1542 und 1550).
+*   **1559** - *Ho. Ro. en Romance, en Sevilla por Dominico de Robertis año de 1541 y 1550* (Römische Stundenbücher in Romanze, in Sevilla von Dominico de Robertis in den Jahren 1541 und 1550).
+*   **1559** - *Ho. Ro. en Romance, en Sevilla por Joan Varela año de 1531 y 1539* (Römische Stundenbücher in Romanze, in Sevilla von Joan Varela in den Jahren 1531 und 1539).
+*   **1559** - *Ho. Ro. en Romance, en Sevilla por Gregorio de la Torre año de 1556* (Römische Stundenbücher in Romanze, in Sevilla von Gregorio de la Torre im Jahr 1556).
+*   **1559** - *Ho. Ro. en Romance, Zaragoça por Pedro Bernuz y Bartholome de Nagera, año de 1542, 1547, 1552, 1554, 1556* (Römische Stundenbücher in Romanze, Saragossa, von Pedro Bernuz und Bartholome de Nagera, in den Jahren 1542, 1547, 1552, 1554, 1556).
+*   **1559** - *Ho. Ro. en Romance, en Lion de Francia por Mathias Bonhomme año de 1551 de dos impressiones* (Römische Stundenbücher in Romanze, in Lyon von Mathias Bonhomme im Jahr 1551 in zwei Ausgaben).
+*   **1559** - *Ho. Ro. en Romance, en Lion de Francia por Joan Fradin año de 1555* (Römische Stundenbücher in Romanze, in Lyon von Joan Fradin im Jahr 1555).
+*   **1559** - *Ho. Ro. en Romance, en Burgos por Alonso de Melgar año de 1519* (Römische Stundenbücher in Romanze, in Burgos von Alonso de Melgar im Jahr 1519).
+*   **1559** - *Ho. Ro. en Romance, por Juan de Junta en Salamanca año de 1542 y 1551* (Römische Stundenbücher in Romanze, von Juan de Junta in Salamanca in den Jahren 1542 und 1551).
+*   **1559** - *Ho. Ro. en Romance, en Toledo por Joan Varela anno de 1512* (Römische Stundenbücher in Romanze, in Toledo von Joan Varela im Jahr 1512).
+*   **1559** - *Ho. Ro. en Romance, en Medina del Campo por Pedro de Castro año de 1548 y 1553* (Römische Stundenbücher in Romanze, in Medina del Campo von Pedro de Castro in den Jahren 1548 und 1553).
+*   **1559** - *Ho. Ro. en Romance, en Medina del Campo por Matheo y Francisco del Canto hermanos año de 1553* (Römische Stundenbücher in Romanze, in Medina del Campo von Matheo und Francisco del Canto, Brüder, im Jahr 1553).
+*   **1559** - *Ho. Ro. en Romance, en Medina del Campo por Matheo del Canto año de 1556* (Römische Stundenbücher in Romanze, in Medina del Campo von Matheo del Canto im Jahr 1556).
+*   **1559** - *Ho. Ro. en Romance, en Medina del Campo por Jacobo de Millis año de 1557* (Römische Stundenbücher in Romanze, in Medina del Campo von Jacobo de Millis im Jahr 1557).
+*   **1559** - *Ho. Ro. en Romance, en Stella por Miguel de Guia año de 1548* (Römische Stundenbücher in Romanze, in Estella von Miguel de Guia im Jahr 1548).
+*   **1559** - *Ho. Ro. en Romance, en Lisbona por Luys Rodriguez año de 1540* (Römische Stundenbücher in Romanze, in Lissabon von Luys Rodriguez im Jahr 1540).
+*   **1559** - *Ho. Ro. en Romance sin nombre de impressor, ni donde, ni quando* (Römische Stundenbücher in Romanze ohne Namen des Druckers, Ort oder Zeitpunkt).
+*   **1559** - *Imagen del Antechristo, compuesta primeramente en Italiano y despues traduzida en Romance por Alonso de Peña fuerte* (Bild des Antichristen, zuerst auf Italienisch verfasst und dann ins Romanische übersetzt von Alonso de Peñafuerte).
+*   **1559** - *Institucion de la religion christiana en Romance, impressa en Wittemberg año de 1536 sin nombre del autor* (Institution der christlichen Religion in Romanze, gedruckt in Wittenberg im Jahr 1536 ohne Namen des Autors).
+*   **1559** - *Instituciones de Thaulero, en Romance* (Institutionen von Tauler, in Romanze).
+*   **1559** - *Jubileo de plenissima remission de peccados, concedido antiguamente: y en el fin del dize: Dado en la corte celestial del parayso desde el origen del mundo, con previlegio eterno, firmado y sellado con la sangre del unigenito hijo de Dios, Jesu Christo, nuestro unico y verdadero redemptor y señor* (Jubiläum der vollkommensten Sündenvergebung, altgewährt: und am Ende heißt es: Gegeben im himmlischen Hof des Paradieses seit dem Ursprung der Welt, mit ewigem Privileg, unterzeichnet und besiegelt mit dem Blut des eingeborenen Sohnes Gottes, Jesus Christus, unseres einzigen und wahren Erlösers und Herrn).
+*   **1559** - *Itinerario de la oracion en Romance* (Gebets-Reiseführer in Romanze).
+*   **1559** - *Las lamentationes de Pedro* (Die Klagelieder des Petrus).
+*   **1559** - *Lectiones de Job en metro de romance* (Lesungen aus Hiob in Romanzenversen).
+*   **1559** - *Leche de la fee* (Milch des Glaubens).
+*   **1559** - *Libro impresso en Romance, en el qual se prohibe que ninguno de consejo a otro que no se case ni sea sacerdote ni entre en religion ni se arcte a consejo de nadie, sino que sigua en ello - su propia inclinacion* (Buch, gedruckt in Romanze, in dem verboten wird, dass niemand anderem raten soll, nicht zu heiraten, oder Priester zu werden, oder in ein Kloster einzutreten, noch soll jemand durch den Rat eines anderen eingeschränkt werden, sondern seiner eigenen Neigung folgen).
+*   **1559** - *Libro en Romance de mano o impresso, que comiença: En este tractadillo se tractan cinco cosas substanciales* (Buch in Romanze, handschriftlich oder gedruckt, das beginnt: In diesem Traktätlein werden fünf wesentliche Dinge behandelt).
+*   **1559** - *Libros en Romance, que no tengan titulo o que no tengan el nombre del autor o del impressor o de lugar, a donde fueron impressos* (Bücher in Romanze, die keinen Titel haben oder keinen Namen des Autors oder Druckers oder keinen Ort, wo sie gedruckt wurden).
+*   **1559** - *Luzero de la vida christiana* (Leuchtstern des christlichen Lebens).
+*   **1559** - *Libro que se intitula: Tractado en que se contienen las gracias y indulgencias concedidas a los que devotamente son acostumbrados a oyr missa* (Buch mit dem Titel: Traktat, in dem die Gnaden und Ablässe enthalten sind, die denjenigen gewährt werden, die gewohnheitsmäßig andächtig die Messe hören).
+*   **1559** - *Manipulus curatorum en Romance* (Manipulus Curatorum in Romanze).
+*   **1559** - *Manera de orar de Erasmo, en Romance y en Latin y en otra qualquier lengua vulgar* (Gebetsweise des Erasmus, in Romanze und Latein und jeder anderen Volkssprache).
+*   **1559** - *Manual de doctrina christiana, el qual esta impresso en principio de unas Horas de nuestra señora en Romance, impressas en Medina del Campo por Matheo del Canto año de 1556, o de otra qualquier impression o en otra qualquier parte que este* (Handbuch der christlichen Lehre, das am Anfang einiger Stundenbücher unserer Lieben Frau in Romanze gedruckt ist, gedruckt in Medina del Campo von Matheo del Canto im Jahr 1556, oder in jeder anderen Auflage oder an jedem anderen Ort).
+*   **1559** - *Medicina del anima, assi para sanos como para enfermos, traduzida de Latin en Romance* (Medizin der Seele, sowohl für Gesunde als auch für Kranke, aus dem Lateinischen in Romanze übersetzt).
+*   **1559** - *Obra cuyo titulo es: Obra muy provechosa, como se alcança la gracia divina, compuesta por Hieronymo Sirtuo* (Werk, dessen Titel ist: Sehr nützliches Werk, wie man die göttliche Gnade erlangt, verfasst von Hieronymo Sirtuo).
+*   **1559** - *Obra impressa en Valladolid por maestro Nicolas Tierry año de 1528 en Romance* (Werk, gedruckt in Valladolid von Meister Nicolas Tierry im Jahr 1528 in Romanze).
+*   **1559** - *Obras de burlas, que estan en el Cancioneiro general, en lo que toca a devocion y cosas christianas y de sagrada Escriptura* (Werke des Spaßes, die im allgemeinen Liedbuch stehen, in Bezug auf Andacht und christliche Dinge und die Heilige Schrift).
+*   **1559** - *Obras que se escrivieron contra la dieta imperial, celebrada por su Magestad en Ratisbona año de 1541, assi en verso como en prosa y en qualquier lengua vulgar* (Werke, die gegen den kaiserlichen Reichstag, von seiner Majestät in Regensburg im Jahr 1541 abgehalten, geschrieben wurden, sowohl in Versen als auch in Prosa und in jeder Volkssprache).
+*   **1559** - *Oracion de los angeles, por si pequeña* (Gebet der Engel, für sich klein).
+*   **1559** - *Oracion de la Emparedada en Romance* (Gebet der Eingemauerten in Romanze).
+*   **1559** - *Oracion de Sant Leon Papa en Romance* (Gebet des Heiligen Papst Leo in Romanze).
+*   **1559** - *Oracion del testamento de Jesu Christo* (Gebet des Testaments Jesu Christi).
+*   **1559** - *Oracion de Sancta Marina, por si pequeña* (Gebet der Heiligen Marina, für sich klein).
+*   **1559** - *Oracion de Sant Cyprian, por si pequeña* (Gebet des Heiligen Cyprian, für sich klein).
+*   **1559** - *Oracion de Sant Pedro* (Gebet des Heiligen Petrus).
+*   **1559** - *Oracion del Conde* (Gebet des Grafen).
+*   **1559** - *Oracion de Sant Christoval, por si pequeña* (Gebet des Heiligen Christophorus, für sich klein).
+*   **1559** - *Oracion del justo juez, en quanto dize, despues del mundo redimido* (Gebet des gerechten Richters, insofern es sagt, nach der Erlösung der Welt).
+*   **1559** - *Obra spiritual de don Juan del Bene Verones, en qualquier lengua vulgar* (Geistliches Werk des Don Juan del Bene Verones, in jeder Volkssprache).
+*   **1559** - *Paraclesis o exortacion de Erasmo* (Paraklese oder Ermahnung des Erasmus).
+*   **1559** - *Paradoxas o sentencias fuera del comun parecer, traduzidas de Italiano en Castellano* (Paradoxe oder Sätze außerhalb der allgemeinen Meinung, aus dem Italienischen ins Kastilische übersetzt).
+*   **1559** - *Perla preciosa* (Kostbare Perle).
+*   **1559** - *Peregrino y Ginebra* (Pilger und Genf).
+*   **1559** - *Proverbios de Salomon, espejo de peccadores* (Sprüche Salomos, Spiegel der Sünder).
+*   **1559** - *Preguntas del Emperador al infante Epitus* (Fragen des Kaisers an den Infanten Epitus).
+*   **1559** - *Psalmos de David en Romance, con sus summarios, traduzidos por el Doctor Joan Perez, impressos en Venecia en casa de Pedro Daniel año de 1557* (Psalmen Davids in Romanze, mit ihren Zusammenfassungen, übersetzt vom Doktor Joan Perez, gedruckt in Venedig im Haus von Pedro Daniel im Jahr 1557).
+*   **1559** - *Psalterio de Raynerio, en Romance* (Psalter von Raynerius, in Romanze).
+*   **1559** - *Psalmos penitenciales y el Canticum grado y las Lamentaciones, romançadas por el maestro Jarava* (Bußpsalmen und das Canticum Graduum und die Klagelieder, in Romanze übersetzt vom Meister Jarava).
+*   **1559** - *Psalmos de Roffense, en Romance* (Psalmen von Roffensis, in Romanze).
+*   **1559** - *Querella de paz de Erasmo, en Romance* (Streit um den Frieden des Erasmus, in Romanze).
+*   **1559** - *Revelacion de Sant Pablo* (Offenbarung des Heiligen Paulus).
+*   **1559** - *Rosa fragante, sin nombre de autor, assi el pie como las hojas, que son dos cuerpos* (Duftende Rose, ohne Angabe des Autors, sowohl der Fuß als auch die Blätter, die zwei Körper sind).
+*   **1559** - *Rosario de nuestra señora en Romance* (Rosenkranz unserer Lieben Frau in Romanze).
+*   **1559** - *Romances sacados al pie de la letra del evangelio. El primero, la resurrection de Lazaro. El segundo, el juyzio de Salomon sobre las dos mugeres que pedian el niño. El tercero, del hijo prodigo, y un romance de la natividad de nuestro señor Jesu Christo* (Romanzen, wörtlich aus dem Evangelium genommen. Die erste, die Auferstehung des Lazarus. Die zweite, das Urteil Salomos über die zwei Frauen, die das Kind forderten. Die dritte, vom verlorenen Sohn, und eine Romanze von der Geburt unseres Herrn Jesus Christus).
+*   **1559** - *Sermon de la misericordia de Dios, de Erasmo* (Predigt über die Barmherzigkeit Gottes, von Erasmus).
+*   **1559** - *Silenos, de Erasmo* (Silenos, von Erasmus).
+*   **1559** - *Summario de doctrina christiana, compuesto por el Doctor Juan Perez, impresso en Venecia por Pedro Daniel* (Summarium der christlichen Lehre, verfasst vom Doktor Juan Perez, gedruckt in Venedig von Pedro Daniel).
+*   **1559** - *Summa Gayetana, en Romance* (Summa Gayetana, in Romanze).
+*   **1559** - *Testamento nuevo en qualquier lengua vulgar, y en especial los Testamentos impressos en Venecia en casa de Joan Philadelfo año de 1556 sin nombre del traductor* (Neues Testament in jeder Volkssprache, und insbesondere die Testamente, gedruckt in Venedig im Haus von Joan Philadelfo im Jahr 1556 ohne Namen des Übersetzers).
+*   **1559** - *Testamentos de nuestro señor, pequeños por si* (Testamente unseres Herrn, für sich klein).
+*   **1559** - *Thesoro de los angeles* (Schatz der Engel).
+*   **1559** - *Tractado cuyo titulo es: Tractado utilissimo del beneficio de Jesu Christo, en qualquier lengua* (Traktat, dessen Titel ist: Sehr nützlicher Traktat über den Nutzen Jesu Christi, in jeder Sprache).
+*   **1559** - *Tractado de la vida de Jesu Christo, con los mysterios del rosario, en metro, y el rosario de nuestra señora en Romance* (Traktat über das Leben Jesu Christi, mit den Mysterien des Rosenkranzes, in Versen, und der Rosenkranz unserer Lieben Frau in Romanze).
+*   **1559** - *Vergel de nuestra Señora* (Garten unserer Lieben Frau).
+*   **1559** - *Via spiritus* (Der Weg des Geistes).
+*   **1559** - *Vida de nuestra señora en prosa y en verso* (Leben unserer Lieben Frau in Prosa und Versen).
+*   **1559** - *Vitas patrum en Romance* (Leben der Väter in Romanze).
+*   **1559** - *Viuda christiana de Erasmo* (Christliche Witwe des Erasmus).
+*   **1559** - *Violeta del anima* (Veilchen der Seele).
+*   **1559** - *Ludi teutonici rithmice conscripti et Gandavi exhibiti, super hac questione: Quod sit homini morienti maximum solatium* (Deutsche Spiele in Reimen verfasst und in Gent aufgeführt, zu dieser Frage: Was ist dem sterbenden Menschen der größte Trost).
+*   **1559** - *Vom waren erkenntnus Gottes, Gasparis Uberini, impresso Wittemberg 1541, que comiença: Den durchleuchtigen etc.* (Von der wahren Erkenntnis Gottes, von Caspar Huberinus, gedruckt Wittenberg 1541, beginnend: Den durchleuchtigen etc.).
+*   **1559** - *Vom zorn und der gute Gottes, Gasparis Uberini, Wittemberg 1542* (Vom Zorn und der Güte Gottes, von Caspar Huberinus, Wittenberg 1542).
+*   **1559** - *Wie man den sterbenden trosten soll, Witemberg 1542* (Wie man den Sterbenden trösten soll, Wittenberg 1542).
+*   **1559** - *Enchiridion gheystlicher liedern und psalmen von nieu ghebessert Martini Lutheri, mit einen nieu kalender schoen togerustet, Getruct zo Magdeburg* (Handbuch geistlicher Lieder und Psalmen, neu verbessert von Martin Luther, mit einem neuen Kalender schön ausgestattet, gedruckt zu Magdeburg).
+*   **1559** - *Eine christliche vermanung an alle stonde etc. durch Doctor Jhoan Carrion* (Eine christliche Ermahnung zu jeder Stunde etc. durch Doktor Johann Carion).
+*   **1559** - *Enchiridion de kleyne catechismus Jhoan Brentii, in fraghen ghestelet* (Handbuch, der kleine Katechismus von Johann Brenz, in Fragen gestellt).
+*   **1559** - *Evangelia und episteln, so durch das gantze jar des sondages und vornemesten festendages, mit den summarien. Getruct tho Magdeburg im jar 1549* (Evangelien und Episteln, die durch das ganze Jahr am Sonntag und an den vornehmsten Festtagen, mit den Summaria. Gedruckt zu Magdeburg im Jahr 1549).
+*   **1559** - *Historia des lidendes unde der etc. dor Doctor Joannem Bugenhagen* (Geschichte des Leidens und der etc. durch Doktor Johannes Bugenhagen).
+*   **1559** - *Eine christliche vermanung dor Doctor Jhoan Carrion off die verstoringe. Getructet durch Hans Walter tho Magdeburg* (Eine christliche Ermahnung durch Doktor Johann Carion oder die Zerstörung. Gedruckt von Hans Walter zu Magdeburg).
+*   **1559** - *Exposicion du symbole y articlos de la foy, par dialogues* (Auslegung des Symbols und der Glaubensartikel, durch Dialoge).
+*   **1559** - *O auto de don Duardos, que non tiver censura como foy emendado y visto por mim* (Das Auto von Don Duardos, das keine Zensur hatte, wie es von mir korrigiert und geprüft wurde).
+*   **1559** - *O auto de Lusitania com os diabos, sem elles poderse ha emprimir* (Das Auto von Lusitania mit den Teufeln, ohne sie kann es gedruckt werden).
+*   **1559** - *O auto de pedreanes, por causa das matinas* (Das Auto von Pedreanes, wegen der Matutin).
+*   **1559** - *O auto do jubileu damores* (Das Auto des Liebesjubiläums).
+*   **1559** - *O auto da aderencia do paço* (Das Auto der Hofzugehörigkeit).
+*   **1559** - *O auto da vida do paço* (Das Auto des Hoflebens).
+*   **1559** - *O auto dos fisicos* (Das Auto der Physiker).
+*   **1559** - *Coplas da burra* (Die Couplets des Esels).
+*   **1559** - *O testamento de Christo em lingoajem* (Das Testament Christi in Volkssprache).
+*   **1559** - *Thesouro dos autos espanhoes* (Schatz der spanischen Autos).
+*   **1559** - *Tractado dos estados ecclesiasticos e seculares, autor Diego de Saa* (Traktat über die kirchlichen und weltlichen Stände, Autor Diego de Saa).
+*   **1559** - *Ulysipo, comedia* (Ulysipo, Komödie).
+*   **1561** - *Acta in conventu Ratisponensi* (Akten der Regensburger Versammlung).
+*   **1561** - *Acta cum protestantibus Francoforti* (Akten mit den Protestanten in Frankfurt).
+*   **1561** - *Acta Nurembergae vz Osiandrismus* (Akten von Nürnberg, nämlich Osiandrismus).
+*   **1561** - *Acta synodi Bernen.* (Akten der Berner Synode).
+*   **1561** - *Actiones duae Secretarii Pontificii* (Zwei Handlungen des päpstlichen Sekretärs).
+*   **1561** - *Admonitio ministrorum verbi Argentinensium* (Ermahnung der Straßburger Wortdiener).
+*   **1561** - *Aequitatis discussio super consilio delectorum Cardinalium etc.* (Erörterung der Billigkeit über den Ratschlag der auserwählten Kardinäle etc.).
+*   **1561** - *Alchimia purgatorii* (Alchemie des Fegefeuers).
+*   **1561** - *Alchoranus Franciscanorum* (Koran der Franziskaner).
+*   **1561** - *Alchoranus Mahometis, Basileae impressus* (Koran Mohammeds, in Basel gedruckt).
+*   **1561** - *Alphabetum christianum* (Christliches Alphabet).
+*   **1561** - *Amica et humilis et devota admonitio* (Freundliche, demütige und fromme Ermahnung).
+*   **1561** - *Anatomia excusa Marpurgii per Eucharium Cervicornum* (Anatomie, in Marburg von Eucharius Cervicornus gedruckt).
+*   **1561** - *Anatomia della messa* (Anatomie der Messe).
+*   **1561** - *Annotationes in acta concilii Tridentini* (Anmerkungen zu den Akten des Tridentiner Konzils).
+*   **1561** - *Annotationes in chronica Ab. Ursperg.* (Anmerkungen zu den Chroniken des Abtes Ursperg).
+*   **1561** - *Anonymi cujusdam liber de repugnantia doctrinae christianae* (Buch eines gewissen Anonymus über den Widerspruch der christlichen Lehre).
+*   **1561** - *Apologia confessionis Augustanae* (Apologie des Augsburger Bekenntnisses).
+*   **1561** - *Apologia de doctrina Valdensium* (Apologie der Lehre der Waldenser).
+*   **1561** - *Apologia contra Henricum Ducem* (Apologie gegen Herzog Heinrich).
+*   **1561** - *Apologia Graecorum de igne purgatorio* (Apologie der Griechen über das Fegefeuer).
+*   **1561** - *Argyrophilacis seu Thesaurarii epist.* (Brief des Argyrophylax oder Thesaurarius).
+*   **1561** - *Articuli Anabaptistarum Saxon.* (Artikel der sächsischen Wiedertäufer).
+*   **1561** - *Articuli Anabaptistarum Moraviae* (Artikel der mährischen Wiedertäufer).
+*   **1561** - *Articuli a facultate theologica Parisiens. determinati super materiis fidei nostrae hodie controversis, cum antidoto* (Artikel, von der theologischen Fakultät in Paris bestimmt über die heutigen Glaubensstreitigkeiten, mit Antidot).
+*   **1561** - *Articuli novorum Wormatiae evang.* (Artikel der neuen Wormser Evangelisten).
+*   **1561** - *Articuli XLVII plebis Francfordien.* (47 Artikel des Frankfurter Volkes).
+*   **1561** - *Augustanae confessionis ecclesiarum causae, quare et amplexae sint et retinendam ducant suam doctrinam* (Gründe der Kirchen des Augsburger Bekenntnisses, warum sie ihre Lehre angenommen und für beizubehalten halten).
+*   **1561** - *Belial sive de consolatione peccatorum* (Belial oder über den Trost der Sünder).
+*   **1561** - *Beneficium Christi* (Nutzen Christi).
+*   **1561** - *Bernensis disputatio* (Berner Disputation).
+*   **1561** - *Bernensis reformatio contra missam* (Berner Reformation gegen die Messe).
+*   **1561** - *Brevis et compendiosa instructio de religione christiana* (Kurze und umfassende Unterweisung über die christliche Religion).
+*   **1561** - *Brevis tractatus ad omnes in christianam libertatem malevolos* (Kurze Abhandlung an alle, die der christlichen Freiheit feindlich gesinnt sind).
+*   **1561** - *Brevis pastorum isagoge* (Kurze Einleitung der Hirten).
+*   **1561** - *Capita fidei christianae contra Papam et portas inferorum* (Hauptartikel des christlichen Glaubens gegen den Papst und die Pforten der Hölle).
+*   **1561** - *Capo finto* (Falsches Haupt).
+*   **1561** - *Carontis et Mercurii dialogi* (Dialoge des Charon und Merkur).
+*   **1561** - *Catalogus Papae et Mosis* (Katalog des Papstes und des Mose).
+*   **1561** - *Catalogus testium veritatis ex sanctis patribus* (Katalog der Zeugen der Wahrheit aus den heiligen Vätern).
+*   **1561** - *Cathechismus ecclesiae Argentoratensis* (Katechismus der Straßburger Kirche).
+*   **1561** - *Cathechismus Tubicen.* (Tübinger Katechismus).
+*   **1561** - *Cathechismus pro ecclesia Wirtemb.* (Katechismus für die Wittenberger Kirche).
+*   **1561** - *Cathechismus cui titulus: Qual maniera.* (Katechismus mit dem Titel: Welche Art.).
+*   **1561** - *Cathechismus major et minor* (Großer und kleiner Katechismus).
+*   **1561** - *Cathechismo, cioe formulario per instituire et ammaestrare i fanciulli nella religione christiana, fatto a modo di dialogo* (Katechismus, das heißt Formular zur Unterweisung und Belehrung der Kinder in der christlichen Religion, in Dialogform verfasst).
+*   **1561** - *Cathechismus parvus pro pueris in scholis nuper auctus* (Kleiner Katechismus für Kinder in Schulen, kürzlich erweitert).
+*   **1561** - *Cathechismus super evangelium Marci* (Katechismus zum Markusevangelium).
+*   **1561** - *Cathechismus sive symboli expositio* (Katechismus oder Symbolauslegung).
+*   **1561** - *Cathechismus sive explicatio symboli apost.* (Katechismus oder Erklärung des Apostolischen Glaubensbekenntnisses).
+*   **1561** - *Cathechesis puerorum in fide, literis et moribus* (Katechese für Kinder im Glauben, in Buchstaben und Sitten).
+*   **1561** - *Causae quare synodum indictam a Rom. Pont. Pau. III. recusarint principes, status et civitates Imperii profitentes puram et catholicam doctrinam* (Gründe, warum die Fürsten, Stände und Städte des Reiches, die die reine und katholische Lehre bekennen, die von Papst Paul III. einberufene Synode abgelehnt haben).
+*   **1561** - *Centum et quatuordecim sententiae patrum de officio verorum rectorum Ecclesiae* (Hundertvierzehn Sätze der Väter über das Amt der wahren Kirchenvorsteher).
+*   **1561** - *Centum gravamina etc.* (Hundert Beschwerden etc.).
+*   **1561** - *Christiana institutio* (Christliche Unterweisung).
+*   **1561** - *Christianae scholae epigrammatum libri duo ex variis christianis poetis decerpti* (Zwei Bücher von Epigrammen der christlichen Schule, aus verschiedenen christlichen Dichtern ausgewählt).
+*   **1561** - *Christianae juventutis crepundia* (Spielzeug der christlichen Jugend).
+*   **1561** - *Christiana responsio ministrorum evangelii Basileae, cur missam etc.* (Christliche Antwort der Basler Evangeliumsdiener, warum die Messe etc.).
+*   **1561** - *Civitatis Magdeburgen. publicatio literarum ad omnes Christifideles, anno M.D.L.* (Veröffentlichung von Schriften der Stadt Magdeburg an alle Christgläubigen, im Jahr 1550).
+*   **1561** - *Clavicula Salomonis* (Schlüssel Salomos).
+*   **1561** - *Collatio divinorum et papalium canonum* (Vergleichung der göttlichen und päpstlichen Kanones).
+*   **1561** - *Collectanea demonstrationum ex prophetis, apostolis et doctoribus ecclesiae, quod Spiritus sanctus a solo Patre procedit* (Sammlung von Beweisen aus den Propheten, Aposteln und Kirchenlehrern, dass der Heilige Geist allein vom Vater ausgeht).
+*   **1561** - *Colloquium Cochlaei et Lutheri* (Kolloquium von Cochläus und Luther).
+*   **1561** - *Colloquium Marpurgense* (Marpurger Kolloquium).
+*   **1561** - *Colloquium Wormatiae institutum anno XL* (Wormser Kolloquium, eingerichtet im Jahr 40).
+*   **1561** - *Comitia Spirae et Wormatiae* (Reichstage von Speyer und Worms).
+*   **1561** - *Commentaria Germ. in Cornelium Tacitum* (Deutsche Kommentare zu Cornelius Tacitus).
+*   **1561** - *Commentarius de angelo Melanchtonis* (Kommentar über den Engel Melanchthons).
+*   **1561** - *Commentarius in priorem Timothaei epistolam, a viro summae pietatis conscriptus* (Kommentar zum ersten Timotheusbrief, von einem Mann höchster Frömmigkeit verfasst).
+*   **1561** - *Comoediae et tragoediae aliquot ex Veteri Testamento* (Einige Komödien und Tragödien aus dem Alten Testament).
+*   **1561** - *Comoediae super quaestionem, Quae est major consolatio morientis etc.* (Komödien über die Frage, Was ist der größte Trost des Sterbenden etc.).
+*   **1561** - *Conciliabulum theologicorum adversus bonarum literarum studiosos etc.* (Theologen-Konkiliabulum gegen die Liebhaber der schönen Wissenschaften etc.).
+*   **1561** - *Concilium Pisanum* (Konzil von Pisa).
+*   **1561** - *Conciones de decem praeceptis dominicis* (Predigten über die zehn Gebote des Herrn).
+*   **1561** - *Concordantiae Graecae Novi Testamenti* (Griechische Konkordanz des Neuen Testaments).
+*   **1561** - *Concordantiae principum nationis Germaniae de astutiis christianorum* (Konkordanzen der Fürsten der deutschen Nation über die List der Christen).
+*   **1561** - *Confessio fidei Augustana* (Augsburger Bekenntnis).
+*   **1561** - *Confessio fidei baronum et nobilium Boemiae* (Glaubensbekenntnis der Barone und Adligen Böhmens).
+*   **1561** - *Confessio Saxonica* (Sächsisches Bekenntnis).
+*   **1561** - *Confessio ecclesiae Tigurinae* (Bekenntnis der Zürcher Kirche).
+*   **1561** - *Confessio Wirtenbergen.* (Württemberger Bekenntnis).
+*   **1561** - *Confutatio determinationis doctorum Parisien. contra Martinum Lutherum* (Widerlegung der Bestimmung der Pariser Doktoren gegen Martin Luther).
+*   **1561** - *Confutatio unius et viginti propositionum de differentia legis et evangelii* (Widerlegung einundzwanzig Thesen über den Unterschied von Gesetz und Evangelium).
+*   **1561** - *Congregatio sive collectio insignium concordantiarum Bibliae* (Sammlung oder Zusammenstellung bemerkenswerter Konkordanzen der Bibel).
+*   **1561** - *Coptis Christianus* (Koptischer Christ).
+*   **1561** - *Consiglio d'alcuni vescovi congregati in Bologna* (Ratschlag einiger in Bologna versammelter Bischöfe).
+*   **1561** - *Contra regulam Minoritarum et universas perditionis sectas* (Gegen die Regel der Minoriten und alle Sekten des Verderbens).
+*   **1561** - *Contra sanctos Zeylleysten* (Gegen die Heiligen Zeilstein).
+*   **1561** - *Conventus Augustensis* (Reichstag zu Augsburg).
+*   **1561** - *Copia d'una lettera scritta alli IIII. di Genaio M.D.L.* (Abschrift eines Briefes vom 4. Januar 1550).
+*   **1561** - *Cordigerae navis conflagratio, dialogus* (Der Brand des Kordel tragenden Schiffes, Dialog).
+*   **1561** - *Cymbalum mundi* (Zimbel der Welt).
+*   **1561** - *Declaratoria del giubileo* (Erklärung des Jubiläums).
+*   **1561** - *Decretum Nurembergense editum anno M.D.XXIII.* (Nürnberger Dekret, herausgegeben im Jahr 1523).
+*   **1561** - *Defensio pro Zuinglio* (Verteidigung für Zwingli).
+*   **1561** - *Defensio adversus axioma catholicum, id est, criminationem Roberti episcopi Abrincen.* (Verteidigung gegen das katholische Axiom, das heißt, die Anklage des Robert, Bischof von Avranches).
+*   **1561** - *Dialogi di Mercurio et Caronte* (Dialoge des Merkur und Charon).
+*   **1561** - *Dialogi adversus Joannem Eckium* (Dialoge gegen Johannes Eck).
+*   **1561** - *Dialogus de doctrina christiana* (Dialog über die christliche Lehre).
+*   **1561** - *Dialogus de morte Julii II. Papae, sive Julius* (Dialog über den Tod Papst Julius' II., oder Julius).
+*   **1561** - *Dialogus Karstans et Regellians* (Dialog Karstans und Regellians).
+*   **1561** - *Dialogus Murnarus Leviathan* (Dialog Murnarus Leviathan).
+*   **1561** - *Dialogus obscurorum virorum, in quo tres colloquuntur theologi* (Dialog der Dunkelmänner, in dem drei Theologen sprechen).
+*   **1561** - *Dialogus paradoxos, quo Romani Pontificis orator una cum eo qui est etc.* (Paradoxer Dialog, in dem der Orator des römischen Pontifex zusammen mit dem, der etc. ist).
+*   **1561** - *Dialogus oratoris Pontificis Rom. et illius qui est Pontifici a confessionibus etc.* (Dialog des Orators des römischen Pontifex und des Beichtvaters des Pontifex etc.).
+*   **1561** - *Discorsi sopra i Fioretti di S. Francesco* (Diskurse über die Blümlein des hl. Franziskus).
+*   **1561** - *Disordine della chiesa* (Unordnung der Kirche).
+*   **1561** - *Disputatio Badensis* (Badische Disputation).
+*   **1561** - *Disputatio Bernensis* (Berner Disputation).
+*   **1561** - *Disputatio Gronicen. cum duabus epistolis* (Groninger Disputation mit zwei Briefen).
+*   **1561** - *Disputatio inter clericum et militem super potestate praelatis ecclesiae atque principibus terrarum commissa* (Disputation zwischen einem Kleriker und einem Ritter über die den Kirchenprälaten und Landesfürsten übertragene Macht).
+*   **1561** - *Disputatio Lypsica inter Martinum et Emserum* (Leipziger Disputation zwischen Martin und Emser).
+*   **1561** - *Diurnale Romanum, impressum Lugduni in aedibus Filiberti Rolleti et Bartholomaei Fraeni* (Römisches Diurnale, gedruckt in Lyon in den Häusern von Filibert Rollet und Bartholomäus Fraenus).
+*   **1561** - *Doctrina vetus et noua* (Alte und neue Lehre).
+*   **1561** - *Doctrina verissima sumpta a cap. IIII. epist. ad Rom., ut consolentur afflictae conscientiae* (Sehr wahre Lehre, entnommen aus dem 4. Kapitel des Römerbriefes, um geplagte Gewissen zu trösten).
+*   **1561** - *Dragale locorum communium* (Dragale der Gemeinplätze).
+*   **1561** - *Duae lettere d'un cortiggiano, nelle quali si dimonstra che la fede etc.* (Zwei Briefe eines Höflings, in denen gezeigt wird, dass der Glaube etc.).
+*   **1561** - *Duae disputationes Herffordianae Langi et Naucleri* (Zwei Erfurter Disputationen von Langus und Nauclerus).
+*   **1561** - *Elementa christiana ad instituendos pueros* (Christliche Elemente zur Unterweisung von Kindern).
+*   **1561** - *Enarrationes epistolarum et evangeliorum* (Erklärungen der Episteln und Evangelien).
+*   **1561** - *Enchiridion christianismi* (Handbuch des Christentums).
+*   **1561** - *Enchiridion piarum precationum* (Handbuch frommer Gebete).
+*   **1561** - *Epigrammatum libri duo christianae sectae, ex variis christianis poetis decerpti* (Zwei Bücher Epigramme der christlichen Sekte, aus verschiedenen christlichen Dichtern ausgewählt).
+*   **1561** - *Epistola apologetica ad sinceriores christianismi sectatores per Phrysiam orientalem etc.* (Apologetischer Brief an die aufrichtigeren Anhänger des Christentums durch Ostfriesland etc.).
+*   **1561** - *Epistola christiana de coena Domini* (Christlicher Brief über das Abendmahl des Herrn).
+*   **1561** - *Epistola de non apostolicis quorundam moribus, qui in apostolorum se etc.* (Brief über die unapostolischen Sitten einiger, die sich in den Aposteln etc. befinden).
+*   **1561** - *Epistolae piae et christianae* (Fromme und christliche Briefe).
+*   **1561** - *Epistola Sancto Ulrico adscripta* (Dem Heiligen Ulrich zugeschriebener Brief).
+*   **1561** - *Epistola de magistris Lovanien.* (Brief über die Löwener Meister).
+*   **1561** - *Epistola ministri cujusdam verbi Dei de ecclesia, clavibus, sacramentis veraque ministrorum spiritus electione* (Brief eines Dieners des Wortes Gottes über die Kirche, die Schlüssel, die Sakramente und die wahre Wahl der Diener des Geistes).
+*   **1561** - *Epistola directa ad pauperem et mendicam ecclesiam Luteranensem* (Brief, gerichtet an die arme und bettelarme lutherische Kirche).
+*   **1561** - *Epistola et praefatio in Decalogum* (Brief und Vorwort zum Dekalog).
+*   **1561** - *In epistolam ad Timotheum comment.* (Kommentar zum Timotheusbrief).
+*   **1561** - *Epitome ecclesiae renovatae* (Kurzfassung der erneuerten Kirche).
+*   **1561** - *Epitome belli papistarum contra Germaniam atque patriam ipsam, Caesare Carolo V. duce* (Kurzfassung des Krieges der Papisten gegen Deutschland und das eigene Vaterland, unter Führung des Kaisers Karl V.).
+*   **1561** - *Epitome decem praeceptorum, prout quemque christianum cognoscere decet* (Kurzfassung der zehn Gebote, wie es jeden Christen ziemt zu wissen).
+*   **1561** - *Epitome responsionis ad Martinum Luterum* (Kurzfassung der Antwort an Martin Luther).
+*   **1561** - *Esdrae lamentationes Petri* (Klagelieder Esdras' von Petrus).
+*   **1561** - *Expositione della oration del Signore in volgare, composta per un padre no nominato* (Auslegung des Gebets des Herrn in der Volkssprache, von einem nicht genannten Vater verfasst).
+*   **1561** - *Evangelicae conciones* (Evangelische Predigten).
+*   **1561** - *Evangelium aeternum* (Das ewige Evangelium).
+*   **1561** - *Evangelium Pasalli* (Pasquillus-Evangelium).
+*   **1561** - *Exameron Dei opus* (Das sechstägige Werk Gottes).
+*   **1561** - *Expositio symboli apostolorum, orationis dominicae, praeceptorum etc.* (Auslegung des Apostolischen Glaubensbekenntnisses, des Vaterunsers, der Gebote etc.).
+*   **1561** - *Farrago concordantiarum insignium totius Bibliae* (Sammlung bemerkenswerter Konkordanzen der gesamten Bibel).
+*   **1561** - *Fasciculus rerum expetendarum et fugiendarum* (Bündel zu suchender und zu meidender Dinge).
+*   **1561** - *Forma delle orationi ecclesiastiche et il modo d'amministrar' i sacramenti et di celebrare il s. matrimonio* (Form der kirchlichen Gebete und die Art, die Sakramente zu verwalten und die heilige Ehe zu feiern).
+*   **1561** - *Francisci nocturna apparitio* (Nächtliche Erscheinung des Franziskus).
+*   **1561** - *Fundamentum malorum et bonorum operum* (Fundament böser und guter Werke).
+*   **1561** - *Geographia universalis* (Universalgeographie).
+*   **1561** - *Germanicae nationis lamentationes* (Klagelieder der deutschen Nation).
+*   **1561** - *Giuditio sopra le lettere de XIII huomini* (Urteil über die Briefe der 13 Männer).
+*   **1561** - *Henrici quarti Caesaris vita* (Leben Kaiser Heinrichs IV.).
+*   **1561** - *Historia de Germanorum origine* (Geschichte des Ursprungs der Germanen).
+*   **1561** - *Historia de iis, quae Joanni Huss in Constantien. concilio evenerunt* (Geschichte der Ereignisse um Johannes Hus auf dem Konstanzer Konzil).
+*   **1561** - *Hydromantiae ars et scripta omnia* (Kunst der Hydromantie und alle Schriften).
+*   **1561** - *Imperatorum et Caesarum vitae* (Leben der Kaiser und Cäsaren).
+*   **1561** - *Index Bibliorum impressus Coloniae in aedibus Quentilianis* (Bibelindex, gedruckt in Köln im Haus der Quentel).
+*   **1561** - *Index utriusque Testamenti pene similis Indici Bibliorum Roberti Stephani* (Index beider Testamente, fast ähnlich dem Bibelindex von Robert Estienne).
+*   **1561** - *Instructio visitationis Saxonicae* (Anleitung zur sächsischen Visitation).
+*   **1561** - *Interpretatio nominum Chaldaeorum* (Interpretation chaldäischer Namen).
+*   **1561** - *Introductio puerorum* (Einführung für Knaben).
+*   **1561** - *Julius dialogus, alias Aula* (Julius-Dialog, auch Aula genannt).
+*   **1561** - *Lamentatio et quaerimonia missae* (Klage und Beschwerde über die Messe).
+*   **1561** - *Litaniae Germanorum* (Deutsche Litaneien).
+*   **1561** - *Loci communes de bonis operibus et de potestate ecclesiastica* (Gemeinplätze über gute Werke und die kirchliche Gewalt).
+*   **1561** - *Loca insignia* (Bemerkenswerte Stellen).
+*   **1561** - *Loci insigniores* (Bemerkenswertere Stellen).
+*   **1561** - *Loci omnium fere capitum evangeliorum* (Gemeinplätze fast aller Kapitel der Evangelien).
+*   **1561** - *Loci utriusque Testamenti* (Gemeinplätze beider Testamente).
+*   **1561** - *Lucta christiana* (Christlicher Kampf).
+*   **1561** - *Ludus piramidum* (Pyramidenspiel).
+*   **1561** - *Libellus aureus, quod idola etc.* (Goldenes Büchlein, dass Götzen etc.).
+*   **1561** - *Liber inscriptus: An statui et dignitati ecclesiasticorum magis conducat admittere synodum nationalem, piam et liberam, quam decernere bello etc.* (Buch mit der Überschrift: Ob es dem Stand und der Würde der Geistlichen mehr zuträglich ist, eine nationale, fromme und freie Synode zuzulassen, als durch Krieg zu entscheiden etc.).
+*   **1561** - *Liber inscriptus: Augustini et Hieronymi theologia* (Buch mit der Überschrift: Theologie des Augustinus und Hieronymus).
+*   **1561** - *Liber inscriptus: Basiliensis eccl., cur missam etc.* (Buch mit der Überschrift: Basler Kirche, warum die Messe etc.).
+*   **1561** - *Liber inscriptus: Bulla diaboli etc.* (Buch mit der Überschrift: Bulle des Teufels etc.).
+*   **1561** - *Liber inscriptus: Capo finto* (Buch mit der Überschrift: Falsches Haupt).
+*   **1561** - *Liber inscriptus: Consilium de emendanda ecclesia* (Buch mit der Überschrift: Ratschlag zur Verbesserung der Kirche).
+*   **1561** - *Liber inscriptus: Consilium Pauli III. datum Imperatori in Belgis, cum Eusebii Pamphilii pia explicatione* (Buch mit der Überschrift: Ratschlag Pauls III., dem Kaiser in Belgien gegeben, mit frommer Erklärung des Eusebius Pamphili).
+*   **1561** - *Liber inscriptus: Cur ecclesia quatuor evangelia acceptavit* (Buch mit der Überschrift: Warum die Kirche die vier Evangelien angenommen hat).
+*   **1561** - *Liber inscriptus: De auctoritate, officio et potestate pastorum ecclesiasticorum* (Buch mit der Überschrift: Über Autorität, Amt und Macht der Kirchenhirten).
+*   **1561** - *Liber inscriptus: De coena dominica* (Buch mit der Überschrift: Über das Herrenmahl).
+*   **1561** - *Liber inscriptus: De conventu Haganoen.* (Buch mit der Überschrift: Über die Hagenaus-Versammlung).
+*   **1561** - *Liber inscriptus: De disciplina puerorum recteque formandis eorum studiis et moribus etc.* (Buch mit der Überschrift: Über die Zucht der Knaben und die richtige Formung ihrer Studien und Sitten etc.).
+*   **1561** - *Liber inscriptus: Doctrina verissima tolta dal cap. IIII. a Rom. per consolar le afflictae conscientie* (Buch mit der Überschrift: Sehr wahre Lehre, entnommen aus dem 4. Kapitel des Römerbriefes, um geplagte Gewissen zu trösten).
+*   **1561** - *Liber inscriptus: De emendatione et correctione status christiani* (Buch mit der Überschrift: Über die Verbesserung und Korrektur des christlichen Zustandes).
+*   **1561** - *Liber inscriptus: Ex vetustissimis orthodoxorum patrum libris etc. de genuino eucharistiae negocii intellectu et usu etc.* (Buch mit der Überschrift: Aus den ältesten Büchern der orthodoxen Väter etc. über den wahren Verstand und Gebrauch der Eucharistieangelegenheit etc.).
+*   **1561** - *Liber inscriptus: De falsa religione* (Buch mit der Überschrift: Über die falsche Religion).
+*   **1561** - *Liber inscriptus: De fatis monarchiae Romanae somnium, vaticinium Esdrae etc.* (Buch mit der Überschrift: Über das Schicksal der römischen Monarchie, Traum, Weissagung Esdras' etc.).
+*   **1561** - *Lib. De gratia et libero ejus velocique cursu* (Buch über die Gnade und ihren schnellen und freien Lauf).
+*   **1561** - *Lib. Delle statue et imagini etc.* (Buch über Statuen und Bilder etc.).
+*   **1561** - *Lib. inscriptus: La forma delle preghiere ecclesiastiche con la maniera d'amministrar' i sacramenti et celebrare il matrimonio* (Buch mit der Überschrift: Die Form der kirchlichen Gebete mit der Art, die Sakramente zu verwalten und die Ehe zu feiern).
+*   **1561** - *Lib. Delle commissioni et facultà che Papa Giulio III. ha dato a M. Paolo Odescalco* (Buch der Kommissionen und Befugnisse, die Papst Julius III. an Herrn Paolo Odescalco gegeben hat).
+*   **1561** - *Libri della ventura* (Bücher des Glücks).
+*   **1561** - *Libri Hermetis magi ad Aristotelem* (Bücher des Magiers Hermes an Aristoteles).
+*   **1561** - *Libri decem annulorum, Quatuor speculorum, Imaginum Thobiae, Imaginum Ptolomaei, Virginalis, Clavicula Salomonis* (Zehn Bücher der Ringe, Vier Bücher der Spiegel, Bilder des Tobias, Bilder des Ptolemäus, Jungfräuliches, Schlüssel Salomos).
+*   **1561** - *Liber Salomonis magicis superstitionibus refertus* (Buch Salomos, voller magischer Aberglaube).
+*   **1561** - *Lib. inscript. Illust. et potentiss. senatus populique Angliae sententia de eo consilio quod Paulus episc. Rom. Mantuae futurum simulavit* (Buch mit der Überschrift: Meinung des illustren und mächtigsten Senats und Volkes Englands über das Konzil, das Papst Paulus in Mantua vorgetäuscht hat).
+*   **1561** - *Lib. inscript. Opus illustriss. et excellentiss. seu speciabilis viri Caroli Magni etc. contra synodum, quae in partibus Graeciae pro adorandis imaginibus stolide sive arroganter gesta est* (Buch mit der Überschrift: Werk des illustren und ausgezeichnetsten oder ehrenwerten Mannes Karls des Großen etc. gegen die Synode, die in den griechischen Teilen wegen der Anbetung von Bildern töricht oder arrogant abgehalten wurde).
+*   **1561** - *Liber in orationem dominicam* (Buch zum Vaterunser).
+*   **1561** - *Lib. in orationes dominicas saluberrimae et sanctis. meditationes ex lib. catholicorum patrum* (Buch zu den Gebeten des Herrn, sehr heilsame und heilige Meditationen aus den Büchern katholischer Väter).
+*   **1561** - *Liber Militantis* (Buch des Kämpfenden).
+*   **1561** - *Liber De providentia Dei* (Buch über die Vorsehung Gottes).
+*   **1561** - *Liber De sacerdotio, legibus et sacrificiis Papae etc.* (Buch über das Priestertum, Gesetze und Opfer des Papstes etc.).
+*   **1561** - *Liber de vera differentia regiae potestatis et ecclesiasticae* (Buch über den wahren Unterschied zwischen königlicher und kirchlicher Gewalt).
+*   **1561** - *Liber de vita juventutis instituenda, moribus et studiis corrigendis* (Buch über die Einrichtung des Lebens der Jugend, die Korrektur der Sitten und Studien).
+*   **1561** - *Liber de unitate ecclesiastica* (Buch über die kirchliche Einheit).
+*   **1561** - *Lib. inscriptus: Itinerarium Petri per Clementem* (Buch mit der Überschrift: Peters Reise durch Clemens).
+*   **1561** - *Lib. inscriptus: Nicodemus de passione Christi* (Buch mit der Überschrift: Nikodemus über das Leiden Christi).
+*   **1561** - *Liber inscriptus: Pontificis oratoris legatio in conventu Norembergen.* (Buch mit der Überschrift: Gesandtschaft des päpstlichen Gesandten auf dem Nürnberger Konvent).
+*   **1561** - *Lib. inscriptus: Pauli IIII. Papae Romani epistola consolatoria et hortatoria ad suos dilectos filios etc.* (Buch mit der Überschrift: Trost- und Ermahnungsbrief Papst Pauls IV. an seine geliebten Söhne etc.).
+*   **1561** - *Maniera di tener ad insignar' i figliuoli christiani* (Art und Weise, christliche Kinder zu unterweisen).
+*   **1561** - *Margarita theologica* (Theologische Perle).
+*   **1561** - *Matrimonio delli preti et delle monache* (Die Ehe von Priestern und Nonnen).
+*   **1561** - *Medicina animae* (Arznei der Seele).
+*   **1561** - *Medicina animae pro sanis simul et aegrotis instante morte* (Arznei der Seele für Gesunde und Kranke im Angesicht des Todes).
+*   **1561** - *Meditationes in orationem dominicam* (Meditationen zum Vaterunser).
+*   **1561** - *Meditationes et precationes piae, admodum utiles et necessariae pro formandis tum conscientiis, tum moribus electorum* (Fromme Meditationen und Gebete, sehr nützlich und notwendig zur Formung des Gewissens und der Sitten der Auserwählten).
+*   **1561** - *Metaphrases epistolarum D. Pauli ad communem ecclesiarum concordiam* (Metaphrasen der Briefe des hl. Paulus zur allgemeinen Eintracht der Kirchen).
+*   **1561** - *Methodus in praecipuos Scripturae divinae locos* (Methode zu den wichtigsten Stellen der göttlichen Schrift).
+*   **1561** - *Methodi sacrae Scripturae tomi duo* (Zwei Bände der Methode der Heiligen Schrift).
+*   **1561** - *Microsynodus Norimbergensis* (Nürnberger Mikrosynode).
+*   **1561** - *Ministrorum verbi Argentinensium admonitio ad ministros Helveticos* (Ermahnung der Straßburger Wortdiener an die Schweizer Geistlichen).
+*   **1561** - *Modo di tener nell' insegnar' et nel predicar' al principio della religione christiana* (Art und Weise, im Anfang der christlichen Religion zu lehren und zu predigen).
+*   **1561** - *Modo et via breve da consolar quelli che stanno in pericolo di morte* (Kurze Art und Weise, jene zu trösten, die in Todesgefahr sind).
+*   **1561** - *Modus solemnis et autenticus ad inquirendum etc.* (Feierlicher und authentischer Modus zur Untersuchung etc.).
+*   **1561** - *Nomenclator insignium scriptorum* (Nomenklator bemerkenswerter Schriftsteller).
+*   **1561** - *Notae verae ecclesiae* (Merkmale der wahren Kirche).
+*   **1561** - *Oeconomica christiana* (Christliche Ökonomie).
+*   **1561** - *Onus ecclesiae* (Die Last der Kirche).
+*   **1561** - *Opera divina della christiana vita etc.* (Göttliche Werke des christlichen Lebens etc.).
+*   **1561** - *Optima ratio componendae religionis quae sit* (Die beste Art, die Religion zu gestalten).
+*   **1561** - *Opus imperfectum in D. Matthaei evangelium, D. Chrysostomo falso attributum* (Unvollendetes Werk zum Matthäusevangelium, fälschlich dem hl. Chrysostomus zugeschrieben).
+*   **1561** - *Orandi modus* (Gebetsweise).
+*   **1561** - *Oratio pro Julio II. Ligure a quodam bene docto et christiano perscripta* (Gebet für Julius II. von Ligurien, von einem gut gelehrten und christlichen Mann verfasst).
+*   **1561** - *Orationes dominicales Gryphii* (Sonntagsgebete von Gryphius).
+*   **1561** - *Paralipomenon rerum memorabilium* (Paralipomena der denkwürdigen Dinge).
+*   **1561** - *Pasquini et Marphorii hymnus in Paulum III.* (Hymnus des Pasquillus und Marforius an Paul III.).
+*   **1561** - *Pasquillus Fagius* (Pasquillus Fagius).
+*   **1561** - *Pasquillus Germanicus* (Deutscher Pasquillus).
+*   **1561** - *Pasquillus proscriptus a Tridentino concilio* (Pasquillus, vom Tridentiner Konzil geächtet).
+*   **1561** - *Pasquillus semipoeta* (Pasquillus der Halbpoet).
+*   **1561** - *Pasquillorum tomi duo* (Zwei Bände Pasquillus-Texte).
+*   **1561** - *Pasquilli omnes omnesque conscriptiones, in quibus Deo aut sanctis aut sacramentis aut catholicae ecclesiae et ejus cultui aut Apostolicae Sedi quomodocunque detrahatur* (Alle Pasquillus-Texte und alle Schriften, in denen Gott oder Heilige oder Sakramente oder die katholische Kirche und ihr Kult oder der Apostolische Stuhl in irgendeiner Weise herabgewürdigt werden).
+*   **1561** - *Passio Mart. Lutheri secundum Marcellum* (Leiden Martin Luthers nach Marcellus).
+*   **1561** - *Phalarismus* (Phalarismus).
+*   **1561** - *Phrases sacrae Scripturae* (Phrasen der Heiligen Schrift).
+*   **1561** - *Piae et christianae epistolae cujusdam servi Jesu Christi de fide, operibus et charitate* (Fromme und christliche Briefe eines Dieners Jesu Christi über Glauben, Werke und Nächstenliebe).
+*   **1561** - *Precationum aliquot et piarum meditationum enchiridion* (Handbuch einiger Gebete und frommer Meditationen).
+*   **1561** - *Precationes biblicae* (Biblische Gebete).
+*   **1561** - *Precationes christianae ad imitationem psalmorum* (Christliche Gebete nach dem Vorbild der Psalmen).
+*   **1561** - *Precationes dominicae Gryphii* (Sonntagsgebete von Gryphius).
+*   **1561** - *Precationes psalmorum per Joannem Honburgium latinitate donatae* (Psalmengebete, ins Lateinische übertragen von Johannes Honburgius).
+*   **1561** - *Precedentie alla apologia della confessione Wirtemberg.* (Präzedenzfälle zur Apologie des Württemberger Bekenntnisses).
+*   **1561** - *Processus consistorialis martyrii Joannis Huss* (Konsistorialprozess des Martyriums des Johannes Hus).
+*   **1561** - *Psalterium translationis veteris cum nova praefatione Martini Luteri* (Psalter der alten Übersetzung mit neuem Vorwort von Martin Luther).
+*   **1561** - *Pyromantiae libri et scripta omnia* (Alle Bücher und Schriften der Pyromantie).
+*   **1561** - *Ratio brevis sacrarum tractandarum concionum* (Kurze Methode, heilige Predigten zu behandeln).
+*   **1561** - *Ratio cur, qui confessionem Augustanam profitentur, non esse assentiendum iniquis concilii Tridentini sententiis* (Grund, warum diejenigen, die das Augsburger Bekenntnis bekennen, den ungerechten Urteilen des Tridentiner Konzils nicht zustimmen sollen).
+*   **1561** - *Ratio et methodus consolandi periculose decumbentes etc.* (Art und Weise, gefährlich Kranke zu trösten etc.).
+*   **1561** - *Receptatio omnium figurarum sacrae Scripturae* (Aufnahme aller Figuren der Heiligen Schrift).
+*   **1561** - *Reformatio ecclesiae Coloniensis* (Reformation der Kölner Kirche).
+*   **1561** - *Regis et senatus Anglici sententia de concilio quod Paulus episcopus Rom. Mantuae futurum simulavit* (Meinung des Königs und Senats von England über das Konzil, das Papst Paulus in Mantua vorgetäuscht hat).
+*   **1561** - *Restitutionum doctrinae et vitae christianae liber per Monasterienses Anabaptistas editus* (Buch der Restitutionen der christlichen Lehre und des Lebens, herausgegeben von den münsterschen Wiedertäufern).
+*   **1561** - *Scripta quaedam Papae et monarcharum de concilio Tridentino etc.* (Einige Schriften des Papstes und der Monarchen über das Tridentiner Konzil etc.).
+*   **1561** - *Scholia in epistolam Pauli III. Pontificis Maximi* (Scholien zum Brief Papst Pauls III.).
+*   **1561** - *Sententiae pueriles* (Kindersprüche).
+*   **1561** - *Sermones convivales* (Tischreden).
+*   **1561** - *Sermones de providentia Dei* (Predigten über die Vorsehung Gottes).
+*   **1561** - *Similitudinum et dissimilitudinum liber* (Buch der Ähnlichkeiten und Unähnlichkeiten).
+*   **1561** - *Simplicissima et brevissima catechismi expositio* (Sehr einfache und kürzeste Katechismuserklärung).
+*   **1561** - *Simplex et succinctus orandi modus* (Einfache und knappe Gebetsweise).
+*   **1561** - *Simulachri, historie et figure della morte etc.* (Bilder, Geschichten und Figuren des Todes etc.).
+*   **1561** - *Somnium et vaticinium Esdrae de fatis monarchiae Romanae* (Traum und Weissagung Esdras' über das Schicksal der römischen Monarchie).
+*   **1561** - *Speculum caecorum ad cognitionem evangelicae veritatis* (Spiegel der Blinden zur Erkenntnis der evangelischen Wahrheit).
+*   **1561** - *Suermenica doctrina* (Schwärmerische Lehre).
+*   **1561** - *Summa totius Scripturae* (Summe der gesamten Schrift).
+*   **1561** - *Summarium Scripturae* (Summarium der Schrift).
+*   **1561** - *Summa in Smaragdum super evangelia et epistolas totius anni, tam separatim, quam una cum dicto auctore impressa* (Summa zu Smaragdus über die Evangelien und Episteln des ganzen Jahres, sowohl separat als auch mit dem genannten Autor gedruckt).
+*   **1561** - *Supplicatio quorundum apud Helvetios evangelistarum ad episcopum Constantiensem* (Bittschrift einiger evangelischer Helvetier an den Bischof von Konstanz).
+*   **1561** - *Supputatio annorum mundi* (Berechnung der Weltjahre).
+*   **1561** - *Supplice essortatione di nuovo mandata all' invittiss. Cesare Carlo V. etc.* (Erneute demütige Ermahnung an den unbesiegbarsten Kaiser Karl V. etc.).
+*   **1561** - *Syncrama clarissimorum virorum, qui Halae convenerunt, super verbis in Domini* (Syncrama der berühmtesten Männer, die in Halle zusammenkamen, über die Worte im Herrn).
+*   **1561** - *Synodus Marpurgen.* (Marpurger Synode).
+*   **1561** - *Thalmud Hebraeorum ejusque glossae, annotationes, interpretationes et expositiones omnes* (Der Talmud der Hebräer und alle seine Glossen, Anmerkungen, Interpretationen und Erklärungen).
+*   **1561** - *Themata 114 Basileae disputata* (114 in Basel disputierte Thesen).
+*   **1561** - *Threni Hieremiae mysticati* (Mystische Klagelieder Jeremias').
+*   **1561** - *Tractatus ad omnes in christianam libertatem malevolos* (Traktat an alle, die der christlichen Freiheit feindlich gesinnt sind).
+*   **1561** - *Tractatus de redditibus et decimis* (Traktat über Einkünfte und Zehnten).
+*   **1561** - *Tragoedia de libero arbitrio* (Tragödie vom freien Willen).
+*   **1561** - *Trigamus* (Trigamus).
+*   **1561** - *Trilogium pro catechistis* (Trilogium für Katechisten).
+*   **1561** - *Troporum theologicorum etc.* (Dergleichen theologische Tropen etc.).
+*   **1561** - *Turicella* (Torricella).
+*   **1561** - *Tractatus de vera et pura ecclesia, D. Athanasio falsissime adscriptus* (Traktat über die wahre und reine Kirche, dem hl. Athanasius fälschlichst zugeschrieben).
+*   **1561** - *Trattato del beneficio di Christo* (Traktat über den Nutzen Christi).
+*   **1561** - *Valdensium confessio et apologia fidei ad Vladislaum regem Ungariae* (Bekenntnis und Apologie des Glaubens der Waldenser an König Wladislaw von Ungarn).
+*   **1561** - *Varia doctorum piorumque virorum de corrupto ecclesiae statu poemata* (Verschiedene Gedichte gelehrter und frommer Männer über den korrupten Zustand der Kirche).
+*   **1561** - *Viridarii somnium de potestate Papae et principum saecularium* (Traum des Viridarium über die Macht des Papstes und der weltlichen Fürsten).
+*   **1561** - *Visitatio Saxonica* (Sächsische Visitation).
+*   **1561** - *Vitae patrum cum praefatione Martini Lutheri* (Leben der Väter mit Vorwort von Martin Luther).
+*   **1561** - *Vita et gesta Hildebrandi* (Leben und Taten Hildebrands).
+*   **1561** - *Vitae Pont. Rom. Witenberg. impressae* (Leben der römischen Päpste, in Wittenberg gedruckt).
+*   **1561** - *Un brieve modo, qual dee tenere ciascun padre* (Eine kurze Art und Weise, wie jeder Vater sich verhalten soll).
+*   **1561** - *Unio dissidentium tripartita* (Dreigeteilte Einigung der Widersprechenden).
+*   **1561** - *Universitatis Wittembergensis seria actio apud Principem Fridericum* (Ernsthafte Handlung der Universität Wittenberg vor Fürst Friedrich).
+*   **1566** - *Apologia contra status Burgundiae* (Apologie gegen die burgundischen Stände).
+*   **1566** - *Articuli Anabaptistarum quicunque* (Alle Artikel der Wiedertäufer).
+*   **1566** - *Baculus fidei* (Der Stab des Glaubens).
+*   **1566** - *Basiliensis ministrorum responsio contra missam* (Antwort der Basler Geistlichen gegen die Messe).
+*   **1566** - *Cento Virgilianus de praesenti in republica statu* (Vergilianischer Cento über den gegenwärtigen Zustand im Staat).
+*   **1566** - *Catechismus Genevensis et omnes alii a catholicis non conscripti* (Genfer Katechismus und alle anderen, die nicht von Katholiken verfasst wurden).
+*   **1566** - *Colloquium Bernense, Badense, Coclaei et Lutheri, clerici et militis, Gronicense, Herffordiense, Lypsense, Marpurgense, Mulbrunnense, Possiacum, Parisiense, Smalcaldicum, Wormaciense, Vitembergense et omnia similia ab incertis authoribus et impressoribus vel ab haereticis in lucem emissa* (Kolloquien von Bern, Baden, Cochläus und Luther, Kleriker und Ritter, Groninger, Herforder, Leipziger, Marburger, Maulbronner, Poissy, Pariser, Schmalkaldischer, Wormser, Wittenberger und alle ähnlichen, von unbekannten Autoren und Druckern oder von Häretikern herausgegeben).
+*   **1566** - *Confessiones omnes, ut Augustana, Antverpiensis, Argentinensis, Anglica, Gallica, Baronum et Nobilium Bohemiae, Helvetiorum, Tigurina, Saxonica, Wirtembergensis etc. seu quotquot non sunt a catholicis theologis receptae et editae* (Alle Bekenntnisse, wie das Augsburger, Antwerpener, Straßburger, Englische, Gallische, der Barone und Adligen Böhmens, der Schweizer, Zürcher, Sächsische, Württembergische etc. oder so viele, die nicht von katholischen Theologen angenommen und herausgegeben wurden).
+*   **1566** - *Epistolae consolatoriae collectae per Cyriacum Spangebergium* (Tröstliche Briefe, gesammelt von Cyriacus Spangenberg).
+*   **1566** - *Epitomata historiae in Gallia de bello religionis ab anno 1556 usque 1566* (Kurzfassungen der Geschichte in Gallien über den Religionskrieg von 1556 bis 1566).
+*   **1566** - *Evangelium laetum regni Dei nuncium* (Das frohe Evangelium der Botschaft vom Reich Gottes).
+*   **1566** - *Fidei christianae capita contra PP.* (Hauptartikel des christlichen Glaubens gegen die Päpste).
+*   **1566** - *Glossa ordinaria Genevensis* (Genfer Ordinärglosse).
+*   **1566** - *Heidelbergensis theologia de coena. 1566* (Heidelberger Theologie über das Abendmahl. 1566).
+*   **1566** - *Historiae Magdeburgicae ab Illirico et suis complicibus mendacissime coacervatae* (Magdeburger Geschichten, von Illyricus und seinen Komplizen lügenhaft zusammengestellt).
+*   **1566** - *Introductio admirabilium antiqua et moderna, seu Apologia ficta pro Herodoto* (Einführung in die alten und modernen Wunder, oder gefälschte Apologie für Herodot).
+*   **1566** - *Mappemonde papistique* (Papistische Weltkarte).
+*   **1566** - *Missa Latina quae olim ante Romanam circa annum 700. erat* (Lateinische Messe, die einst vor der römischen um das Jahr 700 existierte).
+*   **1566** - *Narratio rerum quae contigerunt anno 1566 in patria inferiore* (Erzählung der Dinge, die im Jahr 1566 im unteren Land geschahen).
+*   **1566** - *Oratio ecclesiarum Germaniae ac Belgiae sub Antichristi jugo etc. 1566* (Gebet der Kirchen Deutschlands und Belgiens unter dem Joch des Antichristen etc. 1566).
+*   **1566** - *Passio Domini per Nicodemum* (Leiden des Herrn durch Nikodemus).
+*   **1566** - *Praxis et taxa officinae PP. poenitentiariae* (Praxis und Taxe des päpstlichen Pönitenziar-Amtes).
+*   **1566** - *Protoevangelium Jacobi* (Protoevangelium des Jakobus).
+*   **1566** - *Sanctae inquisitionis Hispanicae artes* (Künste der spanischen Inquisition).
+*   **1566** - *Scripta eruditorum virorum de coena Domini impressa anno 1561* (Schriften gelehrter Männer über das Abendmahl des Herrn, gedruckt im Jahr 1561).
+*   **1566** - *Signa sacra et origo missae* (Heilige Zeichen und Ursprung der Messe).
+*   **1566** - *Speculum justitiae* (Spiegel der Gerechtigkeit).
+*   **1566** - *Stratagemata Satanae* (Strategeme Satans).
+*   **1566** - *Summa purioris doctrinae Re. Mansfelden. ad Gallicam ecclesiam 61. adversum Sacramentarios* (Summa der reineren Lehre der Grafen von Mansfeld an die gallikanische Kirche 61. gegen die Sakramentaristen).
+*   **1566** - *Turingicorum exulum responsio* (Antwort der Thüringer Exulanten).
+*   **1566** - *Ulderici ad PP. Nicolaum epistola, quam finxerunt Baleus, Flaccus et Westhemerus* (Brief des Uldericus an Papst Nikolaus, den Baleus, Flaccus und Westhemerus gefälscht haben).
+*   **1569** - *Ad Jesuitarum assertiones, ex epistola priore Divi Pauli ad Timotheum, auctoribus Wilhelmo Bibembachio et Luca Osiandro* (Zu den Behauptungen der Jesuiten, aus dem ersten Brief des Heiligen Paulus an Timotheus, von Wilhelm Bidembach und Lukas Osiander).
+*   **1569** - *Andreae Munceri Eclogae* (Eklogen von Andreas Munzer).
+*   **1569** - *Annotationum seu commentariorum in Prudentium anno Domini M.D.LXIIII Antverpiae editi; in quibus annotatio in lib. Hamartigeniae, cujus initium est: Saltem mirificos. Itane o Prudenti, corrigatur juxta recognitionem ab ipso auctore editam* (Anmerkungen oder Kommentare zu Prudentius, herausgegeben in Antwerpen im Jahr des Herrn 1564; darin die Anmerkung zum Buch Hamartigenia, dessen Anfang ist: Wenigstens wunderbar. So Prudentius, möge es nach der vom Autor selbst herausgegebenen Revision korrigiert werden).
+*   **1569** - *Analysis sive resolutio dialectica in quatuor libros Institutionum* (Dialektische Analyse oder Auflösung in vier Bücher der Institutionen).
+*   **1569** - *᾿Ανάμνησις juris, quod in approbandis pontificibus imperatores habuerunt* (Anamnese des Rechts, das Kaiser bei der Genehmigung von Päpsten hatten).
+*   **1569** - *Antithesis de praeclaris Christi et indignis Papae facinoribus* (Antithese der glorreichen Taten Christi und der unwürdigen Untaten des Papstes).
+*   **1569** - *Brunonis Seillii de missa publica proroganda racemationum lib. III, collecti per Berhardum Lotium Hadamarium* (Drei Bücher der Traubenlese von Bruno Seillius über die Verlängerung der öffentlichen Messe, gesammelt von Bernhard Lotz Hadamarius).
+*   **1569** - *Brevis cometarum u. s. w. wie s. 64* (Kurze Erklärung der Kometen etc. wie S. 64).
+*   **1569** - *Cantica selecta Veteris et Novi Testamenti, cum hymnis et collectis seu orationibus purioribus, quae in orthodoxa atque catholica ecclesia cantari solent, addita dispositione et familiari expositione Christoph. Corneri. Lipsiae apud Ernestum Vogelinum* (Ausgewählte Gesänge des Alten und Neuen Testaments, mit Hymnen und reinigeren Kollekten oder Gebeten, die in der orthodoxen und katholischen Kirche gesungen werden, hinzugefügt Anordnung und vertraute Auslegung von Christoph Corner. Leipzig, bei Ernst Vogelin).
+*   **1569** - *Carolo Magno asscriptum opus de imaginibus* (Karl dem Großen zugeschriebenes Werk über Bilder).
+*   **1569** - *Compendium theologiae Erasmi* (Kompendium der Theologie des Erasmus).
+*   **1569** - *In sacros Bibliorum Veteris Testamenti libros, nempe Josue, Judicum, Ruth, Samuelis duos, Regum duos, Chronicorum duos, Esram, Nehemiam, Hester, Jobum, tabularum Cyriaci Spangenbergii partes omnes* (In die heiligen Bücher des Alten Testaments der Bibel, nämlich Josua, Richter, Ruth, die beiden Samuel, die beiden Könige, die beiden Chroniken, Esra, Nehemia, Ester, Hiob, alle Teile der Tabellen des Cyriacus Spangenberg).
+*   **1569** - *Centuriata Historia* (Zenturien-Geschichte).
+*   **1569** - *Centuriae historiarum Magdeburgensium* (Magdeburger Zenturien).
+*   **1569** - *Chronologicarum rerum libri duo* (Zwei Bücher chronologischer Dinge).
+*   **1569** - *Confessio Antverpiensis, Argentina, Anglica* (Antwerpener, Straßburger, Englische Bekenntnisse).
+*   **1569** - *Confessio fidei de eucharistiae sacramento per ministros ecclesiae Saxonicae* (Glaubensbekenntnis über das Sakrament der Eucharistie von den Geistlichen der sächsischen Kirche).
+*   **1569** - *Colloquium Bernense, Badense, clerici et militis, Herfordiense, Lipsiense, Magdeburgense, Possiacum, Schmaldicum, Wittenbergense, Parisiense et omnia similia* (Kolloquien von Bern, Baden, Geistlicher und Ritter, Herford, Leipzig, Magdeburg, Poissy, Schmalkalden, Wittenberg, Paris und alle ähnlichen).
+*   **1569** - *De auctoritate u. s. w. wie s. 64* (Über die Autorität etc. wie S. 64).
+*   **1569** - *De disciplinis puerorum recteque u. s. w. wie s. 64* (Über die Zucht der Kinder und die richtige Formung etc. wie S. 64).
+*   **1569** - *David Christaeus in historiam Herodoti* (David Chytäus zur Geschichte Herodots).
+*   **1569** - *Davidis Chytraei Enarratio primae epistolae Pauli ad Timotheum* (Erklärung des ersten Paulusbriefes an Timotheus von David Chytäus).
+*   **1569** - *Ejusdem Enaratio in Leviticum* (Derselbe, Erklärung zu Levitikus).
+*   **1569** - *Ejusdem Explicatio prophetae Malachiae cum chronologia histor. Machab. etc.* (Derselbe, Erklärung des Propheten Maleachi mit Chronologie der Makkabäer-Geschichte etc.).
+*   **1569** - *Declarationum Jacobi Scheckii de una persona et duobus personis in Christo* (Erklärungen des Jacob Schegk über eine Person und zwei Personen in Christus).
+*   **1569** - *Disputatio academiae Tubingensis de nova religione seu fide contra errores et blasphemias papistarum, auctore et praeside Doctore Jacobo Heerbrando* (Disputation der Universität Tübingen über die neue Religion oder den Glauben gegen die Irrtümer und Lästerungen der Papisten, Autor und Präses Doktor Jacob Heerbrand).
+*   **1569** - *Disputatio de duabus in Christo naturis atque earundem idiomatum sive proprietatum communicatione, praeside clarissimo theol. Doct. Jacobo Andrea Tubingae* (Disputation über die beiden Naturen in Christus und die Kommunikation ihrer Idiome oder Eigenschaften, Präses der berühmteste Theologe, Doktor Jacobus Andreae in Tübingen).
+*   **1569** - *Disputatio de propositione Paulina: Arbitramur hominem justificari fide absque operibus legis, praeside Theodoro Schnepfio Tubingae* (Disputation über den Paulinischen Satz: Wir meinen, der Mensch werde durch den Glauben ohne Werke des Gesetzes gerechtfertigt, Präses Theodor Schnepf in Tübingen).
+*   **1569** - *De academica pontificiorum dubitatione in negotio justificationis etc., auctore Seigfrido Sacco* (Über die akademische Zweifelhaftigkeit der Päpstlichen in der Sache der Rechtfertigung etc., von Siegfried Sack).
+*   **1569** - *Elegiae aliquot de morte conjugis et liberorum etc. haeresiarchae Joannis Pistorii* (Einige Elegien über den Tod des Ehepartners und der Kinder etc. des Häresiarchen Johannes Pistorius).
+*   **1569** - *Enchiridion manualeve Romae cusum apud Thomam Membrunium, ut quidem loquitur frontispicium; ut vero in calce legitur, Trecis, ubi eum excudebat Franciscus Trumeau* (Handbuch, in Rom bei Thomas Membrunius gedruckt, wie der Titel spricht; wie aber am Ende zu lesen ist, in Troyes, wo es Franciscus Trumeau druckte).
+*   **1569** - *Enchiridion piarum precationum, cum kalendario et passionali, ut vocant. Wittembergae apud Joannem Luft M.D.XXIX.* (Handbuch frommer Gebete, mit Kalender und Passionale, wie man es nennt. Wittenberg bei Johannes Luft 1529).
+*   **1569** - *Epistolae obscurorum virorum* (Briefe der Dunkelmänner).
+*   **1569** - *Epithemata historiae de bello religionis* (Kurzfassungen der Geschichte des Religionskrieges).
+*   **1569** - *Examen Sorbonae de eucharistiae sacramento ex dictis Petri Lombardi* (Sorbonner Untersuchung über das Sakrament der Eucharistie aus den Aussagen des Petrus Lombardus).
+*   **1569** - *Explicatio quaestionis de praesignificationibus astrologicis, per Mercurium Morsenium* (Erklärung der Frage nach astrologischen Vorzeichen, von Merkur Morsen).
+*   **1569** - *Farrago poëmatum repurgunda est* (Gedichtsammlung ist zu reinigen).
+*   **1569** - *Forma orationum ecclesiasticarum et modus administrandi sacramenta et celebrandi sacramentum matrimonii* (Form der kirchlichen Gebete und Art der Verwaltung der Sakramente und Feier des Sakraments der Ehe).
+*   **1569** - *Glossa ordinaria Genevensis* (Genfer Ordinärglosse).
+*   **1569** - *Imagines mortis duodecim imaginibus praeter priores totidemque descriptionibus, praeter epigrammata e Gallicis a Georgio Emilio in Latinum versa, cumulatae* (Bilder des Todes, mit zwölf Bildern zusätzlich zu den früheren und ebenso vielen Beschreibungen, zusätzlich zu den Epigrammen aus dem Französischen von Georg Aemilius ins Lateinische übersetzt, gesammelt).
+*   **1569** - *Index in Augustin. apud Frobenium* (Index zu Augustinus bei Froben).
+*   **1569** - *Index in Chrysostom. apud eundem* (Index zu Chrysostomus ebenda).
+*   **1569** - *Libellus A B C, tractans rudimenta religionis, qui tantum meminit duorum sacramentorum absque nomine auctoris et loci* (Büchlein ABC, die Grundlagen der Religion behandelnd, das nur zwei Sakramente erwähnt, ohne Angabe des Autors und Ortes).
+*   **1569** - *Libellus de concordia ecclesiae* (Büchlein über die Eintracht der Kirche).
+*   **1569** - *Ludi Teutonici rhytmice u. s. w. wie s. 241* (Deutsche rhythmische Spiele etc. wie S. 241).
+*   **1569** - *Missa Latina u. s. w. wie s. 286* (Lateinische Messe etc. wie S. 286).
+*   **1569** - *Modus confitendi et modus orandi, prout impressit Doletus* (Art zu beichten und zu beten, wie es Dolet druckte).
+*   **1569** - *Monumenta ss. patrum orthodoxographa, hoc est theologiae sacrosanctae ac syncerioris fidei doctores, numero circiter 85, ecclesiae lumina, auctores partim Graeci, partim Latini, Basileae M.D.LXIX.* (Denkmäler der heiligen orthodoxen Väter, das heißt Doktoren der heiligsten Theologie und des reineren Glaubens, etwa 85 an der Zahl, Leuchten der Kirche, Autoren teils griechisch, teils lateinisch, Basel 1569).
+*   **1569** - *Multi integri loci sacrae doctrinae Veteris et Novi Testamenti, ex Hebraea et Graeca lingua in Latinum et Germanicum sermonem translati. Lipsiae* (Viele ganze Stellen der heiligen Lehre des Alten und Neuen Testaments, aus dem Hebräischen und Griechischen ins Lateinische und Deutsche übersetzt. Leipzig).
+*   **1569** - *Narratio u. s. w. wie s. 287* (Erzählung etc. wie S. 287).
+*   **1569** - *Oratio ecclesiarum Germaniae, ac Belgiae, sub etc. 1566* (Gebet der Kirchen Deutschlands und Belgiens, unter etc. 1566).
+*   **1569** - *Orationes funebres et epicoedia, opus per tomos distinctum* (Grabreden und Epikedien, ein in Bänden unterteiltes Werk).
+*   **1569** - *Orthodoxographa u. s. w. wie s. 64* (Orthodoxographie etc. wie S. 64).
+*   **1569** - *Pasquilli extatici u. s. w. wie s. 64* (Ekstatische Pasquille etc. wie S. 64).
+*   **1569** - *Praxis et taxa officinae poenitentiariae Papae* (Praxis und Taxe des päpstlichen Pönitenziaramtes).
+*   **1569** - *Precationes Bibliae Antverpiae impressae per Joannem Crinitum* (Biblische Gebete, in Antwerpen gedruckt von Johannes Crinitus).
+*   **1569** - *Praefatio Petri Pauli Vergerii et libri contra primatum Rom. Pontif. adpressi libro R. Reginaldi Poli Cardinalis Britanni pro ecclesiasticae unitatis defensione* (Vorwort von Pier Paolo Vergerio und Bücher gegen den Primat des römischen Pontifex, dem Buch des ehrwürdigen Reginald Pol, Kardinal Britannus, zur Verteidigung der kirchlichen Einheit beigefügt).
+*   **1569** - *Protoevangelium Jacobi* (Protoevangelium des Jakobus).
+*   **1569** - *Protocollum, hoc est, acta colloquii inter Palatinos et Wittembergicos theologos* (Protokoll, das heißt, Akten des Kolloquiums zwischen den Pfälzischen und Wittenberger Theologen).
+*   **1569** - *Psalmi aliquot Davidici, per Henricum Stephanum et quosdam alios similis farinae homines Graeco carmine traducti* (Einige Psalmen Davids, von Henri Estienne und einigen anderen ähnlichen Leuten in griechische Verse übersetzt).
+*   **1569** - *Psalterium Davidis, ex Hebraico in Latinum et Germanicum sermonem fideliter translatum, magna litera, folio, Lipsiae* (Psalter Davids, aus dem Hebräischen getreu ins Lateinische und Deutsche übersetzt, in großer Schrift, Folio, Leipzig).
+*   **1569** - *Sanctae Inquisitionis Hispanicae artes* (Künste der spanischen Inquisition).
+*   **1569** - *Sanctorum patrum meditationes, quibus dominicae passionis mysterium explicatur atque historia de passione Christi expenditur. Marcpurgi 1569* (Meditationen der heiligen Väter, in denen das Geheimnis des Leidens Christi erklärt und die Geschichte des Leidens Christi dargelegt wird. Marburg 1569).
+*   **1569** - *Scripta eruditorum virorum de coena Domini impressa anno 1561* (Schriften gelehrter Männer über das Herrenmahl, gedruckt im Jahr 1561).
+*   **1569** - *Signa sacra et origo missae* (Heilige Zeichen und Ursprung der Messe).
+*   **1569** - *Speculum justitiae* (Spiegel der Gerechtigkeit).
+*   **1569** - *Stratagemata Satanae* (Strategeme Satans).
+*   **1569** - *Summa purioris doctrinae Re. Mansfelden. ad Gallicam ecclesiam 61. adversum Sacramentarios* (Summa der reineren Lehre der Grafen von Mansfeld an die gallikanische Kirche 61. gegen die Sakramentaristen).
+*   **1569** - *Turingicorum exulum responsio* (Antwort der Thüringer Exulanten).
+*   **1569** - *Varia doctorum piorumque virorum de corrupto ecclesiae statu poëmata* (Verschiedene Gedichte gelehrter und frommer Männer über den korrupten Zustand der Kirche).
+*   **1569** - *Wittembergica acta synodalia, a quodam collecta et per Wittenbergicos theologos probata, contra Illyricanos, impressa Wittenberg. 1559* (Wittenberger Synodale Akten, von jemandem gesammelt und von Wittenberger Theologen gebilligt, gegen die Illyrikaner, gedruckt Wittenberg. 1559).
+*   **1569** - *Wormatienses articuli* (Wormser Artikel).
+*   **1570** - *Hadriani Junii nempe medici titulus praefationis praefixus in non nullis exemplaribus Lexici Graecolatini* (Titel des Vorworts von Hadrianus Junius, einem Arzt, in einigen Exemplaren des Griechisch-lateinischen Lexikons).
+*   **1570** - *Hamelmani Commentariolus de vero usu monasteriorum et collegiorum etc.* (Kleiner Kommentar von Hamelmann über den wahren Gebrauch von Klöstern und Kollegien etc.).
+*   **1570** - *Heydelbergensis theologia de Coena Domini, anno M.D.LXVI.* (Heidelberger Theologie über das Abendmahl des Herrn, im Jahr 1566).
+*   **1570** - *Historiarum et chronicorum epitome velut index usque ad annum 34.* (Kurzfassung der Geschichten und Chroniken wie ein Index bis zum Jahr 34).
+*   **1570** - *Historiae Magdeburgicae ab Illirico et suis complicibus mendacissime coacervatae* (Magdeburger Geschichten, von Illyricus und seinen Komplizen aufs lügenhafteste gesammelt).
+*   **1570** - *Imagines mortis duodecim imaginibus praeter priores totidemque descriptionibus, praeter epigrammata e Gallicis a Georgio Emilio in Latinum versa, cumulatae* (Bilder des Todes, mit zwölf Bildern zusätzlich zu den früheren und ebenso vielen Beschreibungen, zusätzlich zu den Epigrammen aus dem Französischen von Georg Aemilius ins Lateinische übersetzt, gesammelt).
+*   **1570** - *Index in Augustin. apud Frobenium* (Index zu Augustinus bei Froben).
+*   **1570** - *Index in Chrysostom. apud eundem* (Index zu Chrysostomus ebenda).
+*   **1570** - *Introductio admirabilium antiqua et moderna, seu Apologia ficta pro Herodoto* (Einführung in die alten und modernen Wunder, oder gefälschte Apologie für Herodot).
+*   **1570** - *Libellus A B C, tractans rudimenta religionis, qui tantum meminit duorum sacramentorum absque nomine auctoris et loci* (Büchlein ABC, die Grundlagen der Religion behandelnd, das nur zwei Sakramente erwähnt, ohne Angabe des Autors und Ortes).
+*   **1570** - *Libellus de concordia ecclesiae* (Büchlein über die Eintracht der Kirche).
+*   **1570** - *Ludi Teutonici rhytmice u. s. w. wie s. 241* (Deutsche rhythmische Spiele etc. wie S. 241).
+*   **1570** - *Missa Latina u. s. w. wie s. 286* (Lateinische Messe etc. wie S. 286).
+*   **1570** - *Modus confitendi et modus orandi, prout impressit Doletus* (Art zu beichten und zu beten, wie es Dolet druckte).
+*   **1570** - *Monumenta ss. patrum orthodoxographa, hoc est theologiae sacrosanctae ac syncerioris fidei doctores, numero circiter 85, ecclesiae lumina, auctores partim Graeci, partim Latini, Basileae M.D.LXIX.* (Denkmäler der heiligen orthodoxen Väter, das heißt Doktoren der heiligsten Theologie und des reineren Glaubens, etwa 85 an der Zahl, Leuchten der Kirche, Autoren teils griechisch, teils lateinisch, Basel 1569).
+*   **1570** - *Multi integri loci sacrae doctrinae Veteris et Novi Testamenti, ex Hebraea et Graeca lingua in Latinum et Germanicum sermonem translati. Lipsiae* (Viele ganze Stellen der heiligen Lehre des Alten und Neuen Testaments, aus dem Hebräischen und Griechischen ins Lateinische und Deutsche übersetzt. Leipzig).
+*   **1570** - *Narratio u. s. w. wie s. 287* (Erzählung etc. wie S. 287).
+*   **1570** - *Oratio ecclesiarum Germaniae, ac Belgiae, sub etc. 1566* (Gebet der Kirchen Deutschlands und Belgiens, unter etc. 1566).
+*   **1570** - *Orationes funebres et epicoedia, opus per tomos distinctum* (Grabreden und Epikedien, ein in Bänden unterteiltes Werk).
+*   **1570** - *Orthodoxographa u. s. w. wie s. 64* (Orthodoxographie etc. wie S. 64).
+*   **1570** - *Pasquilli extatici u. s. w. wie s. 64* (Ekstatische Pasquille etc. wie S. 64).
+*   **1570** - *Praxis et taxa officinae poenitentiariae Papae* (Praxis und Taxe des päpstlichen Pönitenziaramtes).
+*   **1570** - *Precationes Bibliae Antverpiae impressae per Joannem Crinitum* (Biblische Gebete, in Antwerpen gedruckt von Johannes Crinitus).
+*   **1570** - *Praefatio Petri Pauli Vergerii et libri contra primatum Rom. Pontif. adpressi libro R. Reginaldi Poli Cardinalis Britanni pro ecclesiasticae unitatis defensione* (Vorwort von Pier Paolo Vergerio und Bücher gegen den Primat des römischen Pontifex, dem Buch des ehrwürdigen Reginald Pol, Kardinal Britannus, zur Verteidigung der kirchlichen Einheit beigefügt).
+*   **1570** - *Protoevangelium Jacobi* (Protoevangelium des Jakobus).
+*   **1570** - *Protocollum, hoc est, acta colloquii inter Palatinos et Wittembergicos theologos* (Protokoll, das heißt, Akten des Kolloquiums zwischen den Pfälzischen und Wittenberger Theologen).
+*   **1570** - *Psalmi aliquot Davidici, per Henricum Stephanum et quosdam alios similis farinae homines Graeco carmine traducti* (Einige Psalmen Davids, von Henri Estienne und einigen anderen ähnlichen Leuten in griechische Verse übersetzt).
+*   **1570** - *Psalterium Davidis, ex Hebraico in Latinum et Germanicum sermonem fideliter translatum, magna litera, folio, Lipsiae* (Psalter Davids, aus dem Hebräischen getreu ins Lateinische und Deutsche übersetzt, in großer Schrift, Folio, Leipzig).
+*   **1570** - *Sanctae Inquisitionis Hispanicae artes* (Künste der spanischen Inquisition).
+*   **1570** - *Sanctorum patrum meditationes, quibus dominicae passionis mysterium explicatur atque historia de passione Christi expenditur. Marcpurgi 1569* (Meditationen der heiligen Väter, in denen das Geheimnis des Leidens Christi erklärt und die Geschichte des Leidens Christi dargelegt wird. Marburg 1569).
+*   **1570** - *Scripta eruditorum virorum de coena Domini impressa anno 1561* (Schriften gelehrter Männer über das Herrenmahl, gedruckt im Jahr 1561).
+*   **1570** - *Signa sacra et origo missae* (Heilige Zeichen und Ursprung der Messe).
+*   **1570** - *Speculum justitiae* (Spiegel der Gerechtigkeit).
+*   **1570** - *Stratagemata Satanae* (Strategeme Satans).
+*   **1570** - *Summa purioris doctrinae Re. Mansfelden. ad Gallicam ecclesiam 61. adversum Sacramentarios* (Summa der reineren Lehre der Grafen von Mansfeld an die gallikanische Kirche 61. gegen die Sakramentaristen).
+*   **1570** - *Turingicorum exulum responsio* (Antwort der Thüringer Exulanten).
+*   **1570** - *Varia doctorum piorumque virorum de corrupto ecclesiae statu poëmata* (Verschiedene Gedichte gelehrter und frommer Männer über den korrupten Zustand der Kirche).
+*   **1570** - *Wittembergica acta synodalia, a quodam collecta et per Wittenbergicos theologos probata, contra Illyricanos, impressa Wittenberg. 1559* (Wittenberger Synodale Akten, von jemandem gesammelt und von Wittenberger Theologen gebilligt, gegen die Illyrikaner, gedruckt Wittenberg. 1559).
+*   **1570** - *Wormatienses articuli* (Wormser Artikel).
+*   **1570** - *ABC ou instruction chrestienne: ou sont traictés seulement aucuns des sept sacrements et quasi expliqués à la maniere des sectaires* (ABC oder christliche Unterweisung: oder es werden nur einige der sieben Sakramente behandelt und quasi nach Art der Sektierer erklärt).
+*   **1570** - *Eposition sur l'Apocalypse etc.* (Auslegung der Apokalypse etc.).
+*   **1570** - *Les Arrests et ordonnances de la court celeste* (Die Urteile und Verordnungen des himmlischen Hofes).
+*   **1570** - *L'Amant despourveu de son esprit* (Der Liebende, seines Geistes beraubt).
+*   **1570** - *L'A B C des dix commandements chez Tavernier* (Das ABC der zehn Gebote bei Tavernier).
+*   **1570** - *ABC en François chez Jehan van Gheele* (ABC auf Französisch bei Jehan van Gheele).
+*   **1570** - *La Bergerie etc.* (Die Schäferei etc.).
+*   **1570** - *Briefve instruction pour prier, sans nom d'aucteur* (Kurze Anleitung zum Beten, ohne Angabe des Autors).
+*   **1570** - *Le Cantique des cantiques, par Estienne Dolet* (Das Hohelied, von Estienne Dolet).
+*   **1570** - *Le Catalogue du Pape et de Moyse* (Der Katalog des Papstes und des Mose).
+*   **1570** - *Les Catechismes de Geneve et de tous autres lieux haeretiques* (Die Katechismen von Genf und allen anderen häretischen Orten).
+*   **1570** - *De la saincte Cene de nostre Seigneur Jesus, et de la messe qu'on chante communement* (Vom heiligen Abendmahl unseres Herrn Jesus, und von der Messe, die man gewöhnlich singt).
+*   **1570** - *Chansons chrestiennes, etc.* (Christliche Lieder, etc.).
+*   **1570** - *Chansons spirituelles, pleines de consolations* (Geistliche Lieder, voller Tröstungen).
+*   **1570** - *Le Chevalier chrestien, par Estienne Dolet* (Der christliche Ritter, von Estienne Dolet).
+*   **1570** - *La confession d'Anvers, d'Argentine, de Poyssi, et toutes autres telles ou semblables faictes és conciliabules haeretiques* (Das Bekenntnis von Antwerpen, Straßburg, Poissy, und alle anderen solchen oder ähnlichen, in häretischen Konzilien abgelegten).
+*   **1570** - *Confession faulsement imposée etc.* (Bekenntnis, fälschlich zugeschrieben etc.).
+*   **1570** - *La confession et instruction de la foy, dont on use en l'eglise de Geneve* (Das Bekenntnis und die Unterweisung des Glaubens, wie man sie in der Genfer Kirche benutzt).
+*   **1570** - *Debat de piété et de superstition* (Streitgespräch zwischen Frömmigkeit und Aberglauben).
+*   **1570** - *Declaration de la reigle etc.* (Erklärung der Regel etc.).
+*   **1570** - *Une simple declaration sur les douze articles chrestiens par Pierre Martyr* (Eine einfache Erklärung der zwölf christlichen Artikel von Pierre Martyr).
+*   **1570** - *La doctrine nouvelle et ancienne* (Die neue und alte Lehre).
+*   **1570** - *Dialogues sacrés par Georges Vinien* (Heilige Dialoge von Georges Vinien).
+*   **1570** - *Le Psaultier de David en forme d'oraisons, chez Liesvelt* (Der Psalter Davids in Form von Gebeten, bei Liesvelt).
+*   **1570** - *Un brief enseignement etc.* (Eine kurze Unterweisung etc.).
+*   **1570** - *Epistre catholique etc.* (Katholischer Brief etc.).
+*   **1570** - *Epistre demonstrant etc.* (Brief, der zeigt etc.).
+*   **1570** - *Les epistres et evangiles des 52 dimenches de l'an, avec briefve et tresutil exposition d'icelles, sans nom d'autheur* (Die Episteln und Evangelien der 52 Sonntage des Jahres, mit kurzer und sehr nützlicher Auslegung derselben, ohne Angabe des Autors).
+*   **1570** - *Epistre envoyée etc.* (Brief, gesandt etc.).
+*   **1570** - *L'estat de l'eglise, avec le discours des temps depuis les apostres sous Neron jusques à present sous Charles V, contenant en brief les histoires tant anciennes que nouvelles etc.* (Der Zustand der Kirche, mit dem Diskurs der Zeiten von den Aposteln unter Nero bis zur Gegenwart unter Karl V., kurz enthaltend die alten und neuen Geschichten etc.).
+*   **1570** - *Vraye exhortation à tout chrestien du dernier jour du jugement, à Basle par Jehan Bibaut* (Wahre Ermahnung an jeden Christen zum letzten Gerichtstag, in Basel von Jean Bibaut).
+*   **1570** - *Exhortation à la lecture de la saincte Escripture, par Estienne Dolet* (Ermahnung zum Lesen der Heiligen Schrift, von Estienne Dolet).
+*   **1570** - *Expositions sur la premiere epistre de S. Jehan, divisées par sermons par ledict Estienne Dolet* (Auslegungen zum ersten Johannesbrief, in Predigten geteilt von dem besagten Estienne Dolet).
+*   **1570** - *Expositions sur l'epistre aux Romains, tirées des commentaires de Calvin* (Auslegungen zum Römerbrief, entnommen aus den Kommentaren Calvins).
+*   **1570** - *Exposition sur les deux epistres aux Thessaloniciens* (Auslegung der beiden Briefe an die Thessalonicher).
+*   **1570** - *Exposition sur l'epistre catholique de S. Jaques* (Auslegung des katholischen Briefes von St. Jakob).
+*   **1570** - *Exposition sur les deux epistres de S. Pierre et sur celle de S. Jude* (Auslegung der beiden Briefe des St. Petrus und des Judasbriefes).
+*   **1570** - *Exposition sur l'evangile de S. Mathieu* (Auslegung des Evangeliums des St. Matthäus).
+*   **1570** - *Les Faceties de Pogge mises en François* (Die Facetien des Poggio, ins Französische übersetzt).
+*   **1570** - *La forme d'instruire les enfans en chrestienté* (Die Form, Kinder im Christentum zu unterweisen).
+*   **1570** - *La fontaine de vie, sans nom d'aucteur* (Der Brunnen des Lebens, ohne Angabe des Autors).
+*   **1570** - *Sur l'histoire des dix lepreux* (Zur Geschichte der zehn Aussätzigen).
+*   **1570** - *Les Heures de nostre Dame, Latin François, jusques à ce que la traduction françoise soit corrigée* (Die Stunden Unserer Lieben Frau, lateinisch-französisch, bis die französische Übersetzung korrigiert ist).
+*   **1570** - *Les jeus qui par cy devant ont esté joués etc.* (Die Spiele, die zuvor gespielt wurden etc.).
+*   **1570** - *La Langue d'Erasme en François* (Die Zunge des Erasmus auf Französisch).
+*   **1570** - *La maniere d'administrer les sacremens et celebrer le mariage, avec la forme des prieres ecclesiastiques* (Die Art, die Sakramente zu verwalten und die Ehe zu feiern, mit der Form der kirchlichen Gebete).
+*   **1570** - *Manuel ou instruction des curés et vicaires de l'eglise Romaine, avec annotations* (Handbuch oder Unterweisung der Pfarrer und Vikare der Römischen Kirche, mit Anmerkungen).
+*   **1570** - *Le livre des marchants* (Das Buch der Kaufleute).
+*   **1570** - *La medecine de l'ame* (Die Medizin der Seele).
+*   **1570** - *Le manuel de devotion, sans nom d'autheur* (Das Andachtshandbuch, ohne Angabe des Autors).
+*   **1570** - *Pantagruel et Gargantua* (Pantagruel und Gargantua).
+*   **1570** - *Paradis du Pape Jule* (Das Paradies des Papstes Julius).
+*   **1570** - *Les prieres de l'eglise de Geneve* (Die Gebete der Genfer Kirche).
+*   **1570** - *Les prieres etc., imprimées par Dolet* (Die Gebete etc., gedruckt von Dolet).
+*   **1570** - *Les psalmes du royal prophete David en rithme, par Theodore de Beze et Clement Marot, avec les chants* (Die Psalmen des königlichen Propheten David in Reimen, von Théodore de Bèze und Clément Marot, mit den Liedern).
+*   **1570** - *Recueil brief des actes memorables, advenus en Alemaigne, Italie, Angleterre et par especial au royaume de France, depuis le deces du Roy François de Valois, premier de ce nom* (Kurze Sammlung der denkwürdigen Ereignisse, die in Deutschland, Italien, England und insbesondere im Königreich Frankreich seit dem Tod König Franz von Valois, dem ersten dieses Namens, stattgefunden haben).
+*   **1570** - *Recueil d'aucuns lieux fort necessaires pour mettre sa conscience en Dieu* (Sammlung einiger sehr notwendiger Stellen, um sein Gewissen in Gott zu setzen).
+*   **1570** - *La remonstrance etc.* (Die Mahnung etc.).
+*   **1570** - *L'ordre etc.* (Die Ordnung etc.).
+*   **1570** - *Sermons de l'evesque de Valence sur certains points de la religion, recueilliz fidelement ainsi qu'ils ont esté prononcés* (Predigten des Bischofs von Valence über bestimmte Punkte der Religion, treu gesammelt, wie sie gehalten wurden).
+*   **1570** - *Autres sermons du mesme aucteur, servants à discourir etc., à Paris, de l'imprimerie de Michel de Vascosan 1559* (Andere Predigten desselben Autors, die zum Diskutieren dienen etc., in Paris, aus der Druckerei von Michel de Vascosan 1559).
+*   **1570** - *Simulacres de la mort, avec la medecine de l'ame* (Bilder des Todes, mit der Medizin der Seele).
+*   **1570** - *Supplication etc.* (Bittschrift etc.).
+*   **1570** - *Petit traicté, demonstrant etc.* (Kleiner Traktat, der zeigt etc.).
+*   **1570** - *La Triade Romaine* (Die Römische Triade).
+*   **1570** - *La verité etc.* (Die Wahrheit etc.).
+*   **1570** - *La vie de Jesus-Christ et du Pape* (Das Leben Jesu Christi und des Papstes).
+*   **1570** - *ABC, by Jan Fruitiers, apud Sylvium 68* (ABC, von Jan Fruitiers, bei Sylvius 68).
+*   **1570** - *Eenen ABC vanden thien gheboden, by Tavernier* (Ein ABC der zehn Gebote, bei Tavernier).
+*   **1570** - *Eenen ABC met vader onse in duytsche, sine auctore* (Ein ABC mit Vaterunser auf Deutsch, ohne Autor).
+*   **1570** - *Eenen anderen ABC wyt de Proverbien van Salomon ende wyt de epistelen van S. Paulus, apud Sylvium* (Ein weiteres ABC aus den Sprüchen Salomos und aus den Episteln des Heiligen Paulus, bei Sylvius).
+*   **1570** - *Noch eenen anderen A B C, apud eundem* (Noch ein weiteres ABC, ebenda).
+*   **1570** - *Eenen gheestelijcken A B C wyt de psalmen van David, Antverpiae by Ameet Tavernier, sine nomine auctoris et anni* (Ein geistliches ABC aus den Psalmen Davids, Antwerpen, von Ameet Tavernier, ohne Namen des Autors und des Jahres).
+*   **1570** - *Der leecken ABC, by Jan van Ghele* (Das ABC der Laien, von Jan van Ghele).
+*   **1570** - *Almanach ende prognosticatie van Nostradamus, anno 1569* (Almanach und Prognostikation von Nostradamus, Jahr 1569).
+*   **1570** - *Eenen gheestelijcken Almanach oft laetbrief* (Ein geistlicher Almanach oder Letztsbrief).
+*   **1570** - *Antfanck der christelijcker kinderleere, sine auctore* (Anfang der christlichen Kinderlehre, ohne Autor).
+*   **1570** - *De hooft generael Articulen des christelijcken gheloofs van die rechte ende valsche kercke* (Die Hauptgenerellen Artikel des christlichen Glaubens von der wahren und falschen Kirche).
+*   **1570** - *Een Battement oft spel van den oprechten aflaet, gheprent tot Ghent* (Ein Schauspiel oder Spiel vom wahren Ablass, gedruckt in Gent).
+*   **1570** - *Een boeck gheintituleert: Een ghenuechlijck Battement van V personagien* (Ein Buch mit dem Titel: Ein angenehmes Schauspiel von 5 Personen).
+*   **1570** - *Genuechlijcke boecxkens van Battementen etc.* (Angenehme Büchlein von Schauspielen etc.).
+*   **1570** - *Bedebuchlijn fur allen ghemeynen etc., int duytsche, sine auctore* (Gebetsbüchlein für alle Gemeinden etc., auf Deutsch, ohne Autor).
+*   **1570** - *Een schoon Bedeboeck, alle man ende kinderen zeer nut wesende etc.* (Ein schönes Gebetbuch, für alle Männer und Kinder sehr nützlich etc.).
+*   **1570** - *Een nieuwe christelijcke Bedeboeck, wyt den ouden leeraers der kercken, als Augustino, Ambrosio, Cypriano, Cyrillo, Bernardo, te samen ghebracht, in alderley aenvechtingen ende nooden te beden dienstelijck ende costelijck. Noch een christelijck overdencken des lijdens ons heeren ende heylants Jesu Christi. Ghedruckt tot Campen by my Beerent Peeterssen, absque nomine auctoris seu anni, sed expressione loci* (Ein neues christliches Gebetbuch, aus den alten Kirchenlehrern, wie Augustinus, Ambrosius, Cyprian, Kyrill, Bernhard, zusammengebracht, nützlich und kostbar zum Gebet in allerlei Anfechtungen und Nöten. Noch ein christliches Nachdenken über das Leiden unseres Herrn und Heilands Jesus Christus. Gedruckt in Kampen von mir, Beerent Peeterssen, ohne Angabe des Autors oder Jahres, aber mit Ortsangabe).
+*   **1570** - *Een Boecxken: Hier naer volgen schoone gebeden, sine auctore* (Ein Büchlein: Hier folgen schöne Gebete, ohne Autor).
+*   **1570** - *Een Boecxken tracterende vanden vrienden* (Ein Büchlein, das von Freunden handelt).
+*   **1570** - *Boecxken innehoudende manieren van leven* (Büchlein, das Lebensweisen enthält).
+*   **1570** - *Een suyverlijck Boecxken innehoudende den gront ende oorspronck onser salicheyt, gheprent Tantwerpen by Jan Koelants anno 1558* (Ein reines Büchlein, das den Grund und Ursprung unseres Heils enthält, gedruckt in Antwerpen von Jan Koelants im Jahr 1558).
+*   **1570** - *Een hoochduytsch Boecxken van Sebastiaen Franck teghen de dronckaerts* (Ein hochdeutsches Büchlein von Sebastian Franck gegen die Trinker).
+*   **1570** - *Vande Borgheren, hoe dat sy onder malcanderen leven sullen, ghedruckt by Jan Wijndricx tot Antwerpen 1548* (Von den Bürgern, wie sie untereinander leben sollen, gedruckt von Jan Wijndricx in Antwerpen 1548).
+*   **1570** - *Broederlijcke vereeninghe van sommighe kinderen Godts aengaende VII artikelen. Item een seyntbrief van Michiel Salter aen een gemeynte Gods met cort waerachtich bewijs, hoe dat hy zijn leere tot Wittemberch aenden Necker met zijnen bloede betuycht heeft. Sectae Mennonisticae* (Brüderliche Vereinigung einiger Kinder Gottes betreffend 7 Artikel. Dazu ein Sendschreiben von Michael Salter an eine Gemeinde Gottes mit kurzem wahrhaftigem Beweis, wie er seine Lehre in Wittenberg am Neckar mit seinem Blut bezeugt hat. Menonitische Sekte).
+*   **1570** - *Catechismus oft onderwijsinghe in die christelijcke leere, ghelijck die in kercken ende scholen der Coorvorsten Paltz ghedreven ende gheleert wort* (Katechismus oder Unterweisung in der christlichen Lehre, wie sie in Kirchen und Schulen der Kurfürsten der Pfalz geübt und gelehrt wird).
+*   **1570** - *Den cleynen Catechismus oft kinderleere der duitscher ghemeynten van Londen, de welcke nu hier ende daer verstroyt is, ghemaeckt door Merten Microen, ghedruckt by Gellium Ctematium anno 1559, absque nomine loci* (Der kleine Katechismus oder Kinderlehre der deutschen Gemeinde in London, die nun hier und dort verstreut ist, verfasst von Merten Microen, gedruckt von Gellium Ctematium im Jahr 1559, ohne Ortsangabe).
+*   **1570** - *Den cleynen Catechismus oft een onderwijs ende fundament des christelijcken gheloofs voor den ghemeynen pastooren, predickaers ende huysvaders, om den simpeln ende cleynen kinderkens, door vraghe ende antwoorde gstelt, gedruckt tot Wesel by Hans de Braecker den 22. dach Augusti 1558* (Der kleine Katechismus oder eine Unterweisung und das Fundament des christlichen Glaubens für die gewöhnlichen Pfarrer, Prediger und Familienväter, um den einfachen und kleinen Kindern, durch Frage und Antwort gestellt, gedruckt in Wesel von Hans de Braecker am 22. August 1558).
+*   **1570** - *Den corten Catechismus, ghedruckt ten Bossche by Jan van Turnhout* (Der kurze Katechismus, gedruckt in Herzogenbusch von Jan van Turnhout).
+*   **1570** - *Catechismus Latinogermanicus in ecclesia Sittardiensi per Paulum Chimareum* (Lateinisch-deutscher Katechismus in der Sittardter Kirche von Paul Chimareus).
+*   **1570** - *Een nieuwe Cluchtboeck, overghesedt wyten hoochduytschen bouck, gheheten Schimp, ende wyten Latijne van Henricus Bebelius. Antverpiae apud Joannem Roelants* (Ein neues Spaßbuch, aus dem hochdeutschen Buch, genannt Schimpf, und aus dem Lateinischen von Henricus Bebelius übersetzt. Antwerpen bei Johann Roelants).
+*   **1570** - *De cleyne Colloquie int vlaemsche ende franchois by Joos Lambrechts. Gandavi anno 50 et Antverpiae apud Waesberghe* (Das kleine Kolloquium auf Flämisch und Französisch von Joos Lambrechts. Gent im Jahr 50 und Antwerpen bei Waesberghe).
+*   **1570** - *Colloques familieres d'Erasme en françois flameng, apud Latium anno 59* (Vertraute Kolloquien des Erasmus auf Französisch-Flämisch, bei Latium im Jahr 59).
+*   **1570** - *Een holtselighe evangelische Comedie, sine auctore* (Eine hölzerne evangelische Komödie, ohne Autor).
+*   **1570** - *De Const der minnen* (Die Kunst der Liebe).
+*   **1570** - *Das drijtte theyel des rolwaghens van vier historien overlents, ghedruckt by Christiaen Engelvolf* (Der dritte Teil des Rollwagens von vier überlieferten Geschichten, gedruckt von Christiaen Engelvolf).
+*   **1570** - *Dialogue van meestelckerlijck mensche* (Dialog vom menschlichsten Menschen).
+*   **1570** - *Een kints Dialogue van twee lansknechten* (Ein Kinderdialog von zwei Landsknechten).
+*   **1570** - *Een schoone Disputatie van eenen evangelischen schoenmaeckere ende van eenen papistischen coorheere met twee andere personagien, gheschiet tot Norenberch* (Eine schöne Disputation zwischen einem evangelischen Schuster und einem papistischen Kanoniker mit zwei anderen Personen, geschehen in Nürnberg).
+*   **1570** - *Een suyverlijcke ende schoone disputatie, de welcke geschiet is inden Haghe in Hollandt tusschen die ketermeesters ende eenen gheestelijcken priester ghenoempt Jan van Woorden, aldaer ghevanghen ende ook verbrandt, de welcke questien al wel genoteert zijn van een geleert man, anno 1525* (Eine reine und schöne Disputation, die in Den Haag in Holland zwischen den Ketzermeistern und einem geistlichen Priester namens Jan van Woorden stattfand, der dort gefangen und auch verbrannt wurde, wobei die Fragen von einem gelehrten Mann gut notiert wurden, im Jahr 1525).
+*   **1570** - *Dat dootbedde ende onderganck der missen* (Das Totenbett und der Untergang der Messen).
+*   **1570** - *Ecclesiasticus in liedekens ghestelt by Jan Fruijtier* (Ecclesiasticus in Liedern gesetzt von Jan Fruijtier).
+*   **1570** - *Enchiridion gheestelijcke ghesangen, sine nomine auctoris* (Handbuch geistlicher Gesänge, ohne Angabe des Autors).
+*   **1570** - *Erasmus van die eendrachticheyt der kerken. Antverpiae by Wouter van Lyn anno 33 ende Liesvelt* (Erasmus über die Eintracht der Kirchen. Antwerpen, von Wouter van Lyn im Jahr 33 und Liesvelt).
+*   **1570** - *Evangelie van den spinrocke* (Evangelium vom Spinnrocken).
+*   **1570** - *Expositie van den psalm Miserere mei Deus deur Joannem Spangenbergium* (Auslegung des Psalms Miserere mei Deus durch Johannes Spangenberg).
+*   **1570** - *Een Expositie opden hondersten ende 26. psalm* (Eine Auslegung zum hundertsten und 26. Psalm).
+*   **1570** - *Een Expositie op die tweetste epistel van Sinte Pieter, ende op der epistelen Judae, zonder naem des autheurs* (Eine Auslegung des zweiten Petrusbriefes und des Judasbriefes, ohne Angabe des Autors).
+*   **1570** - *Een Figuere van t'crucifix der fonteynen des levens, daer boven staet aldus: So wie dorstet, die come ende neme dat water des levens om niet. Apocalyps. XXI.* (Eine Figur des Kreuzes der Brunnen des Lebens, darüber steht so: Wer da Durst hat, komme und nehme das Wasser des Lebens umsonst. Offenbarung 21).
+*   **1570** - *Een Figuere van onse Heere, daer by staet: Ego sum pastor bonus* (Eine Figur unseres Herrn, daneben steht: Ich bin der gute Hirte).
+*   **1570** - *Een Figuere van den verloren sone met eenen monick daer by* (Eine Figur des verlorenen Sohnes mit einem Mönch daneben).
+*   **1570** - *Figueren van den Hypocrijt, ubi sunt scripturae, quod oportet Deum adorari in spiritu et veritate* (Figuren des Heuchlers, wo Schriften sind, dass Gott im Geist und in der Wahrheit angebetet werden muss).
+*   **1570** - *De sotte ende bourdelijcke bruyloft* (Die törichte und derbe Hochzeit).
+*   **1570** - *De thien gheboden, by Jacob Janssen Brugis* (Die zehn Gebote, von Jacob Janssen aus Brügge).
+*   **1570** - *Pater noster int sotte* (Vaterunser im Albernen).
+*   **1570** - *T' miraeckel, daer Christus V duysent ghespijst heeft, een caerte oft figuere by Jacob Janssen Brugis* (Das Wunder, wo Christus 5000 gespeist hat, eine Karte oder Figur von Jacob Janssen aus Brügge).
+*   **1570** - *Het oordeel by den selven* (Das Urteil von demselben).
+*   **1570** - *De Fonteyne des levens, sine nomine auctoris et impressoris* (Der Brunnen des Lebens, ohne Angabe von Autor und Drucker).
+*   **1570** - *Ghebeden der Bybelen, als die heylighe vaders ende vrouwen Gode plegen aen te roepen ende te bidden. Antverpiae by Hans Liesveldt, by Joannem Wyndricx anno 52 ende by Keerberghen* (Gebete der Bibeln, wie die heiligen Väter und Frauen Gott zu rufen und zu beten pflegten. Antwerpen, von Hans Liesveldt, von Johann Wyndricx im Jahr 52 und von Keerberghen).
+*   **1570** - *Een Ghebede boecxken, Fundament van alle leeringhen* (Ein Gebetbüchlein, Fundament aller Lehren).
+*   **1570** - *T' ghulden Ghebedeboecxken wyt den Ouden ende Nieuwen Testamente* (Das goldene Gebetbüchlein aus dem Alten und Neuen Testament).
+*   **1570** - *Davids Psalter gebedewijs, inhoudende 150 psalmen, ghestelt door Georgius S'malsincg* (Davids Psalter gebetsweise, enthaltend 150 Psalmen, verfasst von Georg Schmalzing).
+*   **1570** - *Een zeltsam Ghespraeck van twee Inden* (Ein seltsames Gespräch von zwei Indern).
+*   **1570** - *Het oude Christi Gheloove teghen die nieuwe papisten dolighe* (Der alte Glaube Christi gegen die neuen törichten Papisten).
+*   **1570** - *Item van dat Gheloove aen onsen salichmaecker Jesum Christum, wat ombegrijpelicke verdiensten, heylicheyt ende salicheyt die wy daer door crijghen, ende van eens christens menschen oeffenijnghe ende wercken* (Ferner vom Glauben an unseren Heiland Jesus Christus, welche unbegreiflichen Verdienste, Heiligkeit und Seligkeit wir dadurch erlangen, und von der Übung und den Werken eines Christenmenschen).
+*   **1570** - *Goede manierlijcke zeden, van Erasmus* (Gute, manierliche Sitten, von Erasmus).
+*   **1570** - *Van den Grouwel der missen datmen Canon noempt, absque nomine auctoris et loci* (Von dem Gräuel der Messen, die man Kanon nennt, ohne Angabe des Autors und Ortes).
+*   **1570** - *De Historie van Antechrist met de beeste met seven hoofden met de pauscroone. Antverpiae by Jan van Ghele anno 66* (Die Geschichte des Antichristen mit dem Tier mit sieben Köpfen mit der Papstkrone. Antwerpen, von Jan van Ghele im Jahr 66).
+*   **1570** - *Historie ende prophetie wyt der heyligher Scrifturen. Antverpiae by Liesveldt* (Geschichte und Prophezeiung aus der Heiligen Schrift. Antwerpen, bei Liesveldt).
+*   **1570** - *De Historie van Broer Ruysche, by Claes van den Walle. Sine nomine auctoris et privilegio* (Die Geschichte des Bruders Ruysche, von Claes van den Walle. Ohne Angabe des Autors und Privilegs).
+*   **1570** - *Historie van Lazarus redevivus per Joannem Sapidum Selestadium* (Geschichte des wiederbelebten Lazarus von Johannes Sapidus aus Schlettstadt).
+*   **1570** - *Historie van Theball ende Ermilina* (Geschichte von Theball und Ermilina).
+*   **1570** - *Historie van den rijcken ende Lazarus* (Geschichte vom Reichen und Lazarus).
+*   **1570** - *Een duytsche Historie van den verduldighen Job* (Eine deutsche Geschichte vom geduldigen Hiob).
+*   **1570** - *Historie van Moorkens vel* (Geschichte von Moorkens Fell).
+*   **1570** - *Een Hantboecxken van devotien, sine nomine auctoris. Antverpiae apud Joannem Latium anno 56, apud Keerberghe 57, apud Tavernier 67 et 68, by Claes van den Wouwere* (Ein Handbüchlein der Andachten, ohne Angabe des Autors. Antwerpen, bei Johann Latium im Jahr 56, bei Keerberghe 57, bei Tavernier 67 und 68, von Claes van den Wouwere).
+*   **1570** - *Een schoon christelijcke Leeringhe van den gheestelijcken tempel ende wereltlijcken tempel, oft goet is, kercken te timmeren, oft niet* (Eine schöne christliche Lehre vom geistlichen Tempel und weltlichen Tempel, ob es gut ist, Kirchen zu bauen, oder nicht).
+*   **1570** - *Item een schoon ende profitelijcke Leeringhe wyt Gods woort, allen menschen vermanende tot de hemelsche wedergheboorte ende nieuwe creature. Sectae Mennonisticae* (Ferner eine schöne und nützliche Lehre aus Gottes Wort, alle Menschen zur himmlischen Wiedergeburt und neuen Kreatur ermahnend. Menonitische Sekte).
+*   **1570** - *Liedtbouxkens, ghedruckt by Jan van Ghele anno 1548* (Liederbüchlein, gedruckt von Jan van Ghele im Jahr 1548).
+*   **1570** - *Een schoon nieuwe geestelijck Liedt im thoon: Ausz eynder betrusten ghemuet ghedacht ich tzu zinghen eyn liedt* (Ein schönes neues geistliches Lied im Ton: Aus einem betrübten Gemüt dacht ich, ein Lied zu singen).
+*   **1570** - *Sommighe duytsche Liedekens* (Einige deutsche Lieder).
+*   **1570** - *Twee nieuwe gheestelijcke Liedekens, sine auctore* (Zwei neue geistliche Lieder, ohne Autor).
+*   **1570** - *Leyssenen ende gheestelijcke liedekens* (Lesungen und geistliche Lieder).
+*   **1570** - *Lingua Erasmi int vlaemsche by Symon Cock anno 55* (Erasmus' Lingua auf Flämisch bei Simon Cock im Jahr 55).
+*   **1570** - *Een sonderlinge salige Oeffeninge der passien Christi* (Eine besondere, selige Übung des Leidens Christi).
+*   **1570** - *Den Offer des Heeren* (Das Opfer des Herrn).
+*   **1570** - *Den Opoffer der marteleeren, met verscheyden sendtbrieven. Sectae Mennonisticae* (Das Opfer der Märtyrer, mit verschiedenen Sendschreiben. Menonitische Sekte).
+*   **1570** - *Een slechtelijcke ende scriftelijcke Onderrichtinghe van dat doopsel ende avontmael Christi Jesu, seer nut nu ter tijt voor alle slechte menschen. Ghedruckt te Campen in de hofstrate by my Jan Janssen anno 1566* (Eine einfache und schriftliche Unterweisung über die Taufe und das Abendmahl Jesu Christi, sehr nützlich jetzt für alle einfachen Menschen. Gedruckt in Kampen in der Hofstraat von mir, Jan Janssen, im Jahr 1566).
+*   **1570** - *Corte Onderwysinghe der heyligher Scriftueren, hoe wy den duvel, de werelt ende het vleesch wederstaen sullen. Antverpiae by Keerbergen anno 67* (Kurze Unterweisung der Heiligen Schrift, wie wir dem Teufel, der Welt und dem Fleisch widerstehen sollen. Antwerpen, bei Keerbergen im Jahr 67).
+*   **1570** - *Ovidius Naso, by Jan van Ghele anno 1567* (Ovidius Naso, von Jan van Ghele im Jahr 1567).
+*   **1570** - *De Passie ons heeren Jesu Christi als ons Nicodemus ende de vier evangelisten bescrijven. Antverpiae by Claes van den Wouwere* (Das Leiden unseres Herrn Jesus Christus, wie es uns Nikodemus und die vier Evangelisten beschreiben. Antwerpen, von Claes van den Wouwere).
+*   **1570** - *Den edelen, hoogen ende troostelijcken sendtbrief, die de heylighe apostel Paulus tot den Romeynen gescreven heeft, verclaert ende gants vlijtich met ernste van woorde tot woorde wytgeleyt tot eender costelijcker nutticheyt ende troost allen goetwilligen liefhebbers des eeuwighen oneynlijcken waerheyts* (Der edle, hohe und tröstliche Sendschreiben, das der heilige Apostel Paulus an die Römer geschrieben hat, erklärt und ganz fleißig mit Ernst Wort für Wort ausgelegt zu einem kostbaren Nutzen und Trost für alle wohlwollenden Liebhaber der ewigen untrennbaren Wahrheit).
+*   **1570** - *Postille op de epistelen ende evangelien van alle sondaghen ende sonderlinghe heylighedagen des geheelen jaers, sonder naem des autheurs* (Postille zu den Episteln und Evangelien aller Sonntage und besonderen Feiertage des ganzen Jahres, ohne Angabe des Autors).
+*   **1570** - *Eijns freijaerts Predich* (Eines Freigeistes Predigt).
+*   **1570** - *Prognosticatie van Pantagruel. Gandavi by Canwel 54* (Prognostikation von Pantagruel. Gent, bei Canwel 54).
+*   **1570** - *De Psalmen David ende ander lofsanghen wyt den franchoysche dichte, gemaeckt door Clement Marot ende Theodore de Beze, en nederlantsche spraecke overghesedt door Petrum Dathenum ende door den selven wederomme oversien ende verbetert, mitsgaders den christelijcken catechismus, ceremonie ende geboden, gheprent int jaer 1567, absque nomine loci* (Die Psalmen Davids und andere Lobgesänge aus dem französischen Reim, gemacht von Clément Marot und Théodore de Bèze, ins Niederländische übersetzt von Petrus Dathenus und von demselben wiederum überarbeitet und verbessert, samt dem christlichen Katechismus, Zeremonie und Geboten, gedruckt im Jahr 1567, ohne Ortsangabe).
+*   **1570** - *De Psalmen Davids van Clement Marot in dichte ghestelt by Lucas de Heere. Te Ghendt by Manilium anno 65* (Die Psalmen Davids von Clément Marot in Reimen gesetzt von Lucas de Heere. In Gent, bei Manilium im Jahr 65).
+*   **1570** - *Psalmes of David, in enghelsche metre by Thomas van Sterneholde etc. Londini cum notis apud Joannem Dahij 59* (Psalmen Davids, in englischem Versmaß von Thomas van Sterneholde etc. London mit Noten bei Johannes Dahij 59).
+*   **1570** - *Den derden Psalm van David by Erasmus. Apud Mariam Ancxt, Antverpiae anno 51* (Der dritte Psalm Davids von Erasmus. Bei Maria Ancxt, Antwerpen im Jahr 51).
+*   **1570** - *Een schoon lustich Ratersbuchlijn int duytsch* (Ein schönes, lustiges Ratsbuchlein auf Deutsch).
+*   **1570** - *Refereynen van dat oordeel, sine auctore* (Refrains vom Urteil, ohne Autor).
+*   **1570** - *Refereynen soo amoureus ende wijs. Antverp. by Jan van Ghele ende by Liesveldt* (Refrains, so amourös und weise. Antwerpen, von Jan van Ghele und bei Liesveldt).
+*   **1570** - *Reynaert de vos* (Reineke Fuchs).
+*   **1570** - *Den kersten Ridder by Erasmus* (Der christliche Ritter von Erasmus).
+*   **1570** - *Salus populi, met des cruepelen calengier* (Heil des Volkes, mit dem Kalender des Krüppels).
+*   **1570** - *Den Schilt oft de wapenen des gheloofs* (Der Schild oder die Waffen des Glaubens).
+*   **1570** - *Schimp unde ernst durch allen welten. Ghedruckt tzu Franckfort by Christiaen Engelnol* (Scherz und Ernst durch alle Welten. Gedruckt zu Frankfurt von Christiaen Engelnol).
+*   **1570** - *Een Sermoon Erasmi van de oonbegrijpelijcke bermherticheyt Gods, by Liesveldt ende Henrick Peeterssen* (Eine Predigt des Erasmus über die unbegreifliche Barmherzigkeit Gottes, bei Liesveldt und Henrick Peeterssen).
+*   **1570** - *Een gheleert ende werdich Sermoon van de waerheyt des avontmaels Christi, gheprent T' sertoghenbossche by Jan van Turnhout anno 1567* (Eine gelehrte und würdige Predigt von der Wahrheit des Abendmahls Christi, gedruckt in Herzogenbusch von Jan van Turnhout im Jahr 1567).
+*   **1570** - *Een schoon Sermoon van den seven brooden, daer by die vier duysent mannen sonder vrouwen ende kinderen af versaedt waren, leerende vanden vasten gheloove ende betrouwen in Godt. Marci int VIII. Item nooch een schoon sermon: Segget der dochter van Syon: siet, uwen coninck comt tot u saechtmoedig, leerende, hoe dat die Heere yerst moet comen ende onsen wille ghehell afgaen ende hem aenhangen. Mat. int XXI. Item noch een costelijck sermoon vanden onrechten Mammon, oock leerende vanden vasten gheloove ende meer ander goede leeringhen. Luce int XVI. Est pestilentissimus libellus* (Eine schöne Predigt von den sieben Broten, womit die vier tausend Männer ohne Frauen und Kinder gesättigt wurden, lehrend vom festen Glauben und Vertrauen auf Gott. Markus im 8. Item noch eine schöne Predigt: Sagt der Tochter Zion: Siehe, dein König kommt zu dir sanftmütig, lehrend, wie der Herr zuerst kommen muss und unser Wille sich ergeben muss und ihm anhängen. Matthäus im 21. Item noch eine kostbare Predigt vom ungerechten Mammon, auch lehrend vom festen Glauben und mehr anderen guten Lehren. Lukas im 16. Dies ist ein höchst pestilentes Büchlein).
+*   **1570** - *De Stove by Jan van Dale* (Der Ofen von Jan van Dale).
+*   **1570** - *Een schoon christlich duytsch Spel, sine auctore* (Ein schönes christliches deutsches Spiel, ohne Autor).
+*   **1570** - *Den Spieghel der jongheeren* (Der Spiegel der jungen Herren).
+*   **1570** - *Den Spieghel des houwelicx, by Erasmus* (Der Spiegel der Ehe, von Erasmus).
+*   **1570** - *Een boecxken gheheeten Sevenhondert etc.* (Ein Büchlein namens Siebenhundert etc.).
+*   **1570** - *Een Spraecke van eender moeder met haer dochter, huer in een clooster te brijnghen* (Ein Gespräch einer Mutter mit ihrer Tochter, sie in ein Kloster zu bringen).
+*   **1570** - *Sterf-boecken inholdende voor de siecken tot die bereydinghe des doots, ghecopuleert wyt der heyligher Scriftueren door den weerdigen priester heer Matthijs Lenaerts saligher memorien, capellaen van den Were in Zeelandt, ghedruckt te Campen in die broederstrate by my Peeter Waermerssoene, woonende inden witten valck* (Sterbebücher, enthaltend für die Kranken zur Vorbereitung des Todes, zusammengestellt aus der Heiligen Schrift durch den würdigen Priester Herrn Matthijs Lenaerts seligen Gedenkens, Kaplan von den Were in Zeeland, gedruckt in Kampen in der Brüderstraße von mir, Peeter Waermerssoene, wohnhaft im weißen Falken).
+*   **1570** - *Summa der godtlijcker Scriftueren, oft een Duutsche Theologie* (Summe der göttlichen Schriften, oder eine deutsche Theologie).
+*   **1570** - *Van de suyverheyt des Tabernakels, by Erasmus* (Von der Reinheit der Stiftshütte, von Erasmus).
+*   **1570** - *Tauleri homilien in de nederspraecke overghesedt ende gheprint tot Franckfort, tot dat sy gecorrigeert sijn* (Taulers Homilien ins Niederländische übersetzt und in Frankfurt gedruckt, bis sie korrigiert sind).
+*   **1570** - *Dat Testament van minnen* (Das Testament der Liebe).
+*   **1570** - *De Testamenten der XII patriarchen, apud Keerberghen anno 66 et Liesveldt 62* (Die Testamente der zwölf Patriarchen, bei Keerberghen im Jahr 66 und Liesveldt 62).
+*   **1570** - *T' ghevecht der minnen Venus etc.* (Der Kampf der Liebe Venus etc.).
+*   **1570** - *Van de Thien esels, sprekende van thienderley manieren* (Von den zehn Eseln, sprechend von zehn Arten).
+*   **1570** - *Een waerachtige nieuwe Tijdighe van de gheestelicheyt tegen de weerlijcheyt* (Eine wahrhaftige neue Kunde von der Geistlichkeit gegen die Weltlichkeit).
+*   **1570** - *Een schoon ende godlijcke Tijtcortinghe eens kerstelijcken lotboecs* (Eine schöne und göttliche Zeitverkürzung eines christlichen Losbuches).
+*   **1570** - *Een suyver Tractaetken, ghenoemt Tijtcortinghe etc.* (Ein reines Traktätlein, genannt Zeitverkürzung etc.).
+*   **1570** - *Troostinghe der godlijcker Scrift etc.* (Trost der göttlichen Schrift etc.).
+*   **1570** - *Der sielen Troost etc.* (Der Seelen Trost etc.).
+*   **1570** - *Een vriendelijcke T'samensprekinghe van sommighe vernaempste puncten des religions belanghede, daermen op den huydeghen dach t'wistich of is, tuschen twee persoonen, den eenen ghenoempt Joannes ende den anderen Jacobus, met den register van den selven puncten achter aent boeck aengeteeckent, door Jan Ambachus int Nederlandt, ghedruckt anno 1566* (Eine freundliche Unterredung über einige der wichtigsten Punkte der Religion, über die man heute streitet, zwischen zwei Personen, die eine namens Johannes und die andere Jacobus, mit dem Register der Punkte am Ende des Buches, von Jan Ambachus in den Niederlanden, gedruckt im Jahr 1566).
+*   **1570** - *T'sieckbedde van Tobias. Dialogus ten prochiaen ende den crancken. Sparsus hic is tempore Geusianismi* (Das Krankenbett des Tobias. Dialog zwischen dem Gemeindepfarrer und dem Kranken. Dies ist zur Zeit des Geusianismus verbreitet).
+*   **1570** - *Den Val der Roomscher kercken etc.* (Der Fall der Römischen Kirche etc.).
+*   **1570** - *Van den alden God ende nieuwen God* (Vom alten Gott und neuen Gott).
+*   **1570** - *Veelderhande liedekens etc.* (Vielerlei Lieder etc.).
+*   **1570** - *Veelderhande gheestelijcke liedekens, oude ende nieuwe, om alle droefheyt ende melancoliije te verdrijven* (Vielerlei geistliche Lieder, alte und neue, um alle Traurigkeit und Melancholie zu vertreiben).
+*   **1570** - *Verclaeringhe van die menichfuldighe loose practijken ende listen, soe van inquisitien, observantie ende onderholdinghe van die placcaeten ende anderssins etc.* (Erklärung der vielfältigen listigen Praktiken und Listen, so von Inquisitionen, Beobachtung und Einhaltung der Plakate und anderswo etc.).
+*   **1570** - *Virgilius, van zijn leven, doot ende van syne wonderlijcke wercken* (Vergil, von seinem Leben, Tod und seinen wunderbaren Werken).
+*   **1570** - *Der sielen Vocabulier* (Das Vokabular der Seelen).
+*   **1570** - *Een schoon Vraeghe van eenen boer, hoe dat hy eenen pape ghevraecht heeft van weghen sommighe articulen, seer schoon ende lustich te lesen ende te hooren. Ghedruckt anno 1565* (Eine schöne Frage eines Bauern, wie er einen Pfaffen wegen einiger Artikel gefragt hat, sehr schön und lustig zu lesen und zu hören. Gedruckt im Jahr 1565).
+*   **1570** - *Van de Vier vrijers, die tot Colen alle een vrouwe vrijden, by Jan van Ghele* (Von den vier Freiern, die alle in Köln eine Frau freiten, von Jan van Ghele).
+*   **1570** - *Den Wech der behoedenisse, by Matheus Crom, anno 1548* (Der Weg des Heils, von Matthäus Crom, im Jahr 1548).
+*   **1570** - *Eenen Wederroep van het vaghevier, sine nomine auctoris* (Ein Widerruf des Fegefeuers, ohne Angabe des Autors).
+*   **1570** - *Wlenspieghel, apud Joannem van Ghele, sine privilegio et anno* (Eulenspiegel, bei Johann van Ghele, ohne Privileg und Jahr).
+*   **1570** - *Een Wytlegginghe van t' Pater noster by Erasmus* (Eine Auslegung des Vaterunsers von Erasmus).
+*   **1570** - *Van den thien gheboden een corte Wytlegginghe ende een verclaringhe des rechten gheloofs etc.* (Von den zehn Geboten eine kurze Auslegung und eine Erklärung des rechten Glaubens etc.).
+*   **1570** - *Een christelijcke Wytlegginghe oft expositie op die thien gheboden ende op dat Pater noster naer de rechte waerheyt der heyligher kercken* (Eine christliche Auslegung oder Exposition der zehn Gebote und des Vaterunsers nach der wahren Wahrheit der heiligen Kirche).
+*   **1570** - *Antithesis de praeclaris Christi et indignis Papae facinoribus* (Antithese der glorreichen Taten Christi und der unwürdigen Untaten des Papstes).
+*   **1570** - *Apologia pro Carolo V in quarto* (Apologie für Karl V. im Quartformat).
+*   **1570** - *Asino volgare in tit. Ragionamento dell' asino* (Volksesel im Titel: Gespräch des Esels).
+*   **1570** - *Apostolicum et Decalogum Basileae* (Apostolisches und Dekalog in Basel).
+*   **1570** - *Apologi Viae* (Apologien des Weges).
+*   **1570** - *Apologia ecclesiae Anglicanae, sine nomine* (Apologie der englischen Kirche, ohne Namen).
+*   **1570** - *Apologia pro Carolo V in quarto* (Apologie für Karl V. im Quartformat).
+*   **1570** - *Belial, procurador de Lucifer contra Moysen procurador de Jesu Christo* (Belial, Ankläger Luzifers, gegen Moses, Ankläger Jesu Christi).
+*   **1570** - *Biblia volg. Testamento novo. Evang. omnia volg.* (Volksbibel. Neues Testament. Alle Evangelien in Volkssprache).
+*   **1570** - *Breviarium et officium Vercellarum* (Brevier und Offizium von Vercelli).
+*   **1570** - *Canzone disoneste o lascive* (Unehrliche oder laszive Lieder).
+*   **1570** - *Comedie disoneste o lascive* (Unehrliche oder laszive Komödien).
+*   **1570** - *Canzone in morte d'Ascanio della Cornia* (Lieder zum Tod von Ascanio della Cornia).
+*   **1570** - *Confessione del B. F. Jacomo della Maria* (Bekenntnis des seligen Br. Jakobus della Maria).
+*   **1570** - *Capitolo del palamaglio* (Kapitel des Palamaglio).
+*   **1570** - *Cronologia Geraldi Mercatoris, quae a damnatis auctoribus sumpta* (Chronologie von Gerhard Mercator, die von verdammten Autoren übernommen wurde).
+*   **1570** - *Comment. annotationum et arg. Ant. Pini Petri* (Kommentar von Anmerkungen und Argumenten von Antonius Pinus Petrus).
+*   **1570** - *Convers. della Madal. in 8 rima per Marco da Foligno* (Konversation der Magdalena in 8 Reimen von Marco da Foligno).
+*   **1570** - *Censura in Carolum Molineum in stilum curiae* (Zensur in Charles Dumoulin im Stil der Kurie).
+*   **1570** - *Censura in Cronologiam Mercatoris* (Zensur in der Chronologie Mercators).
+*   **1570** - *Censura in comment. officiorum Ciceronis* (Zensur in Ciceros Kommentaren zu den Ämtern).
+*   **1570** - *Censura in Caroli Molini* (Zensur in Charles Dumoulins Werken).
+*   **1570** - *Censura in Conradi Lingii cathechismum* (Zensur im Katechismus von Konrad Ling).
+*   **1570** - *Cento novelle del Sansovino* (Hundert Novellen von Sansovino).
+*   **1570** - *Consilia Petri Fabii Resp. Reustadii 1575* (Ratschläge von Petrus Fabius Resp. Reustadii 1575).
+*   **1570** - *Comment. super consuet. Paris.* (Kommentar zu den Pariser Gebräuchen).
+*   **1570** - *Dialogo della bella creanza delle donne* (Dialog über die schöne Erziehung der Frauen).
+*   **1570** - *Dialogo de l'unione spirituale d'Iddio con l'anima* (Dialog über die geistige Vereinigung Gottes mit der Seele).
+*   **1570** - *Dialogo di Nicolo Leonito* (Dialog von Nicolo Leonito).
+*   **1570** - *Dialogo di Nicolo Franco. Venet. 1545* (Dialog von Nicolo Franco. Venedig 1545).
+*   **1570** - *Dialogi di Luciano d'amore e meretricio* (Dialoge des Lucian über Liebe und Prostitution).
+*   **1570** - *Dialogo intit . L'innam. Dialogo del Zampeschi* (Dialog mit dem Titel: Der Liebhaber. Dialog des Zampeschi).
+*   **1570** - *Discorsi del Parobosco* (Diskurse von Parabosco).
+*   **1570** - *Discorsi di Fabio Benevoglienti, per qual cagion* (Diskurse von Fabio Benevoglienti, aus welchem Grund).
+*   **1570** - *Duelli tutti* (Alle Duelle).
+*   **1570** - *Detti fatti piacevoli e gravi di diversi principi, filosofi e cortegiani, raccolti dal Guicciardini* (Worte, angenehme und ernste Taten verschiedener Fürsten, Philosophen und Höflinge, gesammelt von Guicciardini).
+*   **1570** - *Epistola ab haereticis confecta Vildarici epi. nomine, eo quo tota sit contra sacrum caelibatum* (Von Häretikern unter dem Namen des Bischofs Vildaricus verfasster Brief, der ganz gegen den heiligen Zölibat ist).
+*   **1570** - *Epistola della domenica, falsa, erronea, haeretica, quae inadvertenter legitur et recitatur* (Sonntagsbrief, falsch, irrtümlich, häretisch, der unbedacht gelesen und rezitiert wird).
+*   **1570** - *Facetie del piovano Arlotto* (Späße des Pfarrers Arlotto).
+*   **1570** - *Farrago poematum ex optimis quibusque per Leodegarium a Quercu* (Gedichtsammlung aus den besten von Leodegarius a Quercu).
+*   **1570** - *Flores epigrammatum ex optimis quibusque per Leodegarium ut supra* (Epigramm-Blumen aus den besten von Leodegarius wie oben).
+*   **1570** - *Filena di Nicolo Franco* (Filena von Nicolo Franco).
+*   **1570** - *Filone l'opere stampate in Basilea dell' Episcopio, si lieva vicino al fine una epistola* (Filone, die in Basel gedruckten Werke des Bischofs, am Ende wird ein Brief entfernt).
+*   **1570** - *Figure del Vecchio Testam. con versi Toscani per Damiano Maralsi, in Lione per Gio. de Touernes 1554; deleatur atti 4 la stanza: Felice chiesa povera dell' oro* (Figuren des Alten Testaments mit toskanischen Versen von Damiano Maralsi, in Lyon von Gio. de Touernes 1554; lösche in Akt 4 die Strophe: Glückliche Kirche, arm an Gold).
+*   **1570** - *Francesco Sansovino, le lettere* (Francesco Sansovino, die Briefe).
+*   **1570** - *Facetie, motti e burle di diversi signori; hic liber fuit omnino rejectus* (Späße, Sprüche und Witze verschiedener Herren; dieses Buch wurde gänzlich verworfen).
+*   **1570** - *Francesco Bernia del stato de buffoni in 8. rima* (Francesco Berni vom Stand der Narren in 8 Reimen).
+*   **1570** - *Giard. de orationi, stamp. dalla Speranza in Venet.* (Garten der Gebete, gedruckt von Speranza in Venedig).
+*   **1570** - *Hist. univers. dell' orig. de Turchi da Franc. Sansovino, auferatur in princip. toto vita Maumet.* (Weltgeschichte des Ursprungs der Türken von Francesco Sansovino, im Prinzip ganz aus dem Leben Mohammeds entfernt).
+*   **1570** - *Hist. di Ravenna di Thomasso Tornei, stampata in Pesaro* (Geschichte von Ravenna von Thomasso Tornei, gedruckt in Pesaro).
+*   **1570** - *Hist. tutte che non portano giovamento ne à boni costumi ne à dogmi della fede* (Alle Geschichten, die weder den guten Sitten noch den Glaubensdogmen nützen).
+*   **1570** - *Historiarum Brandelicam* (Geschichte von Brandelicam).
+*   **1570** - *Historia Turglini* (Geschichte von Turglini).
+*   **1570** - *Historia ecclesiastica nova auctore Michaele Buchenguo* (Neue Kirchengeschichte von Michael Buchinger).
+*   **1570** - *Historiae Brattanicae deffensio* (Verteidigung der britischen Geschichte).
+*   **1570** - *Hore di recreatione, Guicciardini* (Stunden der Erholung, Guicciardini).
+*   **1570** - *Instituta canonica dell' Ancilletto* (Kanonsrecht des Ancilletto).
+*   **1570** - *Inamoramento d'Orlando* (Orlandos Verliebtheit).
+*   **1570** - *Lettere di Horatio Brunetto* (Briefe von Horatio Brunetto).
+*   **1570** - *Lettere amorose, lib. dua per il Sansovino, e qualunque altre lettere amorose* (Liebesbriefe, zwei Bücher von Sansovino, und alle anderen Liebesbriefe).
+*   **1570** - *Lettere scritte d'autori damnati* (Briefe, geschrieben von verdammten Autoren).
+*   **1570** - *Lettere facecie et piacevoli, quoad res jocosas, si abutuntur sacris litteris* (Witzige und angenehme Briefe, sofern sie in Bezug auf witzige Dinge die heiligen Schriften missbrauchen).
+*   **1570** - *Lettere di diversi nobiliss. Venet. 1567, prius corrigantur* (Briefe verschiedener sehr edler Venezianer 1567, sollen zuerst korrigiert werden).
+*   **1570** - *Modo di contemplare e dir la devotione del pretiosissimo sangue di F. Selvestro Capuccino* (Art, die Andacht des kostbarsten Blutes des Br. Silvester Kapuziners zu betrachten und zu sprechen).
+*   **1570** - *Medicina lib. stampato in Basilea 1576 da Jo. Jacomo Wero* (Medizinbuch, gedruckt in Basel 1576 von Johann Jacob Wecker).
+*   **1570** - *Millo Coverdallus pro falsa translatione Novi Testamenti et prologis in quaedam loca ejusdem* (Myles Coverdale wegen falscher Übersetzung des Neuen Testaments und der Prologe an bestimmten Stellen desselben).
+*   **1570** - *Notte del Straparola* (Nächte des Straparola).
+*   **1570** - *Novelle 70 del Sabbatino* (70 Novellen des Sabatino).
+*   **1570** - *Novelle del Bandello* (Novellen des Bandello).
+*   **1570** - *Novelle d'Angelo Fiorenzola* (Novellen von Angelo Fiorenzola).
+*   **1570** - *Novelle de Gio. Baptist. Ghirardi de Monte Regali, 1565, duoi libri* (Novellen von Giovanni Battista Ghirardi da Monte Regale, 1565, zwei Bücher).
+*   **1570** - *Opere moderne in verso, cosi Latine come volg., di sacra Scrittura* (Moderne Werke in Versen, sowohl lateinisch als auch volkssprachlich, aus der Heiligen Schrift).
+*   **1570** - *Opus historicum in 4 thomos Schardii* (Historisches Werk in 4 Bänden von Schardius).
+*   **1570** - *Opusculum scholae Salernitanae de conservanda bona valitu[dine]. Venet. 1573* (Kleines Werk der Schule von Salerno über die Erhaltung der Gesundheit. Venedig 1573).
+*   **1570** - *Orthographia patrum* (Orthographie der Väter).
+*   **1570** - *Onufrius, Vitae Pontif.* (Onuphrius Panvinius, Leben der Päpste).
+*   **1570** - *Officina Textoris* (Werkstatt des Textor).
+*   **1570** - *Oratorio de religiosi* (Oratorium der Ordensleute).
+*   **1570** - *Olimpia Fulvia Morata, Andreae Grutherii uxor* (Olympia Fulvia Morata, Ehefrau von Andreas Gruther).
+*   **1570** - *Oratione de Girolamo Sorboli nella morte di D. Francesco d'Este* (Rede von Girolamo Sorbolo zum Tod von D. Francesco d'Este).
+*   **1570** - *Rime del Bembo* (Gedichte von Bembo).
+*   **1570** - *Rime e sonetti del Burchiello* (Gedichte und Sonette des Burchiello).
+*   **1570** - *Rime di Vital Papalzono. 1572 Venet.* (Gedichte von Vital Papalzono. 1572 Venedig).
+*   **1570** - *Rime di M. Agostino Rocchetta Fiorentino. 1558* (Gedichte von M. Agostino Rocchetta Fiorentino. 1558).
+*   **1570** - *Rime e prose volg. di M. Gio. Brevio. Roma 1545* (Volkssprachliche Gedichte und Prosa von M. Gio. Brevio. Rom 1545).
+*   **1570** - *Rime di diversi in 8. Venet. 1547* (Verschiedene Gedichte in 8°. Venedig 1547).
+*   **1570** - *Rime di diversi auttori, racolte per il Fiorentillo in 16. In Venetia 1571* (Gedichte verschiedener Autoren, gesammelt von Fiorentillo in 16°. In Venedig 1571).
+*   **1570** - *Rime del Fiamma. In Venetia* (Gedichte der Flamme. In Venedig).
+*   **1570** - *Rime di diverse belle donne Romane, raccolte da Mutio Manfredi e stampate in Bolog. 1575 per Alessandro Benacci* (Gedichte verschiedener schöner römischer Frauen, gesammelt von Muzio Manfredi und gedruckt in Bologna 1575 von Alessandro Benacci).
+*   **1570** - *Ricchezze della lingua volgare di M. Francesco Allunno da Ferrara* (Reichtümer der Volkssprache von M. Francesco Alunno da Ferrara).
+*   **1570** - *Relationes trium amplissimorum virorum Cardinalium [in causa praecedentiae] auctore D. Celsio Veronensi* (Berichte dreier sehr hochgestellter Kardinäle [in der Frage des Vorrangs] von D. Celsus aus Verona).
+*   **1570** - *Rebecca, comedia nov. e sacra script. Francfortii typographo Andrae Vruuheli 1576* (Rebecca, neue Komödie und heilige Schrift. Frankfurt, Drucker Andreas Wechel 1576).
+*   **1570** - *Rime della sacra Scrittura, cosi volg. come Latine, cioè quando si fa traduttione del testo della sacra Scrittura in versi* (Reime der Heiligen Schrift, sowohl volkssprachlich als auch lateinisch, d.h. wenn der Text der Heiligen Schrift in Verse übersetzt wird).
+*   **1570** - *Sferza de scrittori Amonimo d'Utopia* (Geißel der Schriftsteller anonym aus Utopia).
+*   **1570** - *Sogni, espositione et ogni libro che tratta de sogni* (Träume, Auslegung und jedes Buch, das von Träumen handelt).
+*   **1570** - *Specchio d'amore di Bernardo Bizarri* (Spiegel der Liebe von Bernardo Bizzarri).
+*   **1570** - *Suplementum Almanch. restit. temp.* (Supplement zum Almanach. Wiederherstellung der Zeit).
+*   **1570** - *Stanze spirituale in contemplatione di specchio di vertù* (Geistliche Strophen zur Betrachtung des Spiegels der Tugend).
+*   **1570** - *Satire de diversi* (Satiren verschiedener Autoren).
+*   **1570** - *Satire dell' Ariosto* (Satiren des Ariost).
+*   **1570** - *Sette libri de satire* (Sieben Bücher Satiren).
+*   **1570** - *Theatrum vitae humanae rejectus* (Theater des menschlichen Lebens, verworfen).
+*   **1570** - *Tertuliani opera* (Werke des Tertullian).
+*   **1570** - *Versi tutti, cosi Lat. come volg., della sac. Scrit.* (Alle Verse, sowohl lateinisch als auch volkssprachlich, der Heiligen Schrift).
+*   **1570** - *Vultichindi Saxonis historiae etc.* (Geschichten des Widukind von Corvey etc.).
+*   **1570** - *La Marmoretta* (Die Marmoretta).
+*   **1570** - *La Mascharata* (Die Maskerade).
+*   **1570** - *Fiamma del cielo* (Flamme des Himmels).
+*   **1570** - *L'avara Babilonia* (Das gierige Babylon).
+*   **1570** - *Fontana di dolore* (Brunnen des Schmerzes).
+*   **1580** - *Apologi Viae* (Apologien des Weges).
+*   **1580** - *Apologia ecclesiae Anglicanae, sine nomine* (Apologie der englischen Kirche, ohne Namen).
+*   **1580** - *Apostolicum et Decalogum Basileae* (Apostolisches und Dekalog in Basel).
+*   **1580** - *At Petri Carpentarii* (Bei Peter Carpentarius).
+*   **1580** - *Asino volgare in tit. Ragionamento dell' asino* (Volksesel im Titel: Gespräch des Esels).
+*   **1580** - *Alphabetum theologicum auctore Jano a. 1533 apud Joannem Secerium* (Theologisches Alphabet von Janus im Jahr 1533 bei Johann Secerius).
+*   **1580** - *Apologia pro Carolo V in quarto* (Apologie für Karl V. im Quartformat).
+*   **1580** - *Armacani Summa in quaestionibus Armenorum* (Summa des Armacanus in den Fragen der Armenier).
+*   **1580** - *Armilla aurea Bartholomei Fumi* (Goldenes Armband von Bartholomäus Fumi).
+*   **1580** - *Adriani Lanutii Hermencurii, Doctoris Theolog. Ambianorum Decani, Interpretatio in XXVII psalmos, intit. Viginti septem psalm.* (Interpretation von 27 Psalmen des Hadrianus Lanutius Hermencurius, Dekan der Theologen in Amiens).
+*   **1580** - *Antonii Matizaldi Monlutiani Memorabilium secretorum chanorum etc.* (Denkwürdige geheime Chanen etc. von Antonius Matizaldus Monlutianus).
+*   **1580** - *Bachiello d'Antonio Allemani, Sonet. Rime con il Doni* (Bachiello von Antonio Allemanni, Sonette, Reime mit Doni).
+*   **1580** - *Biblioteca sacra sanctorum pat. Parisis.* (Heilige Bibliothek der Väter. Paris).
+*   **1580** - *Biblioteca sanctorum patrum impres. Luteciae 1576 vel 1577* (Heilige Bibliothek der Väter, gedruckt in Lutetia 1576 oder 1577).
+*   **1580** - *Biblioteca Elvetica universitatum* (Helvetische Bibliothek der Universitäten).
+*   **1580** - *Biblie volg. Testamento novo. Evang. omnia volg.* (Volksbibel. Neues Testament. Alle Evangelien in Volkssprache).
+*   **1580** - *Breviarium et officium Vercellarum* (Brevier und Offizium von Vercelli).
+*   **1580** - *Canzone disoneste o lascive* (Unehrliche oder laszive Lieder).
+*   **1580** - *Comedie disoneste o lascive* (Unehrliche oder laszive Komödien).
+*   **1580** - *Canzone in morte d'Ascanio della Cornia* (Lieder zum Tod von Ascanio della Cornia).
+*   **1580** - *Confessione del B. F. Jacomo della Maria* (Bekenntnis des seligen Br. Jakobus della Maria).
+*   **1580** - *Capitolo del palamaglio* (Kapitel des Palamaglio).
+*   **1580** - *Cronologia Geraldi Mercatoris, quae a damnatis auctoribus sumpta* (Chronologie von Gerhard Mercator, die von verdammten Autoren übernommen wurde).
+*   **1580** - *Comment. annotationum et arg. Ant. Pini Petri* (Kommentar von Anmerkungen und Argumenten von Antonius Pinus Petrus).
+*   **1580** - *Convers. della Madal. in 8 rima per Marco da Foligno* (Konversation der Magdalena in 8 Reimen von Marco da Foligno).
+*   **1580** - *Cheribizzi del Calmo* (Skizzen des Calmo).
+*   **1580** - *Cyprianus Benet. de non mutando s. paschate* (Cyprianus Benet. über das Nichtändern des Osterfestes).
+*   **1580** - *Cedreni historia Guglielmo Chsilandro in temp. cum suis addictionibus* (Geschichte des Kedrenos von Wilhelm Xylander in der Zeit mit seinen Zusätzen).
+*   **1580** - *Censura in Carolum Molineum in stilum curiae* (Zensur in Charles Dumoulin im Stil der Kurie).
+*   **1580** - *Censura in Cronologiam Mercatoris* (Zensur in der Chronologie Mercators).
+*   **1580** - *Censura in comment. officiorum Ciceronis* (Zensur in Ciceros Kommentaren zu den Ämtern).
+*   **1580** - *Censura in Caroli Molini* (Zensur in Charles Dumoulins Werken).
+*   **1580** - *Censura in Conradi Lingii cathechismum* (Zensur im Katechismus von Konrad Ling).
+*   **1580** - *Consilia Petri Fabii Resp. Reustadii 1575* (Ratschläge von Petrus Fabius Resp. Reustadii 1575).
+*   **1580** - *Comment. super consuet. Paris.* (Kommentar zu den Pariser Gebräuchen).
+*   **1580** - *Cento novelle del Sansovino* (Hundert Novellen von Sansovino).
+*   **1580** - *Cassiani Constantinopol. de lib. arbit. collatio Algalnoe impressa per Jo. Secerium 1528, ab hereticis depravata et illi falso ascripta* (Kollation des Kassian aus Konstantinopel über den freien Willen, gedruckt in Algano von Johann Secerius im Jahr 1528, von Häretikern verdorben und ihm fälschlich zugeschrieben).
+*   **1580** - *Dialogo della bella creanza delle donne* (Dialog über die schöne Erziehung der Frauen).
+*   **1580** - *Dialogo de l'unione spirituale d'Iddio con l'anima* (Dialog über die geistige Vereinigung Gottes mit der Seele).
+*   **1580** - *Dialogo di Nicolo Leonito* (Dialog von Nicolo Leonito).
+*   **1580** - *Dialogo di Nicolo Franco. Venet. 1545* (Dialog von Nicolo Franco. Venedig 1545).
+*   **1580** - *Dialogi di Luciano d'amore e meretricio* (Dialoge des Lucian über Liebe und Prostitution).
+*   **1580** - *Dialogo intit . L'innam. Dialogo del Zampeschi* (Dialog mit dem Titel: Der Liebhaber. Dialog des Zampeschi).
+*   **1580** - *Discorsi del Parobosco* (Diskurse von Parabosco).
+*   **1580** - *Discorsi di Fabio Benevoglienti, per qual cagion* (Diskurse von Fabio Benevoglienti, aus welchem Grund).
+*   **1580** - *Dichiaratione delle sphere in 8. Venet. 1555* (Erklärung der Sphären in 8°. Venedig 1555).
+*   **1580** - *Dictionarium Graecum Latinum per Joannem Crispinum et etiam per alios Basileae, corrigatur dictio φρισ et σαιαυασ* (Griechisch-Lateinisches Wörterbuch von Johann Crispinus und auch von anderen in Basel, die Wörter φρισ und σαιαυασ sollen korrigiert werden).
+*   **1580** - *Duelli tutti* (Alle Duelle).
+*   **1580** - *Facetie del piovano Arlotto* (Späße des Pfarrers Arlotto).
+*   **1580** - *Farrago poematum ex optimis quibusque per Leodegarium a Quercu* (Gedichtsammlung aus den besten von Leodegarius a Quercu).
+*   **1580** - *Flores epigrammatum ex optimis quibusque per Leodegarium ut supra* (Epigramm-Blumen aus den besten von Leodegarius wie oben).
+*   **1580** - *Filena di Nicolo Franco* (Filena von Nicolo Franco).
+*   **1580** - *Filone l'opere stampate in Basilea dell' Episcopio, si lieva vicino al fine una epistola* (Filone, die in Basel gedruckten Werke des Bischofs, am Ende wird ein Brief entfernt).
+*   **1580** - *Hist. univers. dell' orig. de Turchi da Franc. Sansovino, auferatur in princip. toto vita Maumet.* (Weltgeschichte des Ursprungs der Türken von Francesco Sansovino, im Prinzip ganz aus dem Leben Mohammeds entfernt).
+*   **1580** - *Hist. di Ravenna di Thomasso Tornei, stampata in Pesaro* (Geschichte von Ravenna von Thomasso Tornei, gedruckt in Pesaro).
+*   **1580** - *Hist. tutte che non portano giovamento ne à boni costumi ne à dogmi della fede* (Alle Geschichten, die weder den guten Sitten noch den Glaubensdogmen nützen).
+*   **1580** - *Historiarum Brandelicam* (Geschichte von Brandelicam).
+*   **1580** - *Historia Turglini* (Geschichte von Turglini).
+*   **1580** - *Historia ecclesiastica nova auctore Michaele Buchenguo* (Neue Kirchengeschichte von Michael Buchinger).
+*   **1580** - *Historiae Brattanicae deffensio* (Verteidigung der britischen Geschichte).
+*   **1580** - *Hortomanus de regulis juris sive de verbis juris* (Hortomanus über die Regeln des Rechts oder über Rechtsworte).
+*   **1580** - *Hore di recreatione, Guicciardini* (Stunden der Erholung, Guicciardini).
+*   **1580** - *Instituta canonica dell' Ancilletto* (Kanonsrecht des Ancilletto).
+*   **1580** - *Inamoramento d'Orlando* (Orlandos Verliebtheit).
+*   **1580** - *Lettere di Horatio Brunetto* (Briefe von Horatio Brunetto).
+*   **1580** - *Lettere amorose, lib. dua per il Sansovino, e qualunque altre lettere amorose* (Liebesbriefe, zwei Bücher von Sansovino, und alle anderen Liebesbriefe).
+*   **1580** - *Lettere scritte d'autori damnati* (Briefe, geschrieben von verdammten Autoren).
+*   **1580** - *Lettere facecie et piacevoli, quoad res jocosas, si abutuntur sacris litteris* (Witzige und angenehme Briefe, sofern sie in Bezug auf witzige Dinge die heiligen Schriften missbrauchen).
+*   **1580** - *Lettere di diversi nobiliss. Venet. 1567, prius corrigantur* (Briefe verschiedener sehr edler Venezianer 1567, sollen zuerst korrigiert werden).
+*   **1580** - *Modo di contemplare e dir la devotione del pretiosissimo sangue di F. Selvestro Capuccino* (Art, die Andacht des kostbarsten Blutes des Br. Silvester Kapuziners zu betrachten und zu sprechen).
+*   **1580** - *Medicina lib. stampato in Basilea 1576 da Jo. Jacomo Wero* (Medizinbuch, gedruckt in Basel 1576 von Johann Jacob Wecker).
+*   **1580** - *Millo Coverdallus pro falsa translatione Novi Testamenti et prologis in quaedam loca ejusdem* (Myles Coverdale wegen falscher Übersetzung des Neuen Testaments und der Prologe an bestimmten Stellen desselben).
+*   **1580** - *Novelle 70 del Sabbatino* (70 Novellen des Sabatino).
+*   **1580** - *Novelle del Bandello* (Novellen des Bandello).
+*   **1580** - *Novelle d'Angelo Fiorenzola* (Novellen von Angelo Fiorenzola).
+*   **1580** - *Novelle de Gio. Baptist. Ghirardi de Monte Regali, 1565, duoi libri* (Novellen von Giovanni Battista Ghirardi da Monte Regale, 1565, zwei Bücher).
+*   **1580** - *Opere moderne in verso, cosi Latine come volg., di sacra Scrittura* (Moderne Werke in Versen, sowohl lateinisch als auch volkssprachlich, aus der Heiligen Schrift).
+*   **1580** - *Opus historicum in 4 thomos Schardii* (Historisches Werk in 4 Bänden von Schardius).
+*   **1580** - *Opusculum scholae Salernitanae de conservanda bona valitu[dine]. Venet. 1573* (Kleines Werk der Schule von Salerno über die Erhaltung der Gesundheit. Venedig 1573).
+*   **1580** - *Orthographia patrum* (Orthographie der Väter).
+*   **1580** - *Onufrius, Vitae Pontif.* (Onuphrius Panvinius, Leben der Päpste).
+*   **1580** - *Oratorio de religiosi* (Oratorium der Ordensleute).
+*   **1580** - *Officina Textoris* (Werkstatt des Textor).
+*   **1580** - *Olimpia Fulvia Morata, Andreae Grutherii uxor* (Olympia Fulvia Morata, Ehefrau von Andreas Gruther).
+*   **1580** - *Oratione de Girolamo Sorboli nella morte di D. Francesco d'Este* (Rede von Girolamo Sorbolo zum Tod von D. Francesco d'Este).
+*   **1580** - *Rime del Bembo* (Gedichte von Bembo).
+*   **1580** - *Rime e sonetti del Burchiello* (Gedichte und Sonette des Burchiello).
+*   **1580** - *Rime di Vital Papalzono. 1572 Venet.* (Gedichte von Vital Papalzono. 1572 Venedig).
+*   **1580** - *Rime di M. Agostino Rocchetta Fiorentino. 1558* (Gedichte von M. Agostino Rocchetta Fiorentino. 1558).
+*   **1580** - *Rime e prose volg. di M. Gio. Brevio. Roma 1545* (Volkssprachliche Gedichte und Prosa von M. Gio. Brevio. Rom 1545).
+*   **1580** - *Rime di diversi in 8. Venet. 1547* (Verschiedene Gedichte in 8°. Venedig 1547).
+*   **1580** - *Rime di diversi auttori, racolte per il Fiorentillo in 16. In Venetia 1571* (Gedichte verschiedener Autoren, gesammelt von Fiorentillo in 16°. In Venedig 1571).
+*   **1580** - *Rime del Fiamma. In Venetia* (Gedichte der Flamme. In Venedig).
+*   **1580** - *Rime di diverse belle donne Romane, raccolte da Mutio Manfredi e stampate in Bolog. 1575 per Alessandro Benacci* (Gedichte verschiedener schöner römischer Frauen, gesammelt von Muzio Manfredi und gedruckt in Bologna 1575 von Alessandro Benacci).
+*   **1580** - *Ricchezze della lingua volgare di M. Francesco Allunno da Ferrara* (Reichtümer der Volkssprache von M. Francesco Alunno da Ferrara).
+*   **1580** - *Relationes trium amplissimorum virorum Cardinalium [in causa praecedentiae] auctore D. Celsio Veronensi* (Berichte dreier sehr hochgestellter Kardinäle [in der Frage des Vorrangs] von D. Celsus aus Verona).
+*   **1580** - *Rebecca, comedia nov. e sacra script. Francfortii typographo Andrae Vruuheli 1576* (Rebecca, neue Komödie und heilige Schrift. Frankfurt, Drucker Andreas Wechel 1576).
+*   **1580** - *Rime della sacra Scrittura, cosi volg. come Latine, cioè quando si fa traduttione del testo della sacra Scrittura in versi* (Reime der Heiligen Schrift, sowohl volkssprachlich als auch lateinisch, d.h. wenn der Text der Heiligen Schrift in Verse übersetzt wird).
+*   **1580** - *Sferza de scrittori Amonimo d'Utopia* (Geißel der Schriftsteller anonym aus Utopia).
+*   **1580** - *Sogni, espositione et ogni libro che tratta de sogni* (Träume, Auslegung und jedes Buch, das von Träumen handelt).
+*   **1580** - *Stanze spirituale in contemplatione di specchio di vertù* (Geistliche Strophen zur Betrachtung des Spiegels der Tugend).
+*   **1580** - *Stampanate della piazza de Campo Fiore* (Stampanate vom Campo de' Fiori).
+*   **1580** - *Satire de diversi* (Satiren verschiedener Autoren).
+*   **1580** - *Satire dell' Ariosto* (Satiren des Ariost).
+*   **1580** - *Sette libri de satire* (Sieben Bücher Satiren).
+*   **1580** - *Theatrum vitae humanae rejectus* (Theater des menschlichen Lebens, verworfen).
+*   **1580** - *Tertuliani opera* (Werke des Tertullian).
+*   **1580** - *Versi tutti, cosi Lat. come volg., della sac. Scrit.* (Alle Verse, sowohl lateinisch als auch volkssprachlich, der Heiligen Schrift).
+*   **1580** - *Vultichindi Saxonis historiae etc.* (Geschichten des Widukind von Corvey etc.).
+*   **1580** - *La Marmoretta* (Die Marmoretta).
+*   **1580** - *La Mascharata* (Die Maskerade).
+*   **1580** - *Fiamma del cielo* (Flamme des Himmels).
+*   **1580** - *L'avara Babilonia* (Das gierige Babylon).
+*   **1580** - *Fontana di dolore* (Brunnen des Schmerzes).
+
+---
+
+### 4. Empfohlene oder erlaubte Schriften (chronologisch)
+
+Diese Liste enthält Bücher, die als geeignet oder erlaubt zum Lesen oder Lehren betrachtet wurden, oft als Gegenmittel zu gebannten Werken oder zur Erbauung.
+
+*   **1530** - *Figura declinationum et conjugationum* (Figuren der Deklinationen und Konjugationen).
+*   **1530** - *Grammatica Joannis Murmellii* (Grammatik von Johann Murmellius).
+*   **1530** - *Grammatica Hermani Torrentini* (Grammatik von Hermann Torrentinus).
+*   **1530** - *Grammatica Joannis Brechtani* (Grammatik von Johann Brechtanus).
+*   **1530** - *Grammatica Joannis Despauterii* (Grammatik von Johann Despauterius).
+*   **1530** - *Sintaxis Erasmi Roterodami* (Syntax von Erasmus von Rotterdam).
+*   **1530** - *Compendium Joannis Rivii in grammaticam, dialecticam et rhetoricam* (Kompendium von Johann Rivius zur Grammatik, Dialektik und Rhetorik).
+*   **1530** - *Cato* (Cato).
+*   **1530** - *Fabulae Aesopi* (Äsopische Fabeln).
+*   **1530** - *Dialectica Caesarii* (Dialektik von Caesarius).
+*   **1530** - *Dialectica et Rhetorica Rodolphi Agricolae* (Dialektik und Rhetorik von Rudolf Agricola).
+*   **1530** - *Comediae Terentii* (Komödien des Terenz).
+*   **1530** - *Familiares epistolae Ciceronis* (Vertraute Briefe Ciceros).
+*   **1530** - *Virgilius* (Vergil).
+*   **1530** - *Ovidius in Metamorphosi* (Ovid in den Metamorphosen).
+*   **1530** - *Lucanus* (Lucan).
+*   **1530** - *Horatius* (Horaz).
+*   **1530** - *Commentaria Caesaris* (Kommentare des Cäsar).
+*   **1530** - *Titus Livius* (Titus Livius).
+*   **1530** - *Valerius Maximus* (Valerius Maximus).
+*   **1530** - *Officia Ciceronis* (Ämter Ciceros).
+*   **1530** - *Ejusdem moralia et de amicitia, senectute et paradoxa* (Derselbe, Moralwerke und über Freundschaft, Alter und Paradoxa).
+*   **1530** - *Ejusdem Tusculanae quaestiones* (Derselbe, Tusculanische Gespräche).
+*   **1530** - *Ejusdem Rhetorica ad Herennium* (Derselbe, Rhetorik an Herennius).
+*   **1530** - *Compendium Trapezontii super rhetorica* (Kompendium des Trapezuntius über die Rhetorik).
+*   **1530** - *Institutiones oratoriae Quintiliani* (Oratorische Institutionen des Quintilian).
+*   **1530** - *Orationes Ciceronis* (Reden Ciceros).
+*   **1530** - *Tres libri Ciceronis de oratoria* (Drei Bücher Ciceros über die Redekunst).
+*   **1530** - *Liber partitionum oratoriarum* (Buch der oratorischen Einteilungen).
+*   **1530** - *Topica Ciceronis cum commento Boetii* (Topik Ciceros mit Kommentar des Boethius).
+*   **1530** - *Topica Boetii* (Topik des Boethius).
+*   **1530** - *Epistolae Ciceronis* (Briefe Ciceros).
+*   **1530** - *Evangelia dierum dominicarum et festorum, interpreterende de selve alleenlick grammaticaliter* (Evangelien der Sonn- und Feiertage, nur grammatisch auslegend).
+*   **1530** - *Hymni servientes tempori* (Hymnen, die der Zeit dienen).
+*   **1530** - *Cleonardus* (Nicolas Clénard).
+*   **1530** - *Sintaxis Varennii* (Syntax von Varennius).
+*   **1530** - *Theodorus Gaza* (Theodor Gaza).
+*   **1530** - *Constantinus Lascaris* (Konstantin Laskaris).
+*   **1530** - *Batrachomyomachia* (Batrachomyomachie).
+*   **1530** - *Plutarchus* (Plutarch).
+*   **1530** - *Fabulae Aesopi* (Äsopische Fabeln).
+*   **1530** - *Sententiae Menandri* (Sprüche des Menander).
+*   **1530** - *Lucianus* (Lukian).
+*   **1530** - *Isocrates* (Isokrates).
+*   **1530** - *Zenephon* (Xenophon).
+*   **1530** - *Orationes Demosthenis* (Reden des Demosthenes).
+*   **1530** - *Homerus* (Homer).
+*   **1530** - *Aristophanes* (Aristophanes).
+*   **1530** - *Hesiodus* (Hesiod).
+*   **1550** - Johannes Despauterius, *Johannes Despauterius Ninivita* (Johannes Despauterius von Ninive).
+*   **1550** - Johannes Custos Brechtanus, *Johannes Custos Brechtanus* (Johannes Custos Brechtanus).
+*   **1550** - Johannes Murmellius, *Johannes Murmellius* (Johannes Murmellius).
+*   **1550** - Christianus Massaeus, *Christianus Massaeus* (Christian Massaeus).
+*   **1550** - Nicolaus Clenardus, *Nicolaus Clenardus* (Nicolas Clénard).
+*   **1550** - Johannes Varennius, *Johannes Varennius* (Johannes Varennius).
+*   **1550** - Joannes Campensis, *Joannes Campensis* (Johannes Campensis).
+*   **1550** - Helias Levita, *Helias Levita* (Elias Levita).
+*   **1550** - Thomas Linacer, *Thomas Linacer* (Thomas Linacre).
+*   **1550** - Hadrianus Amerotius, *Hadrianus Amerotius* (Hadrianus Amerotius).
+*   **1550** - Jacobus Ceporinus, *Jacobus Ceporinus* (Jakob Ceporin).
+*   **1550** - Xantes Pagninus, *Xantes Pagninus* (Santes Pagninus).
+*   **1550** - Johannes Caesarius, *Johannes Caesarius* (Johannes Caesarius).
+*   **1550** - Hadrianus Barlandus, *Hadrianus Barlandus* (Hadrianus Barlandus).
+*   **1550** - Erasmi Roterodami, *Copia, et De conscribendis epistolis, De civilitate morum, Apophthegmata, Similia* (Copia, und Über das Briefschreiben, Über die Sittenhaftigkeit, Apophthegmata, Ähnlichkeiten).
+*   **1550** - Epitome Laurentii Vallae, *Epitome Laurentii Vallae* (Kurzfassung von Lorenzo Valla).
+*   **1550** - Hadrianus Cardinalis, *de sermonis Latini puritate* (Über die Reinheit der lateinischen Sprache).
+*   **1550** - Cornelii Croci, *Colloquia* (Kolloquien).
+*   **1550** - Hieronymus Vida, *Hieronymus Vida* (Hieronymus Vida).
+*   **1550** - Frater Livinus Brechtanus, *Frater Livinus Brechtanus* (Bruder Livinus Brechtanus).
+*   **1550** - Cornelii Croci, *Josephus* (Joseph).
+*   **1550** - Frater Franciscus Titelmannus, *Frater Franciscus Titelmannus* (Bruder Franciscus Titelmannus).
+*   **1550** - Cornelius Valerius, *Cornelius Valerius* (Cornelius Valerius).
+*   **1561** - Chrysostomus (Johannes Chrysostomos), *in Matthaeum et Joannem* (Zu Matthäus und Johannes).
+*   **1561** - Chrysostomus (Johannes Chrysostomos), *in epistolas Paulinas omnes* (Zu allen paulinischen Briefen).
+*   **1561** - Theophylactus (Theophylakt von Ohrid), *totus* (gesamtes Werk).
+*   **1561** - Augustinus (Augustinus von Hippo), *in Joannem* (Zu Johannes).
+*   **1561** - Augustinus (Augustinus von Hippo), *Sermones Augustini de tempore et de sanctis* (Predigten des Augustinus über die Zeit und die Heiligen).
+*   **1561** - Beda (Beda Venerabilis), *in Novum Testamentum, hoc est, in Marcum, Lucam, Joannem, epistolas Paulinas et catholicas et ipsam Apocalypsim* (Zum Neuen Testament, das heißt, zu Markus, Lukas, Johannes, den paulinischen und katholischen Briefen und der Apokalypse selbst).
+*   **1561** - Homiliarius doctorum Albini seu Alcuini (Homiliar der Doktoren Albinus oder Alkuin).
+*   **1561** - Catena aurea Divi Thomae Aquinatis (Goldene Kette des Heiligen Thomas von Aquin).
+*   **1561** - Divi Thomae Aquinatis (Thomas von Aquin), *in Divum Paulum commentarii* (Kommentare zum Heiligen Paulus).
+*   **1561** - Postilla Lansbergii (Johannes Landsberg), *quae simplicissima est* (die sehr einfach ist).
+*   **1561** - Sermones Clichtovei (Josse Clichtove), *cum Elucidario ejus in hymnos et prosas ecclesiasticas* (Mit seiner Erläuterung zu kirchlichen Hymnen und Prosatexten).
+*   **1561** - Postilla Joannis Eccii (Johannes Eck), *Postilla* (Postille).
+*   **1561** - Postilla Hoffmeisteri (Johannes Hoffmeister), *Postilla* (Postille).
+*   **1561** - Postilla Roy Minoritae (Guillaume Roy), *Postilla* (Postille).
+*   **1561** - Postilla F. Henrici Helmes Germipolitani (Heinrich Helmes), *Postilla* (Postille).
+*   **1561** - Commentarium Titelmanni in Psalterium (Franz Titelmann), *Commentarium in Psalterium* (Kommentar zum Psalter).
+*   **1561** - Damasceno (Johannes von Damaskus), *nec quisquam parochus carere quoque deberet Damasceno* (und kein Pfarrer sollte auch Damascenus entbehren).
+*   **1561** - Donatum (Aelius Donatus), *Donatum et Murmellii de declinationibus et conjugationibus nucleum ejusdemque constructionum regulas* (Donatus und Murmellius' Kern der Deklinationen und Konjugationen und deren Konstruktionsregeln).
+*   **1561** - Grammaticae institutiones Aldi Manutii (Aldus Manutius), *Grammaticae institutiones* (Grammatische Institutionen).
+*   **1561** - Grammaticae institutiones Perotti (Niccolò Perotti), *Grammaticae institutiones* (Grammatische Institutionen).
+*   **1561** - Grammaticae institutiones Murmellii (Johann Murmellius), *Grammaticae institutiones* (Grammatische Institutionen).
+*   **1561** - Grammaticae institutiones Hermanni Torrentini (Hermann Torrentinus), *Grammaticae institutiones* (Grammatische Institutionen).
+*   **1561** - Grammaticae institutiones Joannis Despauterii (Jean Despauterius), *Grammaticae institutiones* (Grammatische Institutionen).
+*   **1561** - Grammaticae institutiones Joannis Brechtani (Johann Brechtanus), *Grammaticae institutiones* (Grammatische Institutionen).
+*   **1561** - Syntaxis Erasmi (Erasmus von Rotterdam), *Syntaxis* (Syntax).
+*   **1561** - Cato (Cato), *Cato* (Cato).
+*   **1561** - Fabulae Aesopi (Äsop), *Fabulae Aesopi* (Äsopische Fabeln).
+*   **1561** - Sedulius (Sedulius), *Sedulius* (Sedulius).
+*   **1561** - Prudentius (Prudentius), *Prudentius* (Prudentius).
+*   **1561** - Juvencus (Juvencus), *Juvencus* (Juvencus).
+*   **1561** - Baptista Mantuanus (Battista Mantuanus), *Baptista Mantuanus* (Battista Mantuanus).
+*   **1561** - Prodidagmata Jacobi Fontani (Jacques Lefèvre d'Étaples), *Prodidagmata* (Prodidagmata).
+*   **1561** - Dialectica Trapezuntii (Georg von Trapezunt), *Dialectica* (Dialektik).
+*   **1561** - Dialectica Caesarii (Johannes Caesarius), *Dialectica* (Dialektik).
+*   **1561** - Dialectica Titelmanni (Franz Titelmann), *Dialectica* (Dialektik).
+*   **1561** - Dialectica Joachimi Perionii (Joachim Périon), *Dialectica* (Dialektik).
+*   **1561** - Rodolphi Agricolae (Rudolf Agricola), *Inventiones* (Inventionen).
+*   **1561** - Virgilium (Vergil), *Virgilium* (Vergil).
+*   **1561** - Horatium (Horaz), *Horatium* (Horaz).
+*   **1561** - Ovidium (Ovid), *Ovidium, praeterquam de arte amandi et Epistolas Heroidum* (Ovid, außer 'Ars Amatoria' und 'Heroides').
+*   **1561** - Commentaria Caesaris (Cäsar), *Commentaria Caesaris* (Kommentare Cäsars).
+*   **1561** - Titum Livium (Titus Livius), *Titum Livium* (Titus Livius).
+*   **1561** - Suetonium (Sueton), *Suetonium* (Sueton).
+*   **1561** - Valerium Maximum (Valerius Maximus), *Valerium Maximum* (Valerius Maximus).
+*   **1561** - Institutiones oratorias Quintiliani (Quintilian), *Institutiones oratorias Quintiliani* (Oratorische Institutionen des Quintilian).
+*   **1561** - Compendium Trapezuntii super Ciceronis rhetorica (Georg von Trapezunt), *Compendium super Ciceronis rhetorica* (Kompendium über Ciceros Rhetorik).
+*   **1561** - Officia Ciceronis (Cicero), *Officia* (Pflichten).
+*   **1561** - de amicitia Ciceronis (Cicero), *de amicitia* (Über die Freundschaft).
+*   **1561** - senectute Ciceronis (Cicero), *senectute* (Über das Alter).
+*   **1561** - Paradoxa Ciceronis (Cicero), *Paradoxa* (Paradoxa).
+*   **1561** - Tusculanas quaestiones Ciceronis (Cicero), *Tusculanas quaestiones* (Tusculanische Gespräche).
+*   **1561** - epistolas Ciceronis (Cicero), *epistolas* (Briefe).
+*   **1561** - quicquid scriptorum Ciceronis extat (Cicero), *quicquid scriptorum Ciceronis extat* (Alles, was an Schriften Ciceros existiert).
+*   **1561** - Clenardus (Nicolas Clénard), *Clenardus* (Nicolas Clénard).
+*   **1561** - Syntaxis Varennii (Johannes Varennius), *Syntaxis Varennii* (Syntax von Varennius).
+*   **1561** - Theodorus Gaza (Theodor Gaza), *Theodorus Gaza* (Theodor Gaza).
+*   **1561** - Constantinus Lascaris (Konstantin Laskaris), *Constantinus Lascaris* (Konstantin Laskaris).
+*   **1561** - Fabulae Aesopi (Äsop), *Fabulae Aesopi* (Äsopische Fabeln).
+*   **1561** - Sententiae Menandri (Menander), *Sententiae Menandri* (Sprüche des Menander).
+*   **1561** - Batrachomyomachia (Batrachomyomachie), *Batrachomyomachia* (Batrachomyomachie).
+*   **1561** - Lucianus (Lukian), *Lucianus* (Lukian).
+*   **1561** - Isocrates (Isokrates), *Isocrates* (Isokrates).
+*   **1561** - Homerus (Homer), *Homerus* (Homer).
+*   **1561** - Aristophanes (Aristophanes), *Aristophanes* (Aristophanes).
+*   **1561** - Hesiodus (Hesiod), *Hesiodus* (Hesiod).
+*   **1561** - Plutarchus (Plutarch), *Plutarchus* (Plutarch).
+*   **1566** - S. Ambrosius (Ambrosius von Mailand), *Mediolanen. episcopus* (Bischof von Mailand).
+*   **1566** - S. Augustinus (Augustinus von Hippo), *Hypponen. episcopus* (Bischof von Hippo).
+*   **1566** - S. Anshelmus (Anselm von Canterbury), *S. Anshelmus* (Heiliger Anselm).
+*   **1566** - S. Athanasius (Athanasius der Große), *S. Athanasius* (Heiliger Athanasius).
+*   **1566** - Abdyas Babylonius (Abdias von Babylon), *Abdyas Babylonius* (Abdias von Babylon).
+*   **1566** - Albertus Magnus (Albertus Magnus), *Albertus Magnus* (Albertus Magnus).
+*   **1566** - Alphonsus de Castro (Alphonsus de Castro), *Alphonsus de Castro* (Alphonsus de Castro).
+*   **1566** - Aloysius Lippomanus (Luigi Lippomano), *Aloysius Lippomanus* (Luigi Lippomano).
+*   **1566** - Anthoninus (Antoninus von Florenz), *Anthoninus* (Antoninus).
+*   **1566** - Ambrosius Catharinus (Ambrosius Catharinus), *Ambrosius Catharinus* (Ambrosius Catharinus).
+*   **1566** - Albertus Pighius (Albert Pighius), *Albertus Pighius* (Albert Pighius).
+*   **1566** - Anthonius Monchiacenus (Antonio de Monchiaceno), *Anthonius Monchiacenus* (Antonio de Monchiaceno).
+*   **1566** - Arnoldus Vesalien. (Arnold von Wesel), *Arnoldus Vesalien.* (Arnold von Wesel).
+*   **1566** - Anthonius a Khönigstain (Anton von Königstein), *Anthonius a Khönigstain* (Anton von Königstein).
+*   **1566** - Andreas Vega (Andreas Vega), *Andreas Vega* (Andreas Vega).
+*   **1566** - Ayala (Balthasar Ayala), *Ayala* (Ayala).
+*   **1566** - Aeneas Sylvius (Aeneas Silvius Piccolomini), *Aeneas Sylvius* (Aeneas Silvius).
+*   **1566** - Arnoldus Mermannius (Arnold Mermann), *Arnoldus Mermannius* (Arnold Mermann).
+*   **1566** - Alanus Copus Anglus (Alan Cope), *Alanus Copus Anglus* (Alan Cope).
+*   **1566** - Augustinus Eugubinus (Agostino Steuco), *Augustinus Eugubinus* (Agostino Steuco).
+*   **1566** - Albertus Pius (Albert Pius), *Albertus Pius* (Albert Pius).
+*   **1566** - Andreas Eboren. (Andreas Eboren), *Andreas Eboren.* (Andreas Eboren).
+*   **1566** - Adamus Sasbout (Adam Sasbout), *Adamus Sasbout* (Adam Sasbout).
+*   **1566** - Antydidagma Colonien. (Antididagma Coloniense), *Antydidagma Colonien.* (Antididagma Coloniense).
+*   **1566** - Andreas Fabritius (Andreas Fabricius), *Andreas Fabritius* (Andreas Fabricius).
+*   **1566** - Annonius Monachus (Annonius Monachus), *Annonius Monachus* (Annonius Monachus).
+*   **1566** - Ado Viennen. (Ado von Vienne), *Ado Viennen.* (Ado von Vienne).
+*   **1566** - Aegesippus (Hegesippus), *Aegesippus* (Hegesippus).
+*   **1566** - Aristoteles (Aristoteles), *Aristoteles* (Aristoteles).
+*   **1566** - Arrianus (Arrian), *Arrianus de rebus gestis Alexandri Magni* (Arrian über die Taten Alexanders des Großen).
+*   **1566** - Aulus Gellius (Aulus Gellius), *Aulus Gellius* (Aulus Gellius).
+*   **1566** - Ausonius (Ausonius), *Ausonius* (Ausonius).
+*   **1566** - S. Basilius (Basilius der Große), *S. Basilius* (Heiliger Basilius).
+*   **1566** - S. Bonaventura (Bonaventura), *S. Bonaventura* (Heiliger Bonaventura).
+*   **1566** - Burckhardus episcopus Wormacien. (Burchard von Worms), *Burckhardus episcopus Wormacien.* (Bischof Burchard von Worms).
+*   **1566** - Bernardinus de Buffo (Bernardino de Buffo), *Bernardinus de Buffo* (Bernardino de Buffo).
+*   **1566** - Bartholomaei Carranzae (Bartolomé Carranza), *Summa conciliorum* (Summa der Konzilien).
+*   **1566** - Bartholomaeus Lathomus (Bartholomäus Latomus), *Bartholomaeus Lathomus* (Bartholomäus Latomus).
+*   **1566** - Bartholomaei Fumi (Bartholomäus Fumi), *summa* (Summa).
+*   **1566** - Bredenbachii pater et filius (Bredenbach Vater und Sohn), *Bredenbachii pater et filius* (Bredenbach Vater und Sohn).
+*   **1566** - Berosus Chaldeus (Berosus der Chaldäer), *Berosus Chaldeus* (Berosus der Chaldäer).
+*   **1566** - Boethius (Boethius), *Boethius* (Boethius).
+*   **1566** - Benedictus de Accoltis (Benedikt Accolti der Ältere), *Benedictus de Accoltis* (Benedikt Accolti der Ältere).
+*   **1566** - Bibliotheca sancta (Heilige Bibliothek), *Bibliotheca sancta* (Heilige Bibliothek).
+*   **1566** - Cassianus (Johannes Cassian), *Cassianus* (Johannes Cassian).
+*   **1566** - Cassiodorus (Cassiodorus), *Cassiodorus* (Cassiodorus).
+*   **1566** - Concilium Tridentinum (Konzil von Trient), *Concilium Tridentinum* (Konzil von Trient).
+*   **1566** - Ceremoniarum liber (Buch der Zeremonien), *Ceremoniarum liber* (Buch der Zeremonien).
+*   **1566** - Contra Augustanam Confessionem scripta catholicorum omnium (Schriften aller Katholiken gegen das Augsburger Bekenntnis), *Contra Augustanam Confessionem scripta catholicorum omnium* (Schriften aller Katholiken gegen das Augsburger Bekenntnis).
+*   **1566** - Conciliorum tomi ac eorundem epitome (Bände der Konzilien und deren Kurzfassung), *Conciliorum tomi ac eorundem epitome* (Bände der Konzilien und deren Kurzfassung).
+*   **1566** - Catena aurea in evangelia et epistolas (Goldene Kette zu den Evangelien und Episteln), *Catena aurea in evangelia et epistolas* (Goldene Kette zu den Evangelien und Episteln).
+*   **1566** - Cicero (Cicero), *Cicero* (Cicero).
+*   **1566** - Cornelius Tacitus (Tacitus), *Cornelius Tacitus* (Tacitus).
+*   **1566** - Cunradus Brunus (Konrad Brunus), *Cunradus Brunus* (Konrad Brunus).
+*   **1566** - Conradus Clingius (Konrad Kling), *Conradus Clingius* (Konrad Kling).
+*   **1566** - S. Dyonisius Areopagita (Dionysius Areopagita), *S. Dyonisius Areopagita* (Heiliger Dionysius Areopagita).
+*   **1566** - Dominicus a Soto (Domingo de Soto), *Dominicus a Soto* (Domingo de Soto).
+*   **1566** - Diegho Payva (Diogo de Paiva de Andrade), *Diegho Payva* (Diogo de Paiva de Andrade).
+*   **1566** - Decretalium et decretorum libri, cum extravagantibus (Bücher der Dekretalen und Dekrete, mit Extravaganten), *Decretalium et decretorum libri, cum extravagantibus* (Bücher der Dekretalen und Dekrete, mit Extravaganten).
+*   **1566** - Directorium confessionum (Direktorium der Beichten), *Directorium confessionum* (Direktorium der Beichten).
+*   **1566** - Dyonisius Carthusianus (Dionysius der Kartäuser), *Dyonisius Carthusianus* (Dionysius der Kartäuser).
+*   **1566** - Demosthenes (Demosthenes), *Demosthenes* (Demosthenes).
+*   **1566** - Diodorus Siculus (Diodorus Siculus), *Diodorus Siculus* (Diodorus Siculus).
+*   **1566** - S. Ephrem (Ephräm der Syrer), *S. Ephrem* (Heiliger Ephräm).
+*   **1566** - S. Epiphanius (Epiphanius von Salamis), *S. Epiphanius* (Heiliger Epiphanius).
+*   **1566** - Eusebius Emissenus (Eusebius Emesanus), *Eusebius Emissenus* (Eusebius Emesanus).
+*   **1566** - Caesarien. (Eusebius von Caesarea), *Caesarien.* (Eusebius von Caesarea).
+*   **1566** - Euthymius Abbas (Euthymius der Große), *Euthymius Abbas* (Euthymius Abbas).
+*   **1566** - Egesippus (Hegesippus), *Egesippus* (Hegesippus).
+*   **1566** - Eucherius Lugdunen. (Eucherius von Lyon), *Eucherius Lugdunen.* (Eucherius von Lyon).
+*   **1566** - Elucidatorium ecclesiasticum (Kirchliches Erläuterungsbuch), *Elucidatorium ecclesiasticum* (Kirchliches Erläuterungsbuch).
+*   **1566** - Epistolae Indicae et Japanicae (Indische und japanische Briefe), *Epistolae Indicae et Japanicae* (Indische und japanische Briefe).
+*   **1566** - Eutropius (Eutropius), *Eutropius* (Eutropius).
+*   **1566** - Eberhardus Billichius (Eberhard Billick), *Eberhardus Billichius* (Eberhard Billick).
+*   **1566** - Eginhartus (Einhard), *Eginhartus de Carolo Magno* (Einhard über Karl den Großen).
+*   **1566** - Epitheta Ravisii (Epitheta von Ravisius), *Epitheta Ravisii* (Epitheta von Ravisius).
+*   **1566** - Fulgentius (Fulgentius von Ruspe), *Fulgentius* (Fulgentius).
+*   **1566** - Franciscus Turrianus (Francisco de Torres), *Franciscus Turrianus* (Francisco de Torres).
+*   **1566** - Flavius Josephus (Flavius Josephus), *Flavius Josephus* (Flavius Josephus).
+*   **1566** - Fridericus Nausea (Friedrich Nausea), *Fridericus Nausea* (Friedrich Nausea).
+*   **1566** - Joverius (Francisco Jovery), *Joverius* (Francisco Jovery).
+*   **1566** - Staphylus (Friedrich Staphylus), *Staphylus* (Friedrich Staphylus).
+*   **1566** - Horontius (Oronce Finé), *Horontius* (Oronce Finé).
+*   **1566** - Sonnius (Franciscus Sonnius), *Sonnius* (Franciscus Sonnius).
+*   **1566** - Titelmannus (Franz Titelmann), *Titelmannus* (Franz Titelmann).
+*   **1566** - Taraffa (Francesco Taraffa), *Taraffa* (Francesco Taraffa).
+*   **1566** - Flores Bibliorum et doctorum (Blumen der Bibeln und Doktoren), *Flores Bibliorum et doctorum* (Blumen der Bibeln und Doktoren).
+*   **1566** - Freculphus episcopus Lexovien. (Frechulf von Lisieux), *Freculphus episcopus Lexovien.* (Bischof Frechulf von Lisieux).
+*   **1566** - Franciscus Petrarcha (Francesco Petrarca), *Franciscus Petrarcha* (Francesco Petrarca).
+*   **1566** - Guicciardinus (Francesco Guicciardini), *Guicciardinus* (Francesco Guicciardini).
+*   **1566** - S. Gregorius Magnus (Gregor der Große), *S. Gregorius Magnus* (Heiliger Gregor der Große).
+*   **1566** - Nissenus (Gregor von Nyssa), *Nissenus* (Gregor von Nyssa).
+*   **1566** - Guilielmi Eysengreinii Centuriae (Wilhelm Eisengrein), *Guilielmi Eysengreinii Centuriae* (Zenturien des Wilhelm Eisengrein).
+*   **1566** - Guilielmus Lyndanus (Wilhelm Lindanus), *Guilielmus Lyndanus* (Wilhelm Lindanus).
+*   **1566** - Nazianzenus (Gregor von Nazianz), *Nazianzenus* (Gregor von Nazianz).
+*   **1566** - Durandus (Guillaume Durand der Ältere), *Durandus* (Guillaume Durand der Ältere).
+*   **1566** - episcop. Turonen. (Gregor von Tours), *episcop. Turonen.* (Bischof von Tours).
+*   **1566** - episcop. Brixien. (Wilhelm von Brixen), *episcop. Brixien.* (Bischof von Brixen).
+*   **1566** - Gaspar Contarenus (Gaspar Contarini), *Gaspar Contarenus* (Gaspar Contarini).
+*   **1566** - Cardillus (Gaspar Cardillo de Villalpando), *Cardillus* (Gaspar Cardillo de Villalpando).
+*   **1566** - Neocaesarien. (Gregor von Neocäsarea), *Neocaesarien.* (Gregor von Neocäsarea).
+*   **1566** - Casalius (Gaspar Casali), *Casalius* (Gaspar Casali).
+*   **1566** - Gabriel Biel (Gabriel Biel), *Gabriel Biel* (Gabriel Biel).
+*   **1566** - Schatzgerus (Kaspar Schatzgeyer), *Schatzgerus* (Kaspar Schatzgeyer).
+*   **1566** - Gratianus (Gratian), *Gratianus* (Gratian).
+*   **1566** - Gotfridus Viterbien. (Gottfried von Viterbo), *Gotfridus Viterbien.* (Gottfried von Viterbo).
+*   **1566** - Georgius Wizelius (Georg Witzel), *Georgius Wizelius* (Georg Witzel).
+*   **1566** - Gaspar Franck (Kaspar Franck), *Gaspar Franck* (Kaspar Franck).
+*   **1566** - Guilielmus Zenocara (Wilhelm Zenocara), *Guilielmus Zenocara* (Wilhelm Zenocara).
+*   **1566** - Glossa ordinaria in Biblia (Ordinärglosse zur Bibel), *Glossa ordinaria in Biblia* (Ordinärglosse zur Bibel).
+*   **1566** - S. Hieronimus (Hieronymus), *S. Hieronimus* (Heiliger Hieronymus).
+*   **1566** - S. Hilarius (Hilarius von Poitiers), *S. Hilarius* (Heiliger Hilarius).
+*   **1566** - S. Hyppolitus (Hippolyt von Rom), *S. Hyppolitus* (Heiliger Hippolyt).
+*   **1566** - S. Honorius (Honorius Augustodunensis), *S. Honorius* (Heiliger Honorius).
+*   **1566** - Helmodius (Helmold von Bosau), *Helmodius* (Helmold von Bosau).
+*   **1566** - Hieronymus Emserus (Hieronymus Emser), *Hieronymus Emserus* (Hieronymus Emser).
+*   **1566** - Osorius (Jerónimo Osório), *Osorius* (Jerónimo Osório).
+*   **1566** - Hugo de S. Victore (Hugo von St. Viktor), *Hugo de S. Victore* (Hugo von St. Viktor).
+*   **1566** - Henrici Helmesii homiliae (Heinrich Helmes), *Henrici Helmesii homiliae* (Homilien des Heinrich Helmes).
+*   **1566** - Hieronymus Vida (Hieronymus Vida), *Hieronymus Vida* (Hieronymus Vida).
+*   **1566** - Historia mundi olim Norimbergae edita cum figuris (Weltgeschichte, einst in Nürnberg mit Figuren herausgegeben), *Historia mundi olim Norimbergae edita cum figuris* (Weltgeschichte, einst in Nürnberg mit Figuren herausgegeben).
+*   **1566** - Homiliarius doctorum (Homiliar der Doktoren), *Homiliarius doctorum* (Homiliar der Doktoren).
+*   **1566** - Herodotus (Herodot), *Herodotus* (Herodot).
+*   **1566** - Henricus Rex Angliae contra Lutherum (König Heinrich von England gegen Luther), *Henricus Rex Angliae contra Lutherum* (König Heinrich von England gegen Luther).
+*   **1566** - Henricus Harpff (Heinrich Harpf), *Henricus Harpff* (Heinrich Harpf).
+*   **1566** - Herodianus (Herodian), *Herodianus* (Herodian).
+*   **1566** - Hesiodus (Hesiod), *Hesiodus* (Hesiod).
+*   **1566** - Hermolaus Barbarus (Ermolao Barbaro der Jüngere), *Hermolaus Barbarus* (Ermolao Barbaro der Jüngere).
+*   **1566** - S. Ignatius (Ignatius von Antiochien), *S. Ignatius* (Heiliger Ignatius).
+*   **1566** - Joannes Cochleus (Johannes Cochläus), *Joannes Cochleus* (Johannes Cochläus).
+*   **1566** - S. Innocentius Papa (Innozenz I.), *S. Innocentius Papa* (Heiliger Papst Innozenz).
+*   **1566** - Przibram Bohemus (Johannes von Příbram), *Przibram Bohemus* (Johannes von Příbram).
+*   **1566** - S. Joannes Chrysostomus (Johannes Chrysostomos), *S. Joannes Chrysostomus* (Heiliger Johannes Chrysostomos).
+*   **1566** - Gagnaeus theologus Parisien. (Jean de Gaigny), *Gagnaeus theologus Parisien.* (Theologe Jean de Gaigny aus Paris).
+*   **1566** - S. Joannes Damascenus (Johannes von Damaskus), *S. Joannes Damascenus* (Heiliger Johannes Damascenus).
+*   **1566** - Joannis Regardi Homiliae (Johannes Regardus), *Joannis Regardi Homiliae* (Homilien des Johannes Regardus).
+*   **1566** - S. Irenaeus (Irenäus von Lyon), *S. Irenaeus* (Heiliger Irenäus).
+*   **1566** - Joannes Garetius (Johannes Garret), *Joannes Garetius* (Johannes Garret).
+*   **1566** - S. Isiodorus (Isidor von Sevilla), *S. Isiodorus* (Heiliger Isidor).
+*   **1566** - Joannes Maria Veratus (Giovanni Maria Verato), *Joannes Maria Veratus* (Giovanni Maria Verato).
+*   **1566** - S. Justinus Martyr (Justinus der Märtyrer), *S. Justinus Martyr* (Heiliger Justinus der Märtyrer).
+*   **1566** - Joannes Scotus (Johannes Duns Scotus), *Joannes Scotus* (Johannes Duns Scotus).
+*   **1566** - Joannes Gerson (Jean Gerson), *Joannes Gerson* (Jean Gerson).
+*   **1566** - Ludovicus Vives (Juan Luis Vives), *Ludovicus Vives* (Juan Luis Vives).
+*   **1566** - Khaiserspergius (Geiler von Kaysersberg), *Khaiserspergius* (Geiler von Kaysersberg).
+*   **1566** - Fischerius episc. Roffen. martyr (John Fisher), *Fischerius episc. Roffen. martyr* (Bischof Fischer von Rochester, Märtyrer).
+*   **1566** - Dryedon (Johannes Driedo), *Dryedon* (Johannes Driedo).
+*   **1566** - a Via (Johannes von der Via), *a Via* (Johannes von der Via).
+*   **1566** - Joannes Thaulerus (Johannes Tauler), *Joannes Thaulerus* (Johannes Tauler).
+*   **1566** - Rusbrochius (Jan van Ruysbroek), *Rusbrochius* (Jan van Ruysbroek).
+*   **1566** - Trithemius (Johannes Trithemius), *Trithemius* (Johannes Trithemius).
+*   **1566** - Nauclerus (Johann Nauclerus), *Nauclerus* (Johann Nauclerus).
+*   **1566** - Lanspergius (Johannes Justus Lanspergius), *Lanspergius* (Johannes Justus Lanspergius).
+*   **1566** - Olaus Magnus (Olaus Magnus), *Olaus Magnus* (Olaus Magnus).
+*   **1566** - Eckhius (Johannes Eck), *Eckhius* (Johannes Eck).
+*   **1566** - Baptista Platina (Bartolomeo Platina), *Baptista Platina* (Bartolomeo Platina).
+*   **1566** - Gropperus (Johann Gropper), *Gropperus* (Johann Gropper).
+*   **1566** - Baptista Mantuanus (Battista Mantuanus), *Baptista Mantuanus* (Battista Mantuanus).
+*   **1566** - de Turrecremata (Juan de Torquemada), *de Turrecremata* (Juan de Torquemada).
+*   **1566** - Joannis Aventini (Johannes Aventinus), *Chronica Bavarica* (Bayerische Chronik).
+*   **1566** - Bunderius (Johannes Bunderius), *Bunderius* (Johannes Bunderius).
+*   **1566** - Joannes Baptista Egnatius (Giovanni Battista Egnazio), *Joannes Baptista Egnatius* (Giovanni Battista Egnazio).
+*   **1566** - Diettenberger (Johannes Dietenberger), *Diettenberger* (Johannes Dietenberger).
+*   **1566** - Leo Africanus (Leo Africanus), *Leo Africanus* (Leo Africanus).
+*   **1566** - Hofmeister (Johannes Hoffmeister), *Hofmeister* (Johannes Hoffmeister).
+*   **1566** - Faber (Jacques Lefèvre d'Étaples), *Faber* (Jacques Lefèvre d'Étaples).
+*   **1566** - Hessel (Johann Hessel), *Hessel* (Johann Hessel).
+*   **1566** - Cajetanus (Thomas Cajetan), *Cajetanus* (Thomas Cajetan).
+*   **1566** - Jovianus Pontanus (Giovanni Pontano), *Jovianus Pontanus* (Giovanni Pontano).
+*   **1566** - Pedionaeus (Johannes Pedionaeus), *Pedionaeus* (Johannes Pedionaeus).
+*   **1566** - Lorichius Hadamarius (Gerhard Lorich), *Lorichius Hadamarius* (Gerhard Lorich).
+*   **1566** - Ferus (Johann Ferus), *Ferus* (Johann Ferus).
+*   **1566** - Jacobi Meyeri Flandria (Jacobus Meyer), *Jacobi Meyeri Flandria* (Jacobus Meyer von Flandern).
+*   **1566** - Jodocus Clichtovaeus (Josse Clichtove), *Jodocus Clichtovaeus* (Josse Clichtove).
+*   **1566** - Joachimus Perionius (Joachim Périon), *Joachimus Perionius* (Joachim Périon).
+*   **1566** - Jacobus Latomus (Jacobus Latomus), *Jacobus Latomus* (Jacobus Latomus).
+*   **1566** - Jacobus Schaepperus (Jacob Schegk), *Jacobus Schaepperus* (Jacob Schegk).
+*   **1566** - Jacobus Sadoletus (Jacopo Sadoleto), *Jacobus Sadoletus* (Jacopo Sadoleto).
+*   **1566** - Sannazarius (Jacopo Sannazaro), *Sannazarius* (Jacopo Sannazaro).
+*   **1566** - Julius Pflug episcopus Naumburgen. (Julius Pflug), *Julius Pflug episcopus Naumburgen.* (Bischof Julius Pflug von Naumburg).
+*   **1566** - Justinus historicus (Justin), *Justinus historicus* (Justin der Historiker).
+*   **1566** - Isocrates (Isokrates), *Isocrates* (Isokrates).
+*   **1566** - S. Leo Papa (Leo der Große), *S. Leo Papa* (Heiliger Papst Leo).
+*   **1566** - Laurentius Justinianus Venetus (Lorenzo Giustiniani), *Laurentius Justinianus Venetus* (Lorenzo Giustiniani).
+*   **1566** - Liturgiae (Liturgien), *Liturgiae* (Liturgien).
+*   **1566** - Surius (Laurentius Surius), *Surius* (Laurentius Surius).
+*   **1566** - Ludovicus Blosius abbas (Louis de Blois), *Ludovicus Blosius abbas* (Abt Louis de Blois).
+*   **1566** - Lucius Florus (Lucius Annaeus Florus), *Lucius Florus* (Lucius Annaeus Florus).
+*   **1566** - Lactantius Firmianus (Lactantius), *Lactantius Firmianus* (Lactantius).
+*   **1566** - Leonhardus Aretinus (Leonardo Bruni), *Leonhardus Aretinus* (Leonardo Bruni).
+*   **1566** - Ludolphus Saxo (Ludolf von Sachsen), *Ludolphus Saxo* (Ludolf von Sachsen).
+*   **1566** - Magister sententiarum (Petrus Lombardus), *Magister sententiarum* (Magister Sententiarum).
+*   **1566** - Gregorii etc. (Gregor der Große), *Gregorii etc.* (Gregor etc.).
+*   **1566** - Methodus confessionis catholicus (Katholische Beichtmethode), *Methodus confessionis catholicus* (Katholische Beichtmethode).
+*   **1566** - Martinus Eysengreinius (Martin Eisengrein), *Martinus Eysengreinius* (Martin Eisengrein).
+*   **1566** - Michael Merspurgen. episc. (Michael Helding), *Michael Merspurgen. episc.* (Bischof Michael von Merseburg).
+*   **1566** - Manipulus curatorum (Manipulus Curatorum), *Manipulus curatorum* (Manipulus Curatorum).
+*   **1566** - Marcus Marulus Spalaten. (Marko Marulić), *Marcus Marulus Spalaten.* (Marko Marulić von Split).
+*   **1566** - Magnetius Rabanus Maurus (Magnentius Rabanus Maurus), *Magnetius Rabanus Maurus* (Magnentius Rabanus Maurus).
+*   **1566** - Michael Medina (Michael von Medina), *Michael Medina* (Michael von Medina).
+*   **1566** - Michael Baius (Michael Baius), *Michael Baius* (Michael Baius).
+*   **1566** - Milleloquia Augustini, Ambrosii, (Tausend Sprüche des Augustinus, Ambrosius), *Milleloquia Augustini, Ambrosii,* (Tausend Sprüche des Augustinus, Ambrosius).
+*   **1566** - Melchior Canus (Melchior Cano), *Melchior Canus* (Melchior Cano).
+*   **1566** - Martinus Cromerus (Martin Cromer), *Martinus Cromerus* (Martin Cromer).
+*   **1566** - Peresius (Martín Pérez de Ayora), *Peresius* (Martín Pérez de Ayora).
+*   **1566** - Matthaeus Galenus (Matthias Galen), *Matthaeus Galenus* (Matthias Galen).
+*   **1566** - Michael Brentzius (Michael Brenz), *Michael Brentzius* (Michael Brenz).
+*   **1566** - Mathias Bredenbachius (Matthias Bredenbach), *Mathias Bredenbachius* (Matthias Bredenbach).
+*   **1566** - Nicolaus Hanapus (Nikolaus Hanapus), *Nicolaus Hanapus* (Nikolaus Hanapus).
+*   **1566** - Nicephorus (Nikephoros Kallistos Xanthopoulos), *Nicephorus* (Nikephoros Kallistos Xanthopoulos).
+*   **1566** - Noguera (Noguera), *Noguera* (Noguera).
+*   **1566** - S. Nicetas (Niketas von Remesiana), *S. Nicetas* (Heiliger Niketas).
+*   **1566** - Natalis Beda (Noel Beda), *Natalis Beda* (Noel Beda).
+*   **1566** - Nicolaus Lyranus (Nikolaus von Lyra), *Nicolaus Lyranus* (Nikolaus von Lyra).
+*   **1566** - Navicula poenitentiae (Nachen der Buße), *Navicula poenitentiae* (Nachen der Buße).
+*   **1566** - Origenes Adamantius (Origenes), *Origenes Adamantius* (Origenes Adamantius).
+*   **1566** - Optatus (Optatus von Mileve), *Optatus* (Optatus von Mileve).
+*   **1566** - Oecumenius (Oikumenius), *Oecumenius* (Oikumenius).
+*   **1566** - Orosius (Orosius), *Orosius* (Orosius).
+*   **1566** - Olympiodorus (Olympiodorus der Jüngere), *Olympiodorus* (Olympiodorus der Jüngere).
+*   **1566** - Otho Frisingen. Episcopus (Otto von Freising), *Otho Frisingen. Episcopus* (Bischof Otto von Freising).
+*   **1566** - Onophrius Panvinius (Onuphrius Panvinius), *Onophrius Panvinius* (Onuphrius Panvinius).
+*   **1566** - Onus ecclesiae (Die Last der Kirche), *Onus ecclesiae* (Die Last der Kirche).
+*   **1566** - Officina Textoris (Werkstatt des Textor), *Officina Textoris* (Werkstatt des Textor).
+*   **1566** - S. Paulinus episcopus Nolanus (Paulinus von Nola), *S. Paulinus episcopus Nolanus* (Heiliger Paulinus, Bischof von Nola).
+*   **1566** - S. Potho (Potho), *S. Potho* (Heiliger Potho).
+*   **1566** - Primasius Uticen. episcopus (Primasius von Hadrumetum), *Primasius Uticen. episcopus* (Bischof Primasius von Hadrumetum).
+*   **1566** - Pontius S. Cypriani diaconus (Pontius), *Pontius S. Cypriani diaconus* (Diakon Pontius des hl. Cyprian).
+*   **1566** - Petrus Chrysologus (Petrus Chrysologus), *Petrus Chrysologus* (Petrus Chrysologus).
+*   **1566** - de Natalibus (Petrus de Natalibus), *de Natalibus* (Petrus de Natalibus).
+*   **1566** - Petrus de Soto (Pedro de Soto), *Petrus de Soto* (Pedro de Soto).
+*   **1566** - Prosper Aquitanicus (Prosper von Aquitanien), *Prosper Aquitanicus* (Prosper von Aquitanien).
+*   **1566** - Petrus Lombardus (Petrus Lombardus), *Petrus Lombardus* (Petrus Lombardus).
+*   **1566** - Prudentius (Prudentius), *Prudentius* (Prudentius).
+*   **1566** - Petrus Galatinus (Pietro Colonna Galatino), *Petrus Galatinus* (Pietro Colonna Galatino).
+*   **1566** - Philippus presbyter (Philippus der Presbyter), *Philippus presbyter* (Philippus der Presbyter).
+*   **1566** - Possidonius (Possidonius), *Possidonius* (Possidonius).
+*   **1566** - Phylo Judaeus (Philo von Alexandria), *Phylo Judaeus* (Philo von Alexandria).
+*   **1566** - Paulus Diaconus (Paulus Diaconus), *Paulus Diaconus* (Paulus Diaconus).
+*   **1566** - Plato (Platon), *Plato* (Platon).
+*   **1566** - Petrus Canisius (Petrus Canisius), *Petrus Canisius* (Petrus Canisius).
+*   **1566** - Peraldus (Guillaume Peyraut), *Peraldus* (Guillaume Peyraut).
+*   **1566** - Picus Mirandulanus (Giovanni Pico della Mirandola), *Picus Mirandulanus* (Giovanni Pico della Mirandola).
+*   **1566** - Quintus Curtius (Quintus Curtius Rufus), *Quintus Curtius* (Quintus Curtius).
+*   **1566** - Plinius (Plinius der Ältere), *Plinius* (Plinius der Ältere).
+*   **1566** - Paulus Jovius (Paolo Giovio), *Paulus Jovius* (Paolo Giovio).
+*   **1566** - Polydorus Virgilius (Polydor Vergil), *Polydorus Virgilius, primae editionis, non auctus* (Polydor Vergil, erste Auflage, nicht erweitert).
+*   **1566** - Petrus Appianus (Peter Apian), *Petrus Appianus* (Peter Apian).
+*   **1566** - Pauli Aemilii Historia Gallica (Paolo Emilio), *Pauli Aemilii Historia Gallica* (Paulus Aemilius' Gallische Geschichte).
+*   **1566** - Pomponius Mela (Pomponius Mela), *Pomponius Mela* (Pomponius Mela).
+*   **1566** - Pausanias (Pausanias), *Pausanias* (Pausanias).
+*   **1566** - Plutarchus (Plutarch), *Plutarchus* (Plutarch).
+*   **1566** - Polybius (Polybius), *Polybius* (Polybius).
+*   **1566** - Ptolemei Geographia (Ptolemäus), *Ptolemei Geographia* (Ptolemäus' Geographie).
+*   **1566** - Petrus Bembus (Pietro Bembo), *Petrus Bembus* (Pietro Bembo).
+*   **1566** - Quintilianus (Quintilian), *Quintilianus* (Quintilian).
+*   **1566** - Rationale divinorum (Rationale Divinorum Officiorum), *Rationale divinorum* (Rationale Divinorum Officiorum).
+*   **1566** - Rabanus (Rabanus Maurus), *Rabanus* (Rabanus Maurus).
+*   **1566** - Reginaldus Polus (Reginald Pole), *Reginaldus Polus* (Reginald Pole).
+*   **1566** - Rupertus abbas Tuitien. (Rupert von Deutz), *Rupertus abbas Tuitien.* (Abt Rupert von Deutz).
+*   **1566** - Regino Prumien. (Regino von Prüm), *Regino Prumien.* (Regino von Prüm).
+*   **1566** - Richardus de S. Victore (Richard von St. Viktor), *Richardus de S. Victore* (Richard von St. Viktor).
+*   **1566** - Ruardus Tapper (Ruard Tapper), *Ruardus Tapper* (Ruard Tapper).
+*   **1566** - Richardus Smythaeus Anglus (Richard Smyth), *Richardus Smythaeus Anglus* (Richard Smyth).
+*   **1566** - Robertus Gaguinus (Robert Gaguin), *Robertus Gaguinus de rebus Gallicis* (Robert Gaguin über gallische Angelegenheiten).
+*   **1566** - Ruffinus (Rufinus von Aquileia), *Ruffinus* (Rufinus von Aquileia).
+*   **1566** - Renhardus Lutz (Reinhard Lutz), *Renhardus Lutz* (Reinhard Lutz).
+*   **1566** - S. Symeon Metaphrastes (Symeon Metaphrastes), *S. Symeon Metaphrastes* (Heiliger Symeon Metaphrastes).
+*   **1566** - Suidas (Suidas), *Suidas* (Suidas).
+*   **1566** - Summa Sylvestrina (Sylvester Prierias), *Summa Sylvestrina* (Summa Sylvestrina).
+*   **1566** - Speculum exemplorum (Exempelspiegel), *Speculum exemplorum* (Exempelspiegel).
+*   **1566** - Sylvester Prierias (Sylvester Prierias), *Sylvester Prierias* (Sylvester Prierias).
+*   **1566** - Sabellici opera omnia, sed absque eo quod historicis libris ejus nuper additum est supplemento (Sabellicus), *Sabellici opera omnia, sed absque eo quod historicis libris ejus nuper additum est supplemento* (Alle Werke des Sabellicus, aber ohne das, was seinen Geschichtsbüchern kürzlich hinzugefügt wurde).
+*   **1566** - Stanislaus Hosius (Stanislaus Hosius), *Stanislaus Hosius* (Stanislaus Hosius).
+*   **1566** - Stephanus Vintonien. (Stephen Gardiner), *Stephanus Vintonien.* (Stephen Gardiner).
+*   **1566** - Socratis et Sozomeni Historia tripartita (Sokrates Scholastikos und Sozomenos), *Socratis et Sozomeni Historia tripartita* (Dreigeteilte Geschichte des Sokrates und Sozomenos).
+*   **1566** - Sulpitius Severus (Sulpicius Severus), *Sulpitius Severus* (Sulpicius Severus).
+*   **1566** - Santes Pagninus (Santes Pagninus), *Santes Pagninus* (Santes Pagninus).
+*   **1566** - F. Sixtus Senen. (Sixtus von Siena), *F. Sixtus Senen., author Bibliothecae sacrae* (Bruder Sixtus von Siena, Autor der Heiligen Bibliothek).
+*   **1566** - Summa rudium (Summa der Unwissenden), *Summa rudium* (Summa der Unwissenden).
+*   **1566** - Suetonius Tranquillus (Sueton), *Suetonius Tranquillus* (Sueton).
+*   **1566** - Solynus (Gaius Julius Solinus), *Solynus* (Solinus).
+*   **1566** - Saxo Grammaticus (Saxo Grammaticus), *Saxo Grammaticus* (Saxo Grammaticus).
+*   **1566** - S. Thomas Aquinas (Thomas von Aquin), *S. Thomas Aquinas* (Heiliger Thomas von Aquin).
+*   **1566** - S. Theophilactus (Theophylakt von Ohrid), *S. Theophilactus* (Heiliger Theophylakt).
+*   **1566** - S. Tertullianus (Tertullian), *S. Tertullianus* (Heiliger Tertullian).
+*   **1566** - Thomas de Vio Cajetanus (Thomas Cajetan), *Thomas de Vio Cajetanus* (Thomas Cajetan).
+*   **1566** - Theodoretus Cyrensis (Theodoret von Kyrrhos), *Theodoretus Cyrensis* (Theodoret von Kyrrhos).
+*   **1566** - Thomas Walden (Thomas Netter), *Thomas Walden* (Thomas Netter).
+*   **1566** - de Kempis (Thomas a Kempis), *de Kempis* (Thomas a Kempis).
+*   **1566** - Murnarus (Thomas Murner), *Murnarus* (Thomas Murner).
+*   **1566** - Tilemannus Bredenbachius (Tilemann Bredenbach), *Tilemannus Bredenbachius* (Tilemann Bredenbach).
+*   **1566** - Thesaurus exemplorum (Schatz der Beispiele), *Thesaurus exemplorum* (Schatz der Beispiele).
+*   **1566** - Tabulae Novi et Veteris Testamenti (Tabellen des Neuen und Alten Testaments), *Tabulae Novi et Veteris Testamenti* (Tabellen des Neuen und Alten Testaments).
+*   **1566** - Thesaurus evangelicarum enarrationum (Schatz der evangelischen Erklärungen), *Thesaurus evangelicarum enarrationum* (Schatz der evangelischen Erklärungen).
+*   **1566** - Thesaurus novus (Neuer Schatz), *Thesaurus novus* (Neuer Schatz).
+*   **1566** - T. Livius (Titus Livius), *T. Livius* (Titus Livius).
+*   **1566** - Thomas Morus Anglus (Thomas Morus), *Thomas Morus Anglus* (Thomas Morus).
+*   **1566** - Volaterranus (Raffaello Maffei), *Volaterranus* (Volaterranus).
+*   **1566** - Wolfgangus Sedelius (Wolfgang Sedelius), *Wolfgangus Sedelius* (Wolfgang Sedelius).
+*   **1566** - Hermann. (Hermann von Wied), *Hermann.* (Hermann).
+*   **1566** - Witichindus Saxo (Widukind von Corvey), *Witichindus Saxo* (Widukind von Corvey).
+*   **1566** - Xenophon (Xenophon), *Xenophon* (Xenophon).
+*   **1566** - S. Zeno Vienen. episcopus (Zeno von Verona), *S. Zeno Vienen. episcopus* (Heiliger Zeno, Bischof von Verona).
+*   **1566** - Zigabonus monachus (Zigabonus Monachus), *Zigabonus monachus* (Zigabonus Monachus).
+*   **1569** - Cento Virgilianus de praesenti in republica statu (Vergilianischer Cento über den gegenwärtigen Zustand des Staates).
+*   **1569** - Apologia contra status Burgundiae (Apologie gegen die burgundischen Stände).
+*   **1569** - Baculus fidei (Der Stab des Glaubens).
+*   **1569** - Basiliensis ministrorum responsio contra missam (Antwort der Basler Geistlichen gegen die Messe).
+*   **1569** - Brevis cometarum explicatio, physicum ordinem et exempla historiarum praecipue complectens (Kurze Erklärung der Kometen, hauptsächlich ihren physikalischen Aufbau und historische Beispiele umfassend).
+*   **1569** - Catechismus Genevensis et omnes alii a catholicis non conscripti (Genfer Katechismus und alle anderen, die nicht von Katholiken verfasst wurden).
+*   **1569** - Colloquium Bernense, Badense, Coclaei et Lutheri, clerici et militis, Gronicense, Herffordiense, Lipsiense, Marpurgense, Mulbrunnense, Possiacum, Parisiense, Smalcaldicum, Wittenbergense et omnia similia (Kolloquien von Bern, Baden, Cochläus und Luther, Kleriker und Ritter, Groninger, Herforder, Leipziger, Marburger, Maulbronner,
