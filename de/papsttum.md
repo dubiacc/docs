@@ -1,3 +1,7 @@
+# Zitate zum Papsttum
+
+## Zitate
+
 > **Die Autorität des Apostolischen Stuhls**
 >
 > Die ganze Kirche in der ganzen Welt weiß, **dass der Stuhl des seligen
