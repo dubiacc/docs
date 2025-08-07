@@ -1,5 +1,8 @@
 # Index librorum prohibitorum
 
+Zusammenfassung des "Index librorum prohibitorum" von 1886 mit Wikipedia-Links, sortiert
+nach Namen.
+
 ## Autoren, deren Werke komplett gebannt wurden
 
 Diese Liste enthält Autoren, deren *sämtliche* Werke (omnia opera) oder alle Schriften unter 
@@ -8,7 +11,7 @@ ihrem Namen durch die jeweiligen Indizes verboten wurden, mit der spätesten fes
 *   **1529** - [Joannes Wyccleff (John Wycliffe)](https://de.wikipedia.org/wiki/John_Wyclif)
 *   **1529** - [Joannes Huus (Jan Hus)](https://de.wikipedia.org/wiki/Jan_Hus)
 *   **1529** - [Marcilius de Padua (Marsilius von Padua)](https://de.wikipedia.org/wiki/Marsilius_von_Padua)
-*   **1529** - [Joannes Puperis (Johannes Pupper von Goch)](https://de.wikipedia.org/wiki/Johannes_Pupper_von_Goch)
+*   **1529** - [Joannes Puperis (Johannes Pupper von Goch)](https://de.wikipedia.org/wiki/Johann_von_Goch)
 *   **1529** - [Gorcianus (Bartholomäus Gorcianus)](https://de.wikipedia.org/wiki/Bartholom%C3%A4us_Gorcianus)
 *   **1530** - [Willelmus Hychyns (William Tyndale)](https://de.wikipedia.org/wiki/William_Tyndale)
 *   **1530** - [Simon Fishe (Simon Fish)](https://de.wikipedia.org/wiki/Simon_Fish)
