@@ -1,3 +1,7 @@
+# Zitate zur Filioque
+
+## Zitate
+
 > **Der Heilige Geist geht vom Vater durch den Sohn aus**
 >
 > ...lass mich dich, unseren Vater, und deinen Sohn zusammen mit dir anbeten;
