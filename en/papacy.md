@@ -1,2 +1,0 @@
-# quotes about papacy
-
