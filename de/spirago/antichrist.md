@@ -1,18 +1,23 @@
-Prof. Franz Spirago
-Antichrist
+```
+{
+    "date": "
+}
+```
+Prof. Franz Spirago - für den katholische Glauben
 
-FÜR DEN KATHOLISCHEN GLAUBEN
-
-***
+# Der Antichrist
 
 Die ursprüngliche deutsche Ausgabe von 1931 trägt die kirchliche Druckerlaubnis:
-10 621 Nil obstat
-Dr. Ant. Franz, Zensor
-Prag, 23. Aug. 1921
-Imprimi potest
-Dr. Ant. Podlaha, Vic. gen.
-Aus dem deutschen Nachdruck Prof. Franz Spirago, Der Antichrist – Genaues über den
-Antichrist nach der Lehre der Überlieferung, der Hl. Schrift und der
+
+> 10 621 Nil obstat
+> Dr. Ant. Franz, Zensor
+> Prag, 23. Aug. 1921
+
+> Imprimi potest
+> Dr. Ant. Podlaha, Vic. gen.
+
+Aus dem deutschen, Nachdruck: Prof. Franz Spirago, Der Antichrist – 
+Genaues über den Antichrist nach der Lehre der Überlieferung, der Hl. Schrift und der
 Privat-Offenbarung, Verlag Anton A. Schmid, Durach 1995
 übersetzt von Jaroslav Voříšek 2010
 
@@ -29,9 +34,11 @@ FÜR DEN KATHOLISCHEN GLAUBEN
 
 ***
 
-Inhalt
+## Inhalt
+
 Vorwort des Herausgebers der tschechischen Übersetzung
 Vorwort
+
 1. Am Ende der Welt wird der Antichrist kommen. Viele glauben aufgrund privater Offenbarungen, dass er bereits in diesem Jahrhundert erscheinen wird.
 2. Von Antichristen weissagten die Propheten Daniel, Ezechiel und der heilige Evangelist Johannes in seiner Offenbarung, und insbesondere die heilige Hildegard.
 3. Der Antichrist wird als Strafe für die gottlose Menschheit kommen.
@@ -73,12 +80,12 @@ b) Während der Herrschaft des Antichristen wird die Sonne sich verfinstern.
 
 ***
 
-Vorwort des Herausgebers der tschechischen Übersetzung
+## Vorwort des Herausgebers der tschechischen Übersetzung
 Der Autor des Buches, der österreichische Theologe, Professor Franz Spirago, sagt sehr treffend gleich im Vorwort, dass „niemand sagen sollte, dass eine Abhandlung über den Antichristen überflüssig sei, weil wir angeblich noch nicht am Ende der Welt sind. Eine Studie über eine Lehre, die die Heilige Schrift so oft und sogar ausdrücklich behandelt, kann niemals als überflüssig bezeichnet werden. Die heiligen Apostel und heiligen Väter würden den Antichristen ohnehin nicht so oft erwähnen, wenn diese Lehre für die Christen nicht sogar außerordentlich nützlich wäre. Den größten Nutzen wird die genaue Kenntnis dieser Lehre jedoch den Christen bringen, die bereits zur Zeit des Antichristen leben werden.“ – Und wer kann sich sicher sein, dass wir nicht bereits zur Zeit des Antichristen leben? Man muss sich nur daran erinnern, dass am 19. September 1846 auf dem Berg bei La Salette die damals völlig unglaublichen Worte der Muttergottes erklangen: „Rom wird den Glauben verlieren und zum Sitz des Antichristen werden.“
 Eine solche Annahme – natürlich keine Gewissheit, denn die Zeit des Erscheinens des Antichristen können wir nicht kennen – wird uns durch den entsetzlichen Zustand der heutigen Welt gerechtfertigt, denn der Verlust des Glaubens und sogar seine Verachtung und Ablehnung gehen letztendlich Hand in Hand mit der Missachtung des Menschen als Gottes Schöpfung. Eines wissen wir jedoch mit Sicherheit: Heiden, die Gott nicht kannten, werden eine gewisse Barmherzigkeit erfahren im Vergleich zu denen, die als Christen Gott kannten, ihn verleugneten und seinen Willen nicht taten. Das vorliegende Werk, das auf der Heiligen Schrift, der kirchlichen Überlieferung und privaten Offenbarungen basiert, zeigt uns hinreichend deutlich, dass eine solche Bestrafung durch Gottes Zulassung, das Kommen und die Herrschaft des Antichristen, zweifellos ist. Aus diesen und vielen anderen Gründen ist die aufmerksame Lektüre dieses Werkes für einen wahren Katholiken heute viel nützlicher und notwendiger als je zuvor.
 Schließlich noch eine technische Anmerkung: Die Quellenangaben der Zitate wurden im Gegensatz zum Original konsequent in Fußnoten verschoben, da sie im Text störend wirkten.
 
-Vorwort
+## Vorwort
 Wie die Juden zur Zeit Christi aus den Worten der Propheten ableiten konnten, wo und wann der Messias geboren werden würde, welche Wunder er wirken und welche Auswirkungen er hervorrufen würde und welchen Tod er sterben würde, so wissen auch wir aus der Apokalypse des heiligen Evangelisten Johannes und aus den Schriften der Propheten sehr genau vieles über den Antichristen, wie z.B. über sein Wirken, seine Wunder, seinen Fall usw. Die ersten Christen wussten jedoch allem Anschein nach noch mehr und genauer über ihn von den Aposteln, wie sich z.B. aus dem Brief des heiligen Paulus an die Thessalonicher (2 Thess 2,7) ergibt. Diese Angaben gelangten offenbar durch mündliche Überlieferung an die Schüler der Apostel und an die heiligen Väter (Kirchenväter) und wurden von ihnen später niedergeschrieben. Es ist bemerkenswert, dass die erwähnten Aufzeichnungen der heiligen Väter in vielen Punkten übereinstimmen. Die heiligen Väter erklären auch stellenweise ausdrücklich, dass ihre Aussagen von den heiligen Aposteln und ihren Schülern stammen.
 Niemand sollte sagen, dass eine Abhandlung über den Antichristen überflüssig sei, weil wir angeblich noch nicht am Ende der Welt sind. Eine Studie über eine Lehre, die die Heilige Schrift so oft und sogar ausdrücklich behandelt, kann niemals als überflüssig bezeichnet werden. Die heiligen Apostel und heiligen Väter würden den Antichristen ohnehin nicht so oft erwähnen, wenn diese
 6
@@ -97,7 +104,8 @@ Prof. Franz Spirago
 
 ***
 
-I.
+## I.
+
 Am Ende der Welt wird der Antichrist kommen. Viele glauben aufgrund privater Offenbarungen, dass er bereits in diesem (zwanzigsten) Jahrhundert erscheinen wird.
 
 Der Antichrist wird nicht eine Gesellschaft oder Organisation sein, sondern eine ganz bestimmte Person. (Bellarmin, Suarez). Er wird ein Mensch sein, der mit aller Macht Satans ausgestattet ist. (Hl. Johannes Chrysostomus). Der Antichrist wird nicht Satan sein, sondern ein Mensch. (Hl. Hildegard, Scivias). Er wird auch kein fleischgewordener Teufel sein, sondern ein wirklicher Mensch; er wird also nicht zugleich Teufel und Mensch sein. (Hl. Johannes Damaszener). Er wird auch kein von Satan besessener Mensch sein, denn er wird frei handeln können.
@@ -123,7 +131,7 @@ weil wir mit ihren Mitschwestern lebten, die sie kannten und unendlich großes V
 
 ***
 
-II.
+## II.
 Über den Antichristen weissagten die Propheten Daniel, Ezechiel und der heilige Evangelist Johannes in seiner Offenbarung, und insbesondere die heilige Hildegard.
 
 Bei Daniel in Kapitel 7, 8, 11 und 12, bei Ezechiel in Kapitel 38 und 39 lesen wir über den Feind des auserwählten Volkes Gottes am „Ende der Zeiten“, den der Prophet Ezechiel „Gog“ nennt (und seine Anhänger und Feinde Gottes „Magog“). Nach der einstimmigen Lehre der heiligen Väter prophezeit der heilige Evangelist Johannes in Kapitel 11 seiner Apokalypse ebenfalls über den Antichristen. Weiterhin ist in Kapitel 13 und 19 (19-21) bemerkenswert, dass seine Prophezeiung der Daniels völlig ähnelt.
@@ -158,7 +166,7 @@ Aus späterer Zeit haben wir Berichte über den Antichristen in den Schriften de
 Der berühmte Roman über den Antichristen wurde 1903 von Robert Hugh Benson unter dem Titel „Der Herr der Welt“¹⁶ geschrieben und veröffentlicht. Benson (1871-1914) war der Sohn des anglikanischen Erzbischofs von Canterbury, wurde anglikanischer Geistlicher, trat 1903 zum Katholizismus über und wurde 1904 in Rom zum Priester geweiht. Sein Roman wurde in viele Sprachen, einschließlich Tschechisch, übersetzt und ist bis heute verbreitet. Auch Josef Seeber beschreibt in seinem Werk „Der ewige Jude“¹⁷ in poetischer Form das Wirken und den Sturz des Antichristen.
 Es ist zweifellos auffällig, wie gerne Religionsfeinde auf den Antichristen hinweisen und ihre Hoffnungen in ihn setzen. Nietzsche zum Beispiel beschreibt in seinem Buch „Der Antichrist“¹⁸ das Christentum als eine erniedrigende Religion der Sklaven und begrüßt den Antichristen als den sehnlichst erwarteten Befreier der Menschheit von den Fesseln des Gewissens, von den Banden des unvernünftigen Glaubens an die Ewigkeit und an Gottes Strafe!
 
-III.
+### III.
 Der Antichrist wird als Strafe für die gottlose Menschheit kommen.
 
 Wie bekannt, erklärte die gesetzgebende Versammlung im Jahr 1793 zur Zeit der Französischen Revolution Gott für abgesetzt und setzte an seine Stelle das Gotteswesen der Vernunft, und als dessen Symbol wurde eine Schauspielerin von zweifelhaftem Ruf auf dem Altar verehrt, wo ihr göttliche Ehren erwiesen wurden. Damals war der Abfall von Gott noch auf Frankreich, also nur auf einen Teil der Welt, begrenzt. Satans Absicht, einen vollständigen Abfall von Gott zu bewirken, scheiterte damals. Die Menschheit war offenbar noch nicht reif für den Antichristen. Zuvor muss eine völlige Sittenverderbnis eintreten, die ganze Menschheit muss Gott den Gehorsam aufkündigen und ein allgemeiner Aufstand gegen Gott muss beginnen. Dann wird der Tag kommen, an dem nicht eine Schauspielerin, sondern der Antichrist selbst zum Gott erklärt wird! Der Dichter Friedrich Wilhelm Helle (gest. 1901 in München) antwortet auf die Frage, ob die ganze Menschheit der völligen Sittenverderbnis verfallen kann, wie folgt: „Heute, wo der Unglaube mit erstaunlicher Geschwindigkeit nicht nur durch die Eisenbahn, sondern auch durch Telegraf und Telefon in alle Reiche und Teile der Welt verbreitet wird, hat die Verderbnis in nur fünf Jahren mehr bewirkt, als in fünfzig Jahren möglich war! Wenn alle Feinde Christi sich vereinen und einmütig an der völligen Zerstörung und dem Abfall von Gott arbeiten und die ganze Hölle ihnen hilft, dann wuchert und wächst das Unkraut statt des Weizens im Weinberg des Herrn, und die Ernte des Unkrauts wird so reich sein, wie nie zuvor!“¹⁹
@@ -193,7 +201,7 @@ Weil die Welt, die dem Unglauben und der Sittenverderbnis verfallen ist, nicht a
 Der Antichrist wird die gottlosen Völker zu seinen elenden Sklaven machen, wie es seine Vorgänger Nero, Diokletian und andere Tyrannen in unvergleichlich geringerem Maße taten. Wer kurz nach dem Krieg die Schreckensherrschaft Lenins und Trotzkis in Russland und das Wüten des Juden Béla Kun in Ungarn verfolgt hat, hat bereits ein schwaches Bild davon, wie der Antichrist wüten wird! In den genannten Ländern meinten viele Einwohner in ihrer Verzweiflung, der Antichrist sei bereits gekommen!
 Solange in den Staaten eine christliche Ordnung herrschte, die von einer christlichen Obrigkeit aufrechterhalten wurde, war dies ein Hindernis für das Kommen des Antichristen. In diesem Sinne legen auch viele die Worte des zweiten Briefes des heiligen Apostels Paulus an die Thessalonicher (2,6) aus: „Auch wisset ihr jetzt, was ihn (den Antichristen) zurückhält.“ – Andere legen die Worte des hl. Paulus anders aus: „Den Antichristen hält die Tatsache zurück, dass es noch keine einzige Herde und keinen einzigen Hirten gibt, zuvor muss die Vereinigung aller Völker im Glauben stattfinden!“ – Daraus sehen wir deutlich, dass die ersten Christen mehr über den Antichristen wussten als wir, denn bei uns herrschen über die Worte des hl. Paulus nur Vermutungen.
 
-IV.
+## IV.
 Der Antichrist hat seinen Namen, weil er der größte und wütendste
 Feind und Gegner Jesu Christi ist.
 
@@ -227,7 +235,8 @@ Die Bezeichnung „Antichrist“ stammt aus der Heiligen Schrift, und zwar vom A
 
 Zerstörer des Jerusalemer Tempels bezeichnet wird. Es wäre bemerkenswert, wenn der Zerstörer der christlichen Tempel auch den Namen „Soter“ annehmen würde. Andere weisen darauf hin, dass das griechische Wort Teitan (Sonne) ebenfalls die Zahl 666 (300, 5, 10, 300, 1, 50 = 666) enthält. Auch das griechische Wort Maometis (Mohammed) enthält die Zahl 666 (m = 40, a = 1, o = 70, m = 40, e = 5, t = 300, i = 10, s = 200). – Das Rätsel wird wohl erst bei der Ankunft des Antichristen gelöst; dann wird die vom heiligen Johannes angegebene Zahl ihren Zweck erfüllen, d.h. die Christen im Glauben zu stärken und sie vor dem Antichristen zu warnen. Das Buch der Offenbarung des hl. Johannes wird für die Christen in den letzten Zeiten dieser Welt ein großes Trostbuch sein. Die genannte Offenbarung hat zweifellos eine enorme Bedeutung. Bemerkenswert ist die Aussage des ehrwürdigen Dieners Gottes Bartholomäus Holzhauser, der behauptet, dass die Zahl 666 das Alter des Antichristen bedeutet. Er soll 666 Monate alt sein, d.h. 55 ½ Jahre.
 
-V.
+## V.
+
 Die Feindschaft gegen Christus wird der Antichrist wie folgt zeigen:
 Christus und seine Kirche auf jede erdenkliche Weise verspotten und beleidigen; versuchen, die Erinnerung an das Christentum auszulöschen und insbesondere das heilige Messopfer zu verhindern;
 die Anhänger Christi des Herrn blutig zu verfolgen.
@@ -326,7 +335,8 @@ Der kapuzinische Prediger Dionysius von Lützenburg sagt: „Weil das Leben des 
 
 meinen, das Kind sei mehr als nur ein gewöhnlicher Mensch. Schon mit sechs oder sieben Jahren wird er großen Respekt und Ansehen genießen.“
 
-VII.
+## VII.
+
 Der Antichrist wird im Alter von etwa 30 Jahren im Orient als Glaubensprediger und dann als Krieger auftreten.
 
 Der ehrwürdige Diener Gottes Bartholomäus Holzhauser erklärte, dass der Antichrist im Land zwischen den nahen Meeren aufstehen und seine Tyrannei im Orient entfesseln wird. Über die Jugend des Antichristen sagt die heilige Hildegard, dass seine Mutter ihn nur selten den Menschen zeigen und durch gewisse Zauber bewirken wird, dass die Menschen ihn lieben. Er wird an verschiedenen geheimen Orten erzogen und bis zu seiner Volljährigkeit verborgen gehalten. Sobald er das männliche Alter erreicht hat, wird er öffentlich eine feindselige Religion verkünden. „Er wird den Mund zum Widerspruch öffnen.“ Er wird behaupten, dass Jesus von Nazareth nicht der fleischgewordene Sohn Gottes ist, sondern ein Betrüger, der sich als Gott ausgab und dass die von ihm gegründete Kirche Lügen lehrt. Der wahre Christus sei erst in seiner Person gekommen. Er wird sagen: „Salvator mundi ego sum. Ich bin der Heiland der Welt.“ – Er wird insbesondere die Juden zu überzeugen suchen, dass er der von Gott gesandte Messias ist.
@@ -634,7 +644,8 @@ Wer das Zeichen des Antichristen nicht tragen wird, wird hingerichtet. Auch wird
 wie Laktanz sagt, bleibt ihnen nichts anderes übrig, als in die Berge und in die Wüste zu fliehen, oder Hungers zu sterben. Auch die heilige Hildegard sagt: „Den Christen bleibt nur die Wahl zwischen dem Tod und der eiligen Flucht in die Wüste, denn wer sich weigert, das Zeichen des Antichristen zu tragen, den erwartet die sofortige Hinrichtung.“ – Doch auch in der Wildnis werden die Christen keine vollständige Sicherheit finden, denn auf Befehl des Antichristen werden gelegentlich Strafexpeditionen durchgeführt. Viele werden auch in der Verbannung vorzeitig an Erschöpfung sterben. Zu Recht sagt daher der heilige Evangelist Johannes: „Hier ist Geduld der Heiligen, die Gottes Gebote und den Glauben Jesu bewahren.“ Wahrlich, große Geduld der Gläubigen wird nötig sein, um im Glauben zu verharren. Bernhardin von Busto (gest. 1490 in Mailand, Melignano), der als Theologe, Jurist, Philosoph und Prediger berühmt war, erklärt folgendes: „Dennoch wird Gott wundersam viele Priester bewahren, damit sie nach Beendigung der Verfolgung an der Bekehrung der Menschen arbeiten können.“
 Dionysius von Lützenburg bemerkt: „Diejenigen, die das genannte Zeichen annehmen, werden wie Besessene des Teufels sein. Sie werden Tag und Nacht keine Ruhe finden und sich bemühen, alle zu töten, die das Zeichen noch nicht haben.“ Und der heilige Evangelist Johannes verkündet tatsächlich auch: „Sie werden Tag und Nacht keine Ruhe haben, die das Tier und sein Bild anbeten und das Zeichen seines Namens empfangen.“ Die Feindseligkeit unter den Menschen wird auch die heiligsten Bande lösen. Dann werden sich die Worte Christi erfüllen: „Der Bruder wird den Bruder zum Tod überliefern und der Vater sein Kind, und die Kinder werden sich gegen die Eltern erheben und sie töten.“ „Und dann werden sich viele ärgern, der eine den anderen verraten und einander hassen.“
 
-XVI.
+## XVI.
+
 Der Antichrist wird viele Anhänger gewinnen, indem er das jüdische Religion unterstützt, sowie durch Geschenke und scheinbare Wunder.
 
 Der Antichrist wird vor allem Juden als Anhänger gewinnen. Deshalb wird er verkünden, dass das mosaische Gesetz immer noch gültig ist und den Sabbat, die Beschneidung und die jüdischen Riten wieder einführen. Der heilige Kirchenlehrer Ephraim (und der heilige Bischof Martin) sagen, dass der Antichrist befehlen wird, dass die Menschen jüdische Riten und die Beschneidung befolgen. Auch die heilige Hildegard sagt: „Es wird befohlen, die Beschneidung und die jüdischen Riten zu beachten, dagegen werden die Gebote des Christentums für bedeutungslos erklärt. Die Taufe und das heilige Evangelium werden verworfen und die Vorschriften der katholischen Kirche verspottet werden.“ Der Antichrist wird Jerusalem und den Tempel wieder aufbauen lassen und den Juden mitteilen, dass er die ganze Erde unterwerfen wird. Und da dies völlig
