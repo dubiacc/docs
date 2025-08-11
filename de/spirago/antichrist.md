@@ -1,8 +1,9 @@
 ```
 {
-    "date": "
+    "date": "23-08-1921"
 }
 ```
+
 Prof. Franz Spirago - für den katholische Glauben
 
 # Der Antichrist
