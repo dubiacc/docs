@@ -1027,9 +1027,760 @@ Behold, God is mine, and all things are mine! What will I more, and what more ha
 
 (1) Matthew xxvi. 41.
 
-## CHAPTER XL
-That man hath no good in himself, and nothing whereof to glory
+### That man hath no good in himself, and nothing whereof to glory
 
 Lord, what is man that Thou art mindful of him, or the son of man that Thou visitest him?(1) What hath man deserved, that Thou shouldest bestow thy favour upon him? Lord, what cause can I have of complaint, if Thou forsake me? Or what can I justly allege, if Thou refuse to hear my petition? Of a truth, this I may truly think and say, Lord, I am nothing, I have nothing that is good of myself, but I fall short in all things, and ever tend unto nothing. And unless I am helped by Thee and inwardly supported, I become altogether lukewarm and reckless.
 
-2. But Thou, O Lord, art always the same, and endure
+2. But Thou, O Lord, art always the same, and endurest for ever, always good, righteous, and holy; doing all things well, righteously, and holily, and disposing all in Thy wisdom. But I who am more ready to go forward than backward, never continue in one stay, because changes sevenfold pass over me. Yet it quickly becometh better when it so pleaseth Thee, and Thou puttest forth Thy hand to help me; because Thou alone canst aid without help of man, and canst so strengthen me that my countenance shall be no more changed, but my heart shall be turned to Thee, and rest in Thee alone.
+
+3. Wherefore, if I but knew well how to reject all human consolations, whether for the sake of gaining devotion, or because of the necessity by which I was compelled to seek Thee, seeing there is no man who can comfort me; then could I worthily trust in Thy grace, and rejoice in the gift of new consolation.
+
+4. Thanks be to Thee, from whom all cometh, whensoever it goeth well with me! But I am vanity and nothing in Thy sight, a man inconstant and weak. What then have I whereof to glory, or why do I long to be held in honour? Is it not for nought? This also is utterly vain. Verily vain glory is an evil plague, the greatest of vanities, because it draweth us away from the true glory, and robbeth us of heavenly grace. For whilst a man pleaseth himself he displeaseth Thee; whilst he gapeth after the praises of man, he is deprived of true virtues.
+
+5. But true glory and holy rejoicing lieth in glorying in Thee and not in self; in rejoicing in Thy Name, not in our own virtue; in not taking delight in any creature, save only for Thy sake. Let thy Name, not mine be praised; let Thy work, not mine be magnified; let Thy holy Name be blessed, but to me let nought be given of the praises of men. Thou art my glory, Thou art the joy of my heart. In Thee will I make my boast and be glad all the day long, but for myself let me not glory save only in my infirmities.(2)
+
+6. Let the Jews seek the honour which cometh from one another; but I will ask for that which cometh from God only.(3) Truly all human glory, all temporal honour, all worldly exultation, compared to Thy eternal glory, is but vanity and folly. O God my Truth and my Mercy, Blessed Trinity, to Thee alone be all praise, honour, power, and glory for ever and for ever. Amen.
+
+(1) Psalm viii. 4. (2) 2 Corinthians xii. 5. (3) John v. 44.
+
+### Of contempt of all temporal honour
+
+“My Son, make it no matter of thine, if thou see others honoured and exalted, and thyself despised and humbled. Lift up thine heart to Me in heaven, and then the contempt of men upon earth will not make thee sad.”
+
+2. O Lord, we are in blindness, and are quickly seduced by vanity. If I look rightly within myself, never was injury done unto me by any creature, and therefore I have nought whereof to complain before Thee. But because I have many times and grievously sinned against Thee, all creatures do justly take arms against me. Therefore to me confusion and contempt are justly due, but to Thee praise and honour and glory. And except I dispose myself for this, namely, to be willing that every creature should despise and desert me, and that I should be esteemed altogether as nothing, I cannot be inwardly filled with peace and strength, nor spiritually enlightened, nor fully united to Thee.
+
+### That our peace is not to be placed in men
+
+“My Son, if thou set thy peace on any person because thou hast high opinion of him, and art familiar with him, thou shalt be unstable and entangled. But if thou betake thyself to the ever-living and abiding Truth, the desertion or death of a friend shall not make thee sad. In Me ought the love of thy friend to subsist, and for My sake is every one to be loved, whosoever he be, who appeareth to thee good, and is very dear to thee in this life. Without Me friendship hath no strength or endurance, neither is that love true and pure, which I unite not. Thou oughtest to be so dead to such affections of beloved friends, that as far as in thee lieth, thou wouldst rather choose to be without any companionship of men. The nearer a man approacheth to God, the further he recedeth from all earthly solace. The deeper also he descendeth into himself, and the viler he appeareth in his own eyes, the higher he ascendeth towards God.
+
+2. “But he who attributeth anything good to himself, hindereth the grace of God from coming to him, because the grace of the Holy Ghost ever seeketh the humble heart. If thou couldst make thyself utterly nothing, and empty thyself of the love of every creature, then should it be My part to overflow unto thee with great grace. When thou settest thine eyes upon creatures, the face of the Creator is withdrawn from thee. Learn in all things to conquer thyself for thy Creator’s sake, then shalt thou be able to attain unto divine knowledge. How small soever anything be, if it be loved and regarded inordinately, it holdeth us back from the highest good, and corrupteth.”
+
+### Against vain and worldly knowledge
+
+“My Son, let not the fair and subtle sayings of men move thee. For the kingdom of God is not in word, but in power.(1) Give ear to My words, for they kindle the heart and enlighten the mind, they bring contrition, and they supply manifold consolations. Never read thou the word that thou mayest appear more learned or wise; but study for the mortification of thy sins, for this will be far more profitable for thee than the knowledge of many difficult questions.
+
+2. “When thou hast read and learned many things, thou must always return to one first principle. I am He that teacheth man knowledge,(2) and I give unto babes clearer knowledge than can be taught by man. He to whom I speak will be quickly wise and shall grow much in the spirit. Woe unto them who inquire into many curious questions from men, and take little heed concerning the way of My service. The time will come when Christ will appear, the Master of masters, the Lord of the Angels, to hear the lessons of all, that is to examine the consciences of each one. And then will He search Jerusalem with candles,(3) and the hidden things of darkness(4) shall be made manifest, and the arguings of tongues shall be silent.
+
+3. “I am He who in an instant lift up the humble spirit, to learn more reasonings of the Eternal Truth, than if a man had studied ten years in the schools. I teach without noise of words, without confusion of opinions, without striving after honour, without clash of arguments. I am He who teach men to despise earthly things, to loathe things present, to seek things heavenly, to enjoy things eternal, to flee honours, to endure offences, to place all hope in Me, to desire nothing apart from Me, and above all things to love Me ardently.
+
+4. “For there was one, who by loving Me from the bottom of his heart, learned divine things, and spake things that were wonderful; he profited more by forsaking all things than by studying subtleties. But to some I speak common things, to others special; to some I appear gently in signs and figures, and again to some I reveal mysteries in much light. The voice of books is one, but it informeth not all alike; because I inwardly am the Teacher of truth, the Searcher of the heart, the Discerner of the thoughts, the Mover of actions, distributing to each man, as I judge meet.”
+
+(1) 1 Corinthians iv. 20. (2) Psalm xciv. 10. (3) Zephaniah i. 12. (4) 1 Corinthians iv. 5.
+
+### Of not troubling ourselves about outward things
+
+“My Son, in many things it behoveth thee to be ignorant, and to esteem thyself as one dead upon the earth, and as one to whom the whole world is crucified. Many things also thou must pass by with deaf ear, and must rather think upon those things which belong unto thy peace. It is more profitable to turn away thine eyes from those things that displease, and to leave each man to his own opinion, than to give thyself to discourses of strife. If thou stand well with God and hast His judgment in thy mind, thou wilt verily easily bear to be as one conquered.”
+
+2. O Lord, to what have we come? Behold a temporal loss is mourned over; for a trifling gain we labour and hurry; and spiritual loss passeth away into forgetfulness, and we rarely recover it. That which profiteth little or nothing is looked after, and that which is altogether necessary is negligently passed by; because the whole man slideth away to outward things, and unless he quickly recovereth himself in outward things he willingly lieth down.
+
+### That we must not believe everyone, and that we are prone to fall in our words
+
+Lord, be thou my help in trouble, for vain is the help of man.(1) How often have I failed to find faithfulness, where I thought I possessed it. How many times I have found it where I least expected. Vain therefore is hope in men, but the salvation of the just, O God, is in Thee. Blessed be thou, O Lord my God, in all things which happen unto us. We are weak and unstable, we are quickly deceived and quite changed.
+
+2. Who is the man who is able to keep himself so warily and circumspectly as not sometimes to come into some snare of perplexity? But he who trusteth in Thee, O Lord, and seeketh Thee with an unfeigned heart, doth not so easily slip. And if he fall into any tribulation, howsoever he may be entangled, yet very quickly he shall be delivered through Thee, or by Thee shall be comforted, because Thou wilt not forsake him that trusteth in Thee unto the end. A friend who continueth faithful in all the distresses of his friend is rare to be found. Thou, O Lord, Thou alone art most faithful in all things, and there is none other like unto Thee.
+
+3. Oh, how truly wise was that holy soul which said, “My mind is steadfastly fixed, and it is grounded in Christ.”(2) If thus it were with me, the fear of man should not so easily tempt me, nor the arrows of words move me. Who is sufficient to foresee all things, who to guard beforehand against future ills? If even things which are foreseen sometimes hurt us, what can things which are not foreseen do, but grievously injure? But wherefore have I not better provided for myself, miserable that I am? Why, too, have I given such heed to others? But we are men, nor are we other than frail men, even though by many we are reckoned and called angels. Whom shall I trust, O Lord, whom shall I trust but Thee? Thou art the Truth, and deceivest not, nor canst be deceived. And on the other hand, Every man is a liar,(3) weak, unstable and frail, especially in his words, so that one ought scarcely ever to believe what seemeth to sound right on the face of it.
+
+4. With what wisdom hast thou warned us beforehand to beware of men, and that a man’s foes are they of his own household,(4) and that we must not believe if one say unto us Lo here, or Lo there.(5) I have been taught by my loss, and O that I may prove more careful and not foolish hereby. “Be cautious,” saith some one: “be cautious, keep unto thyself what I tell thee.” And whilst I am silent and believe that it is hid with me, he himself cannot keep silence concerning it, but straightway betrayeth me and himself, and goeth his way. Protect me, O Lord, from such mischief-making and reckless men; let me not fall into their hands, nor ever do such things myself. Put a true and steadfast word into my mouth, and remove a deceitful tongue far from me. What I would not suffer, I ought by all means to beware of doing.
+
+5. Oh, how good and peacemaking a thing it is to be silent concerning others, and not carelessly to believe all reports, nor to hand them on further; how good also to lay one’s self open to few, to seek ever to have Thee as the beholder of the heart; not to be carried about with every wind of words, but to desire that all things inward and outward be done according to the good pleasure of Thy will! How safe for the preserving of heavenly grace to fly from human approval, and not to long after the things which seem to win admiration abroad, but to follow with all earnestness those things which bring amendment of life and heavenly fervour! How many have been injured by their virtue being made known and too hastily praised. How truly profitable hath been grace preserved in silence in this frail life, which, as we are told, is all temptation and warfare.
+
+(1) Psalm lx. 11. (2) St. Agatha. (3) Psalm cxvi. 11; Romans iii. 4. (4) Matthew x. 17, 36. (5) Matthew xxiv. 23.
+
+### Of having confidence in God when evil words are cast at us
+
+“My Son, stand fast and believe in Me. For what are words but words? They fly through the air, but they bruise no stone. If thou are guilty, think how thou wouldst gladly amend thyself; if thou knowest nothing against thyself, consider that thou wilt gladly bear this for God’s sake. It is little enough that thou sometimes hast to bear hard words, for thou art not yet able to bear hard blows. And wherefore do such trivial matters go to thine heart, except that thou art yet carnal, and regardest men more than thou oughtest? For because thou fearest to be despised, thou art unwilling to be reproved for thy faults, and seekest paltry shelters of excuses.
+
+2. “But look better into thyself, and thou shalt know that the world is still alive in thee, and the vain love of pleasing men. For when thou fleest away from being abased and confounded for thy faults, it is plain that thou art neither truly humble nor truly dead to the world, and that the world is not crucified to thee. But hearken to My word, and thou shalt not care for ten thousand words of men. Behold, if all things could be said against thee which the utmost malice could invent, what should it hurt thee if thou wert altogether to let it go, and make no more account of it than of a mote? Could it pluck out a single hair of thy head?
+
+3. “But he that hath no heart within him, and hath not God before his eyes, is easily moved by a word of reproach; but he who trusteth in Me, and seeketh not to abide by his own judgment, shall be free from the fear of men. For I am the Judge and the Discerner of all secrets; I know how the thing hath been done; I know both the injurer and the bearer. From Me went forth that word, by My permission this hath happened, that the thoughts of many hearts may be revealed.(1) I shall judge the guilty and the innocent; but beforehand I have willed to try them both by a secret judgment.
+
+4. “The testimony of men often deceiveth. My judgment is true; it will stand, and it shall not be overturned. It commonly lieth hid, and only to few in certain cases is it made known; yet it never erreth, nor can err, although it seem not right to the eyes of foolish men. To Me, therefore, must men have recourse in all judgment, and must not lean to their opinion. For there shall no evil happen to the just,(2) whatsoever may be sent to him by God. Even though some unjust charge be brought against him, he will care little; nor, again, will he exult above measure, if through others he be clearly vindicated. For he considereth that I am He who try the hearts and reins,(3) who judge not outwardly and according to human appearance; for often in Mine eyes that is found blameworthy which in the judgment of men is held worthy of praise.”
+
+5. O Lord God, O Judge, just, strong, and patient, who knowest the frailty and sinfulness of men, be Thou my strength and my whole confidence; for my own conscience sufficeth me not. Thou knowest what I know not; and therefore ought I under all rebuke to humble myself, and to bear it meekly. Therefore mercifully forgive me as often as I have not done this, and grant me the next time the grace of greater endurance. For better unto me is Thine abundant pity for the attainment of Thy pardon, than the righteousness which I believe myself to have for defence against my conscience, which lieth wait against me. Although I know nothing against myself, yet I am not hereby justified,(4) because if Thy mercy were removed away, in Thy sight should no man living be justified.(5)
+
+(1) Luke ii. 35. (2) Proverbs xii. 21. (3) Psalm vii. 9. (4) 1 Corinthians iv. 4. (5) Psalm cxliii. 2.
+
+### That all troubles are to be endured for the sake of eternal life
+
+“My Son, let not the labours which thou hast undertaken for Me break thee down, nor let tribulations cast thee down in any wise, but let my promise strengthen and comfort thee in every event. I am sufficient to reward thee above all measure and extent. Not long shalt thou labour here, nor always be weighed down with sorrows. Wait yet a little while, and thou shalt see a speedy end of thine evils. An hour shall come when all labour and confusion shall cease. Little and short is all that passeth away with time.
+
+2. “Do earnestly what thou dost; labour faithfully in My vineyard; I will be thy reward. Write, read, sing, weep, be silent, pray, endure adversities manfully; eternal life is worthy of all these conflicts, yea, and of greater. Peace shall come in one day which is known to the Lord; which shall be neither day nor night,(1) but light eternal, infinite clearness, steadfast peace, and undisturbed rest. Thou shalt not say then, *Who shall deliver me from the body of this death?*(2) nor cry out, *Woe is me, for my sojourning is prolonged*,(3) because death will be utterly destroyed, and there shall be salvation which can never fail, no more anxiety, happy delight, sweet and noble society.
+
+3. “Oh, if thou sawest the unfading crowns of the Saints in heaven, and with what great glory they now rejoice, who aforetime were reckoned by this world contemptibly and as it were unworthy of life, truly thou wouldst immediately humble thyself even to the earth, and wouldst desire rather to be in subjection to all, than to have authority over one; nor wouldst thou long for pleasant days of this life, but wouldst more rejoice to be afflicted for God’s sake, and wouldst esteem it gain to be counted for nought amongst men.
+
+4. “Oh, if these things were sweet to thy taste, and moved thee to the bottom of thine heart, how shouldst thou dare even once to complain? Are not all laborious things to be endured for the sake of eternal life? It is no small thing, the losing or gaining the Kingdom of God. Lift up therefore thy face to heaven. Behold, I and all My Saints with Me, who in this world had a hard conflict, now rejoice, are now comforted, are now secure, are now at peace, and shall remain with Me evermore in the Kingdom of My Father.”
+
+(1) Zechariah xiv. 7. (2) Romans vii. 24. (3) Psalm cxx.
+
+### Of the day of eternity and of the straitnesses of this life
+
+Oh most blessed mansion of the City which is above! Oh most clear day of eternity which the night obscureth not, but the Supreme Truth ever enlighteneth! Day always joyful, always secure and never changing its state into those which are contrary. Oh would that this day might shine forth, and that all these temporal things would come to an end. It shineth indeed upon the Saints, glowing with unending brightness, but only from afar and through a glass, upon those who are pilgrims on the earth.
+
+2. The citizens of heaven know how glorious that day is; the exiled sons of Eve groan, because this is bitter and wearisome. The days of this life are few and evil, full of sorrows and straits, where man is defiled with many sins, ensnared with many passions, bound fast with many fears, wearied with many cares, distracted with many questionings, entangled with many vanities, compassed about with many errors, worn away with many labours, weighed down with temptations, enervated by pleasures, tormented by poverty.
+
+3. Oh when shall there be an end of these evils? When shall I be delivered from the wretched slavery of my sins? When shall I be mindful, O Lord, of Thee alone? When shall I rejoice in Thee to the full? When shall I be in true liberty without any impediment, without any burden on mind or body? When shall there be solid peace, peace immovable and secure, peace within and without, peace firm on every side? Blessed Jesus, when shall I stand to behold Thee? When shall I gaze upon the glory of Thy kingdom? When shalt Thou be to me all in all? Oh when shall I be with Thee in Thy Kingdom which Thou hast prepared from the foundation of the world for them that love Thee? I am left destitute, an exile in a hostile land, where are daily wars and grievous misfortunes.
+
+4. Console my exile, mitigate my sorrow, for towards Thee all my desire longeth. For all is to me a burden, whatsoever this world offereth for consolation. I yearn to enjoy Thee intimately, but I cannot attain unto it. I long to cleave to heavenly things, but temporal things and unmortified passions press me down. In my mind I would be above all things, but in my flesh I am unwillingly compelled to be beneath them. So, wretched man that I am, I fight with myself, and am made grievous even unto myself, while the spirit seeketh to be above and the flesh to be beneath.
+
+5. Oh how I suffer inwardly, while with the mind I discourse on heavenly things, and presently a crowd of carnal things rusheth upon me whilst I pray. My God, be not Thou far from me, nor depart in wrath from Thy servant. Cast forth Thy lightning and scatter them; send out Thine arrows,(1) and let all delusions of my enemy be confounded. Recall my senses unto Thyself, cause me to forget all worldly things; grant me quickly to cast away and despise the imaginations of sin. Succour me, O Eternal Truth, that no vanity may move me. Come unto me, O Heavenly Sweetness, and let all impurity flee from before Thy face. Pardon me also, and of Thy mercy deal gently with me, whensoever in prayer I think on anything besides Thee; for truly I confess that I am wont to be continually distracted. For often and often, where in the body I stand or sit, there I myself am not; but rather am I there, whither I am borne by my thoughts. Where my thought is, there am I; and there commonly is my thought where that which I love is. That readily occurreth to me, which naturally delighteth, or pleaseth through custom.
+
+6. Wherefore Thou, who art the Truth, hast plainly said, Where your treasure is, there will your heart be also.(2) If I love heaven, I gladly meditate on heavenly things. If I love the world, I rejoice in the delights of the world, and am made sorry by its adversities. If I love the flesh, I am continually imagining the things which belong to the flesh; if I love the spirit, I am delighted by meditating on spiritual things. For whatsoever things I love, on these I readily converse and listen, and carry home with me the images of them. But blessed is that man who for Thy sake, O Lord, is willing to part from all creatures; who doth violence to his fleshly nature and crucifieth the lusts of the flesh by the fervour of his spirit, so that with serene conscience he may offer unto Thee a pure prayer, and be made worthy to enter into the angelic choirs, having shut out from himself, both outwardly and inwardly, all worldly things.
+
+(1) Psalm lxxi. 12. (2) Matthew vi. 21.
+
+### Of the desire after eternal life, and how great blessings are promised to those who strive
+
+“My Son, when thou feelest the desire of eternal happiness to be poured into thee from above, and longest to depart from the tabernacle of this body, that thou mayest contemplate My glory without shadow of turning, enlarge thine heart, and take in this holy inspiration with all thy desire. Give most hearty thanks to the Supreme Goodness, who dealeth with thee so graciously, visiteth thee so lovingly, stirreth thee up so fervently, raiseth thee so powerfully, lest thou sink down through thine own weight, to earthly things. For not by thine own meditating or striving dost thou receive this gift, but by the sole gracious condescension of Supreme Grace and Divine regard; to the end that thou mayest make progress in virtue and in more humility, and prepare thyself for future conflicts, and cleave unto Me with all the affection of thy heart, and strive to serve Me with fervent will.
+
+2. “My Son, often the fire burneth, but the flame ascendeth not without smoke. So also the desires of some men burn towards heavenly things, and yet they are not free from the temptation of carnal affection. Thus therefore they are not acting with an altogether simple desire for God’s glory when they pray to Him so earnestly. Such, too, is oftentimes thy desire, when thou hast imagined it to be so earnest. For that is not pure and perfect which is tainted with thine own self-seeking.
+
+3. “Seek thou not what is pleasant and advantageous to thyself, but what is acceptable and honourable unto Me; for if thou judgest rightly, thou must choose and follow after My appointment rather than thine own desire; yea, rather than anything that can be desired. I know thy desire, and I have heard thy many groanings. Already thou longest to be in the glorious liberty of the children of God; already the eternal home delighteth thee, and the heavenly country full of joy; but the hour is not yet come; there remaineth still another season, even a season of warfare, a season of labour and probation. Thou desirest to be filled with the Chief Good, but thou canst not attain it immediately. I AM that Good; wait for Me, until the Kingdom of God shall come.
+
+4. “Thou must still be tried upon earth, and be exercised in many things. Consolation shall from time to time be given thee, but abundant satisfying shall not be granted. Be strong therefore, and be thou brave both in working and in suffering things which are against thy nature. Thou must put on the new man, and be changed into another man. Thou must often do what thou wouldst not; and thou must leave undone what thou wouldst do. What pleaseth others shall have good success, what pleaseth thee shall have no prosperity. What others say shall be listened to; what thou sayest shall receive no heed. Others shall ask and receive; thou shalt ask and not obtain. Others shall be great in the report of men, but about thee shall nothing be spoken. To others this or that shall be entrusted; thou shalt be judged useful for nought.
+
+5. “For this cause nature shall sometimes be filled with sadness; and it is a great thing if thou bear it silently. In this and many like things the faithful servant of the Lord is wont to be tried, how far he is able to deny himself and bring himself into subjection in all things. Scarcely is there anything in which thou hast need to mortify thyself so much as in seeing things which are adverse to thy will; especially when things are commanded thee to be done which seem to thee inexpedient or of little use to thee. And because thou darest not resist a higher power, being under authority, therefore it seemeth hard for thee to shape thy course according to the nod of another, and to forego thine own opinion.
+
+6. “But consider, My Son, the fruit of these labours, the swift end, and the reward exceeding great; and thou shalt find it no pain to bear them then, but rather the strongest solace of thy patience. For even in exchange for this trifling desire which thou hast readily forsaken, thou shalt always have thy will in Heaven. There verily thou shalt find all that thou wouldst, all that thou canst long for. There thou shalt have all good within thy power without the fear of losing it. There thy will, ever at one with Mine, shall desire nothing outward, nothing for itself. There no man shall withstand thee, none shall complain of thee, none shall hinder, nothing shall stand in thy path; but all things desired by thee shall be present together, and shall refresh thy whole affection, and fill it up even to the brim. There I will glory for the scorn suffered here, the garment of praise for sorrow, and for the lowest place a throne in the Kingdom, for ever. There shall appear the fruit of obedience, the labour of repentance shall rejoice, and humble subjection shall be crowned gloriously.
+
+7. “Now therefore bow thyself humbly under the hands of all men; nor let it trouble thee who said this or who ordered that; but take special heed that whether thy superior, thy inferior, or thy equal, require anything from thee, or even show a desire for it; take it all in good part, and study with a good will to fulfil the desire. Let one seek this, another that; let this man glory in this, and that man in that, and be praised a thousand thousand times, but rejoice thou only in the contempt of thyself, and in Mine own good pleasure and glory. This is what thou art to long for, even that whether by life or by death God may be ever magnified in thee.”(1)
+
+(1) Philippians i. 20.
+
+### How a desolate man ought to commit himself into the hands of God
+
+O Lord, Holy Father, be Thou blessed now and evermore; because as Thou wilt so it is done, and what Thou doest is good. Let Thy servant rejoice in Thee, not in himself, nor in any other; because Thou alone art the true joy, Thou art my hope and my crown, Thou art my joy and my honour, O Lord. What hath Thy servant, which he received not from Thee, even without merit of his own? Thine are all things which Thou hast given, and which Thou hast made. I am poor and in misery even from my youth up,(1) and my soul is sorrowful unto tears, sometimes also it is disquieted within itself, because of the sufferings which are coming upon it.
+
+2. I long after the joy of peace; for the peace of Thy children do I beseech, for in the light of Thy comfort they are fed by Thee. If Thou give peace, if Thou pour into me holy joy, the soul of Thy servant shall be full of melody, and devout in Thy praise. But if Thou withdraw Thyself as too often Thou art wont, he will not be able to run in the way of Thy commandments, but rather he will smite his breast and will bow his knees; because it is not with him as yesterday and the day before, when *Thy candle shined upon his head*,(2) and *he walked under the shadow of Thy wings*,(3) from the temptations which beset him.
+
+3. O Father, righteous and ever to be praised, the hour cometh when Thy servant is to be proved. O beloved Father, it is well that in this hour Thy servant suffer somewhat for Thy sake. O Father, evermore to be adored, as the hour cometh which Thou foreknewest from everlasting, when for a little while Thy servant should outwardly bow down, but always live inwardly with Thee; when for a little while he should be little regarded, humbled, and fail in the eyes of men; should be wasted with sufferings and weaknesses, to rise again with Thee in the dawn of the new light, and be glorified in the heavenly places. O Holy Father, thou hast ordained it so, and so hast willed it; and that is done which Thou Thyself hast commanded.
+
+4. For this is Thy favour to Thy friend, that he should suffer and be troubled in the world for Thy love’s sake, how often soever, and by whomsoever and whosoever Thou hast suffered it to be done. Without Thy counsel and providence, and without cause, nothing cometh to pass on the earth. It is good for me, Lord, that I had been in trouble, that I may learn Thy statutes,(4) and may cast away all pride of heart and presumption. It is profitable for me that confusion hath covered my face, that I may seek to Thee for consolation rather than unto men. By this also I have learned to dread Thine unsearchable judgment, who afflictest the just with the wicked, but not without equity and justice.
+
+5. Thanks be unto Thee, because Thou hast not spared my sins, but hast beaten me with stripes of love, inflicting pains, and sending troubles upon me without and within. There is none who can console me, of all things which are under heaven, but Thou only, O Lord my God, Thou heavenly Physician of souls, who dost scourge and hast mercy, who leadest down to hell and bringest up again.(5) Thy discipline over me, and Thy rod itself shall teach me.
+
+6. Behold, O beloved Father, I am in Thy hands, I bow myself under the rod of Thy correction. Smite my back and my neck that I may bend my crookedness to Thy will. Make me a pious and lowly disciple, as Thou wert wont to be kind, that I may walk according to every nod of Thine. To Thee I commend myself and all that I have for correction; better is it to be punished here than hereafter. Thou knowest all things and each of them; and nothing remaineth hid from Thee in man’s conscience. Before they are, thou knowest that they will be, and Thou needest not that any man teach Thee or admonish Thee concerning the things which are done upon the earth. Thou knowest what is expedient for my profit, and how greatly trouble serveth unto the scrubbing off the rust of sin. Do with me according to Thy desired good pleasure, and despise not my life which is full of sin, known to none so entirely and fully as to Thee alone.
+
+7. Grant me, O Lord, to know that which ought to be known; to love that which ought to be loved; to praise that which pleaseth Thee most, to esteem that which is precious in Thy sight, to blame that which is vile in Thine eyes. Suffer me not to judge according to the sight of bodily eyes, nor to give sentence according to the hearing of the ears of ignorant men; but to discern in true judgment between visible and spiritual things, and above all things to be ever seeking after the will of Thy good pleasure.
+
+8. Oftentimes the senses of men are deceived in judging; the lovers of the world also are deceived in that they love only visible things. What is a man better because by man he is reckoned very great? The deceiver deceiveth the deceiver, the vain man the vain, the blind man the blind, the weak man the weak, when they exalt one another; and in truth they rather put to shame, while they foolishly praise. For as humble St. Francis saith, “What each one is in Thine eyes, so much he is, and no more.”
+
+(1) Psalm lxxxviii. 15. (2) Job xxix. 3. (3) Psalm xvii. 8. (4) Psalm cxix. 71. (5) Job xiii. 2.
+
+### That we must give ourselves to humble works when we are unequal to those that are lofty
+
+“My Son, thou art not always able to continue in very fervent desire after virtues, nor to stand fast in the loftier region of contemplation; but thou must of necessity sometimes descend to lower things because of thine original corruption, and bear about the burden of corruptible life, though unwillingly and with weariness. So long as thou wearest a mortal body, thou shalt feel weariness and heaviness of heart. Therefore thou oughtest to groan often in the flesh because of the burden of the flesh, inasmuch as thou canst not give thyself to spiritual studies and divine contemplation unceasingly.
+
+2. “At such a time it is expedient for thee to flee to humble and external works, and to renew thyself with good actions; to wait for My coming and heavenly visitation with sure confidence; to bear thy exile and drought of mind with patience, until thou be visited by Me again, and be freed from all anxieties. For I will cause thee to forget thy labours, and altogether to enjoy eternal peace. I will spread open before thee the pleasant pastures of the Scriptures, that with enlarged heart thou mayest begin to run in the way of My commandments. And thou shalt say, ‘The sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.’”(1)
+
+(1) Romans viii. 18.
+
+### That a man ought not to reckon himself worthy of consolation, but more worthy of chastisement
+
+O Lord, I am not worthy of Thy consolation, nor of any spiritual visitation; and therefore Thou dealest justly with me, when Thou leavest me poor and desolate. For if I were able to pour forth tears like the sea, still should I not be worthy of Thy consolation. Therefore am I nothing worthy save to be scourged and punished, because I have grievously and many a time offended Thee, and in many things have greatly sinned. Therefore, true account being taken, I am not worthy even of the least of Thy consolations. But Thou, gracious and merciful God, who willest not that Thy works should perish, to show forth the riches of Thy mercy upon the vessels of mercy,(1) vouchsafest even beyond all his own deserving, to comfort Thy servant above the measure of mankind. For Thy consolations are not like unto the discoursings of men.
+
+2. What have I done, O Lord, that Thou shouldst bestow any heavenly comfort upon me? I remember not that I have done any good, but have been ever prone to sin and slow to amendment. It is true and I cannot deny it. If I should say otherwise, Thou wouldst rise up against me, and there would be none to defend me. What have I deserved for my sins but hell and everlasting fire? In very truth I confess that I am worthy of all scorn and contempt, nor is it fit that I should be remembered among Thy faithful servants. And although I be unwilling to hear this, nevertheless I will for the Truth’s sake, accuse myself of my sins, that the more readily I may prevail to be accounted worthy of Thy mercy.
+
+3. What shall I say, guilty that I am and filled with confusion? I have no mouth to utter, unless it be this word alone, “I have sinned, Lord, I have sinned; have mercy upon me, forgive me.” Let me alone, that I may take comfort a little before I go whence I shall not return even to the land of darkness and the shadow of death.(2) What dost Thou so much require of a guilty and miserable sinner, as that he be contrite, and humble himself for his sins? In true contrition and humiliation of heart is begotten the hope of pardon, the troubled conscience is reconciled, lost grace is recovered, a man is preserved from the wrath to come, and God and the penitent soul hasten to meet each other with a holy kiss.(3)
+
+4. The humble contrition of sinners is an acceptable sacrifice unto Thee, O Lord, sending forth a smell sweeter far in Thy sight than the incense. This also is that pleasant ointment which Thou wouldst have poured upon Thy sacred feet, for a broken and contrite heart Thou hast never despised.(4) There is the place of refuge from the wrathful countenance of the enemy. There is amended and washed away whatsoever evil hath elsewhere been contracted.
+
+(1) Romans ix. 23. (2) Job x. 20, 21. (3) Luke xv. 20. (4) Psalm li. 17.
+
+### That the Grace of God doth not join itself to those who mind earthly things
+
+“My Son, precious is My grace, it suffereth not itself to be joined with outward things, nor with earthly consolations. Therefore thou oughtest to cast away all things which hinder grace, if thou longest to receive the inpouring thereof. Seek a secret place for thyself, love to dwell alone with thyself, desire the conversation of no one; but rather pour out thy devout prayer to God, that thou mayest possess a contrite mind and a pure conscience. Count the whole world as nought; seek to be alone with God before all outward things. For thou canst not be alone with Me, and at the same time be delighted with transitory things. Thou oughtest to be separated from thy acquaintances and dear friends, and keep thy mind free from all worldly comfort. So the blessed Apostle Peter beseecheth, that Christ’s faithful ones bear themselves in this world as strangers and pilgrims.(1)
+
+2. “Oh how great a confidence shall there be to the dying man whom no affection to anything detaineth in the world? But to have a heart so separated from all things, a sickly soul doth not yet comprehend, nor doth the carnal man know the liberty of the spiritual man. But if indeed he desire to be spiritually minded, he must renounce both those who are far off, and those who are near, and to beware of no man more than himself. If thou perfectly conquer thyself, very easily shalt thou subdue all things besides. Perfect victory is the triumph over oneself. For whoso keepeth himself in subjection, in such manner that the sensual affections obey the reason, and the reason in all things obeyeth Me, he truly is conqueror of himself, and lord of the world.
+
+3. “If thou desire to climb to this height, thou oughtest to start bravely, and to lay the axe to the root, to the end that thou mayest pull up and destroy the hidden inordinate inclination towards thyself, and towards all selfish and earthly good. From this sin, that a man loveth himself too inordinately, almost everything hangeth which needeth to be utterly overcome: when that evil is conquered and put under foot, there shall be great peace and tranquillity continually. But because few strive earnestly to die perfectly to themselves, and do not heartily go forth from themselves, therefore do they remain entangled in themselves, and cannot be raised in spirit above themselves. But he who desireth to walk at liberty with Me, must of necessity mortify all his evil and inordinate affections, and must cling to no creature with selfish love.”
+
+(1) 1 Peter ii. 11.
+
+### Of the diverse motions of Nature and of Grace
+
+“My Son, pay diligent heed to the motions of Nature and of Grace, because they move in a very contrary and subtle manner, and are hardly distinguished save by a spiritual and inwardly enlightened man. All men indeed seek good, and make pretence of something good in all that they say or do; and thus under the appearance of good many are deceived.
+
+2. “Nature is deceitful and draweth away, ensnareth, and deceiveth many, and always hath self for her end; but Grace walketh in simplicity and turneth away from every appearance of evil, maketh no false pretences, and doeth all entirely for the sake of God, in whom also she finally resteth.
+
+3. “Nature is very unwilling to die, and to be pressed down, and to be overcome, and to be in subjection, and to bear the yoke readily; but Grace studieth self-mortification, resisteth sensuality, seeketh to be subdued, longeth to be conquered, and willeth not to use her own liberty. She loveth to be held by discipline, and not to have authority over any, but always to live, to remain, to have her being under God, and for God’s sake is ready to be humbly subject to every ordinance of man.
+
+4. “Nature laboureth for her own advantage, and considereth what profit she may gain from another; but Grace considereth more, not what may be useful and convenient to self, but what may be profitable to the many.
+
+5. “Nature willingly receiveth honour and reverence; but Grace faithfully ascribeth all honour and glory to God.
+
+6. “Nature feareth confusion and contempt, but Grace rejoiceth to suffer shame for the name of Jesus.
+
+7. “Nature loveth ease and bodily quiet; Grace cannot be unemployed, but gladly embraceth labour.
+
+8. “Nature seeketh to possess things curious and attractive, and abhorreth those which are rough and cheap; Grace is delighted with things simple and humble, despiseth not those which are rough, nor refuseth to be clothed with old garments.
+
+9. “Nature hath regard to things temporal, rejoiceth in earthly lucre, is made sad by loss, vexed by any little injurious word; but Grace reacheth after things eternal, cleaveth not to those which are temporal, is not perturbed by losses, nor embittered by any hard words, because she hath placed her treasure and joy in heaven where nought perisheth.
+
+10. “Nature is covetous, and receiveth more willingly than she giveth, loveth things that are personal and private to herself; while Grace is kind and generous, avoideth selfishness, is contented with a little, believeth that it is more blessed to give than to receive.
+
+11. “Nature inclineth thee to created things, to thine own flesh, to vanities and dissipation; but Grace draweth to God and to virtues, renounceth creatures, fleeth from the world, hateth the desires of the flesh, restraineth vagaries, blusheth to be seen in public.
+
+12. “Nature is glad to receive some outward solace in which the senses may have delight; but Grace seeketh to be comforted in God alone, and to have delight in the chief good above all visible things.
+
+13. “Nature doeth everything for her own gain and profit, can do nothing as a free favour, but hopeth to attain something as good or better, or some praise or favour for her benefits; and she loveth that her own deeds and gifts should be highly valued; but Grace seeketh nothing temporal, nor requireth any other gift of reward than God alone; neither longeth she for more of temporal necessities than such as may suffice for the attaining of eternal life.
+
+114. “Nature rejoiceth in many friends and kinsfolk, she boasteth of noble place and noble birth, she smileth on the powerful, flattereth the rich, applauding those who are like herself; but Grace loveth even her enemies, and is not lifted up by the multitude of friends, setteth no store upon high place or high birth, unless there be greater virtue therewith; favoureth the poor man more than the rich, hath more sympathy with the innocent than with the powerful; rejoiceth with the truthful, not with the liar; always exhorteth the good to strive after better gifts of grace, and to become by holiness like unto the Son of God.
+
+15. “Nature quickly complaineth of poverty and of trouble; Grace beareth want with constancy.
+
+16. “Nature looketh upon all things in reference to herself; striveth and argueth for self; but Grace bringeth back all things to God from whom they came at the beginning; ascribeth no good to herself nor arrogantly presumeth; is not contentious, nor preferreth her own opinion to others, but in every sense and understanding submitteth herself to the Eternal wisdom and the Divine judgment.
+
+17. “Nature is eager to know secrets and to hear new things; she loveth to appear abroad, and to make experience of many things through the senses; she desireth to be acknowledged and to do those things which win praise and admiration; but Grace careth not to gather up new or curious things, because all this springeth from the old corruption, whereas there is nothing new or lasting upon earth. So she teacheth to restrain the senses, to shun vain complacency and ostentation, to hide humbly those things which merit praise and real admiration, and from everything and in all knowledge to seek after useful fruit, and the praise and honour of God. She desireth not to receive praise for herself or her own, but longeth that God be blessed in all His gifts, who out of unmingled love bestoweth all things.”
+
+18. This Grace is a supernatural light, and a certain special gift of God, and the proper mark of the elect, and the pledge of eternal salvation; it exalteth a man from earthly things to love those that are heavenly; and it maketh the carnal man spiritual. So far therefore as Nature is utterly pressed down and overcome, so far is greater Grace bestowed and the inner man is daily created anew by fresh visitations, after the image of God.
+
+### Of the corruption of Nature and the efficacy of Divine Grace
+
+O Lord my God, who hast created me after thine own image and similitude, grant me this grace, which Thou hast shown to be so great and so necessary for salvation, that I may conquer my wicked nature, which draweth me to sin and to perdition. For I feel in my flesh the law of sin, contradicting the law of my mind, and bringing me into captivity to the obedience of sensuality in many things; nor can I resist its passions, unless Thy most holy grace assist me, fervently poured into my heart.
+
+2. There is need of Thy grace, yea, and of a great measure thereof, that my nature may be conquered, which hath alway been prone to evil from my youth. For being fallen through the first man Adam, and corrupted through sin, the punishment of this stain descended upon all men; so that Nature itself, which was framed good and right by Thee, is now used to express the vice and infirmity of corrupted Nature; because its motion left unto itself draweth men away to evil and to lower things. For the little power which remaineth is as it were one spark lying hid in the ashes. This is Natural reason itself, encompassed with thick clouds, having yet a discernment of good and evil, a distinction of the true and the false, though it be powerless to fulfil all that it approveth, and possess not yet the full light of truth, nor healthfulness of its affections.
+
+3. Hence it is, O my God, that I delight in Thy law after the inward man,(1) knowing that Thy commandment is holy and just and good; reproving also all evil, and the sin that is to be avoided: yet with the flesh I serve the law of sin, whilst I obey sensuality rather than reason. Hence it is that to will to do good is present with me, but how to perform it I find not.(2) Hence I ofttimes purpose many good things; but because grace is lacking to help mine infirmities, I fall back before a little resistance and fail. Hence it cometh to pass that I recognize the way of perfectness, and see very clearly what things I ought to do; but pressed down by the weight of my own corruption, I rise not to the things which are more perfect.
+
+4. Oh how entirely necessary is Thy grace to me, O Lord, for a good beginning, for progress, and for bringing to perfection. For without it I can do nothing, but I can do all things through Thy grace which strengtheneth me.(3) O truly heavenly grace, without which our own merits are nought, and no gifts of Nature at all are to be esteemed. Arts, riches, beauty, strength, wit, eloquence, they all avail nothing before Thee, O Lord, without Thy grace. For the gifts of Nature belong to good and evil alike; but the proper gift of the elect is grace—that is, love—and they who bear the mark thereof are held worthy of everlasting life. So mighty is this grace, that without it neither the gift of prophecy nor the working of miracles, nor any speculation, howsoever lofty, is of any value at all. But neither faith, nor hope, nor any other virtue is accepted with Thee without love and grace.
+
+5. O most blessed grace that makest the poor in spirit rich in virtues, and renderest him who is rich in many things humble in spirit, come Thou, descend upon me, fill me early with Thy consolation, lest my soul fail through weariness and drought of mind. I beseech thee, O Lord, that I may find grace in Thy sight, for Thy grace is sufficient for me,(4) when I obtain not those things which Nature longeth for. If I be tempted and vexed with many tribulations, I will fear no evil, while Thy grace remaineth with me. This alone is my strength, this bringeth me counsel and help. It is more powerful than all enemies, and wiser than all the wise men in the world.
+
+6. It is the mistress of truth, the teacher of discipline, the light of the heart, the solace of anxiety, the banisher of sorrow, the deliverer from fear, the nurse of devotion, the drawer forth of tears. What am I without it, save a dry tree, a useless branch, worthy to be cast away! “Let Thy grace, therefore, O Lord, always prevent and follow me, and make me continually given to all good works, through Jesus Christ, Thy Son. Amen.”
+
+(1) Romans vii. 12, 22. 25. (2) Romans vii. 18. (3) Philippians iv. 13. (4) 2 Corinthians xii. 9.
+
+### That we ought to deny ourselves, and to imitate Christ by means of the Cross
+
+My Son, so far as thou art able to go out of thyself so far shalt thou be able to enter into Me. As to desire no outward thing worketh internal peace, so the forsaking of self inwardly joineth unto God. I will that thou learn perfect self-denial, living in My will without contradiction or complaint. Follow Me: I am the way, the truth, and the life.(1) Without the way thou canst not go, without the truth thou canst not know, without the life thou canst not live. I am the Way which thou oughtest to follow; the Truth which thou oughtest to believe; the Life which thou oughtest to hope for. I am the Way unchangeable; the Truth infallible; the Life everlasting. I am the Way altogether straight, the Truth supreme, the true Life, the blessed Life, the uncreated Life. If thou remain in My way thou shalt know the Truth, and the truth shall make thee free,(2) and thou shalt lay hold on eternal life.
+
+2. “If thou wilt enter into life, keep the commandments.(3) If thou wilt know the truth, believe in Me. If thou wilt be perfect, sell all that thou hast. If thou wilt be My disciple, deny thyself. If thou wouldst possess the blessed life, despise the life which now is. If thou wilt be exalted in heaven, humble thyself in the world. If thou wilt reign with Me, bear the cross with Me; for only the servants of the cross find the way of blessedness and of true light.”
+
+3. O Lord Jesu, forasmuch as Thy life was straitened and despised by the world, grant unto me to imitate Thee in despising the world, for the servant is not greater than his lord, nor the disciple above his master.(4) Let Thy servant be exercised in Thy life, because there is my salvation and true holiness. Whatsoever I read or hear besides it, it refresheth me not, nor giveth me delight.
+
+4. “My son, because thou knowest these things and hast read them all, blessed shalt thou be if thou doest them. He who hath My commandments and keepeth them, he it is that loveth Me, and I will love him, and will manifest Myself to him,(5) and I will make him to sit down with Me in My Father’s Kingdom.”
+
+5. O Lord Jesu, as Thou hast said and promised, even so let it be unto me, and grant me to prove worthy. I have received the cross at Thy hand; I have carried it, and will carry it even unto death, as Thou hast laid it upon me. Truly the life of a truly devoted servant is a cross, but it leadeth to paradise. I have begun; I may not return back nor leave it.
+
+6. Come, my brothers, let us together go forward. Jesus shall be with us. For Jesus’ sake have we taken up this cross, for Jesus’ sake let us persevere in the cross. He will be our helper, who was our Captain and Forerunner. Behold our King entereth in before us, and He will fight for us. Let us follow bravely, let no man fear terrors; let us be prepared to die bravely in battle, and let us not so stain our honour,(6) as to fly from the cross.
+
+(1) John xiv. 6. (2) John viii. 32. (3) Matthew xix. 17, 21. (4) Matthew x. 24. (5) John xiv. 21. (6) 1 Mac. ix. 10.
+
+### That a man must not be too much cast down when he falleth into some faults
+
+“My Son, patience and humility in adversities are more pleasing to Me than much comfort and devotion in prosperity. Why doth a little thing spoken against thee make thee sad? If it had been more, thou still oughtest not to be moved. But now suffer it to go by; it is not the first, it is not new, and it will not be the last, if thou live long. Thou art brave enough, so long as no adversity meeteth thee. Thou givest good counsel also, and knowest how to strengthen others with thy words; but when tribulation suddenly knocketh at thine own door, thy counsel and strength fail. Consider thy great frailty, which thou dost so often experience in trifling matters nevertheless, for thy soul’s health these things are done when they and such like happen unto thee.
+
+2. “Put them away from thy heart as well as thou canst, and if tribulation hath touched thee, yet let it not cast thee down nor entangle thee long. At the least, bear patiently, if thou canst not joyfully. And although thou be very unwilling to hear it, and feel indignation, yet check thyself, and suffer no unadvised word to come forth from thy lips, whereby the little ones may be offended. Soon the storm which hath been raised shall be stilled, and inward grief shall be sweetened by returning grace. I yet live, saith the Lord, ready to help thee, and to give thee more than wonted consolation if thou put thy trust in Me, and call devoutly upon Me.
+
+3. “Be thou more calm of spirit, and gird thyself for greater endurance. All is not frustrated, though thou find thyself very often afflicted or grievously tempted. Thou art man, not God; thou art flesh, not an angel. How shouldst thou be able to remain alway in the same state of virtue, when an angel in heaven fell, and the first man in paradise? I am He who lifteth up the mourners to deliverance, and those who know their own infirmity I raise up to my own nature.”
+
+4. O Lord, blessed be Thy word, sweeter to my mouth than honey and the honeycomb. What should I do in my so great tribulations and anxieties, unless Thou didst comfort me with Thy holy words? If only I may attain unto the haven of salvation, what matter is it what things or how many I suffer? Give me a good end, give me a happy passage out of this world. Remember me, O my God, and lead me by the right way unto Thy Kingdom. Amen.
+
+### Of deeper matters, and God’s hidden judgments which are not to be inquired into
+
+“My Son, beware thou dispute not of high matters and of the hidden judgments of God; why this man is thus left, and that man is taken into so great favour; why also this man is so greatly afflicted, and that so highly exalted. These things pass all man’s power of judging, neither may any reasoning or disputation have power to search out the divine judgments. When therefore the enemy suggesteth these things to thee, or when any curious people ask such questions, answer with that word of the Prophet, *Just art Thou, O Lord, and true is Thy judgment*,(1) and with this, *The judgments of the Lord are true, and righteous altogether*.(2) My judgments are to be feared, not to be disputed on, because they are incomprehensible to human understanding.
+
+2. “And be not given to inquire or dispute about the merits of the Saints, which is holier than another, or which is the greater in the Kingdom of Heaven. Such questions often beget useless strifes and contentions: they also nourish pride and vain glory, whence envyings and dissensions arise, while one man arrogantly endeavoureth to exalt one Saint and another another. But to wish to know and search out such things bringeth no fruit, but it rather displeaseth the Saints; for I am not *the God of confusion but of peace;*(3) which peace consisteth more in true humility than in self-exaltation.
+
+3. “Some are drawn by zeal of love to greater affection to these Saints or those; but this is human affection rather than divine. I am He Who made all the Saints: I gave them grace, I brought them glory; I know the merits of every one; *I prevented them with the blessings of My goodness*.(4) I foreknew my beloved ones from everlasting, *I chose them out of the world;*(5) they did not choose Me. I called them by My grace, drew them by My mercy, led them on through sundry temptations. I poured mighty consolations upon them, I gave them perseverance, I crowned their patience.
+
+4. “I acknowledge the first and the last; I embrace all with inestimable love. I am to be praised in all My Saints; I am to be blessed above all things, and to be honoured in every one whom I have so gloriously exalted and predestined, without any preceding merits of their own. He therefore that shall despise one of the least of these My people, honoureth not the great; because I made both small and great.(6) And he who speaketh against any of My Saints speaketh against Me, and against all others in the Kingdom of Heaven.”
+
+They are all one through the bond of charity; they think the same thing, will the same thing, and all are united in love one to another.
+
+5. “But yet (which is far better) they love Me above themselves and their own merits. For being caught up above themselves, and drawn beyond self-love, they go all straightforward to the love of Me, and they rest in Me in perfect enjoyment. There is nothing which can turn them away or press them down; for being full of Eternal Truth, they burn with the fire of inextinguishable charity. Therefore let all carnal and natural men hold their peace concerning the state of the Saints, for they know nothing save to love their own personal enjoyment. They take away and add according to their own inclination, not as it pleaseth the Eternal Truth.
+
+6. “In many men this is ignorance, chiefly is it so in those who, being little enlightened, rarely learn to love any one with perfect spiritual love. They are still much drawn by natural affection and human friendship to these or to those: and as they reckon of themselves in lower matters, so also do they frame imaginations of things heavenly. But there is an immeasurable difference between those things which they imperfectly imagine, and these things which enlightened men behold through supernatural revelation.
+
+7. “Take heed, therefore, My son, that thou treat not curiously those things which surpass thy knowledge, but rather make this thy business and give attention to it, namely, that thou seek to be found, even though it be the least, in the Kingdom of God. And even if any one should know who were holier than others, or who were held greatest in the Kingdom of Heaven; what should that knowledge profit him, unless through this knowledge he should humble himself before Me, and should rise up to give greater praise unto My name? He who considereth how great are his own sins, how small his virtues, and how far he is removed from the perfection of the Saints, doeth far more acceptably in the sight of God, than he who disputeth about their greatness or littleness.
+
+8. “They are altogether well content, if men would learn to be content, and to refrain from vain babbling. They glory not of their own merits, seeing they ascribe no good unto themselves, but all unto Me, seeing that I of my infinite charity have given them all things. They are filled with so great love of the Divinity, and with such overflowing joy, that no glory is lacking to them, neither can any felicity be lacking. All the Saints, the higher they are exalted in glory, the humbler are they in themselves, and the nearer and dearer are they unto Me. And so thou hast it written that they cast their crowns before God and fell on their faces before the Lamb, and worshipped Him that liveth for ever and ever.(7)
+
+9. “Many ask who is greatest in the Kingdom of Heaven, who know not whether they shall be worthy to be counted among the least. It is a great thing to be even the least in Heaven, where all are great, because all shall be called, and shall be, the sons of God. *A little one shall become a thousand, but the sinner being an hundred years old shall be accursed*. For when the disciples asked *who should be the greatest in the Kingdom of Heaven*, they received no other answer than this, *Except ye be converted and become as little children, ye shall not enter into the Kingdom of Heaven. But whosoever shall humble himself as this little child, the same shall be greatest in the Kingdom of Heaven*.”(8)
+
+10. Woe unto them who disdain to humble themselves willingly with the little children; for the low gate of the kingdom of Heaven will not suffer them to enter in. Woe also to them who are rich, who have their consolation here;(9) because whilst the poor enter into the kingdom of God, they shall stand lamenting without. Rejoice ye humble, and exult ye poor, for yours is the kingdom of God if only ye walk in the truth.
+
+(1) Psalm cxix. 137. (2) Psalm xix. 9. (3) 1 Corinthians xiv. 33. (4) Psalm xxi. 3. (5) John xv. 19. (6) Wisd. vi. 8. (7) Revelation iv. 10; v. 14. (8) Matthew xviii. 3. (9) Luke vi. 24.
+
+### That all hope and trust is to be fixed in God alone
+
+O Lord, what is my trust which I have in this life, or what is my greatest comfort of all the things which are seen under Heaven? Is it not Thou, O Lord my God, whose mercies are without number? Where hath it been well with me without Thee? Or when could it be evil whilst Thou wert near? I had rather be poor for Thy sake, than rich without Thee. I choose rather to be a pilgrim upon the earth with Thee than without Thee to possess heaven. Where Thou art, there is heaven; and where Thou are not, behold there death and hell. Thou art all my desire, and therefore must I groan and cry and earnestly pray after Thee. In short I can confide fully in none to give me ready help in necessities, save in Thee alone, O my God. Thou art my hope, Thou art my trust, Thou art my Comforter, and most faithful in all things.
+
+2. *All men seek their own;*(1) Thou settest forward only my salvation and my profit, and turnest all things unto my good. Even though Thou dost expose me to divers temptations and adversities, Thou ordainest all this unto my advantage, for Thou are wont to prove Thy beloved ones in a thousand ways. In which proving Thou oughtest no less to be loved and praised, than if Thou wert filling me full of heavenly consolations.
+
+3. In Thee, therefore, O Lord God, I put all my hope and my refuge, on Thee I lay all my tribulation and anguish; because I find all to be weak and unstable whatsoever I behold out of Thee. For many friends shall not profit, nor strong helpers be able to succour, nor prudent counsellors to give a useful answer, nor the books of the learned to console, nor any precious substance to deliver, nor any secret and beautiful place to give shelter, if Thou Thyself do not assist, help, strengthen, comfort, instruct, keep in safety.
+
+4. For all things which seem to belong to the attainment of peace and felicity are nothing when Thou art absent, and bring no felicity at all in reality. Therefore art Thou the end of all good, and the fulness of Life, and the soul of eloquence; and to hope in Thee above all things is the strongest solace of Thy servants. *Mine eyes look unto Thee*,(2) in Thee is my trust, O my God, Father of mercies.
+
+5. Bless and sanctify my soul with heavenly blessing that it may become Thy holy habitation, and the seat of Thy eternal glory; and let nothing be found in the Temple of Thy divinity which may offend the eyes of Thy majesty. According to the greatness of Thy goodness and the multitude of Thy mercies look upon me, and hear the prayer of Thy poor servant, far exiled from Thee in the land of the shadow of death. Protect and preserve the soul of Thy least servant amid so many dangers of corruptible life, and by Thy grace accompanying me, direct it by the way of peace unto its home of perpetual light. Amen.
+
+(1) Philippians ii. 21 (2) Psalm cxli. 8.
+
+## Book IV: Of the Sacrament of the Altar
+
+A devout exhortation to the Holy Communion
+
+The Voice of Christ
+
+Come unto Me, all ye that labour and are heavy laden, and I will refresh you,(1) saith the Lord. The bread that I will give is My flesh which I give for the life of the world.(2) Take, eat: this is My Body, which is given for you; this do in remembrance of Me.(3) He that eateth My flesh and drinketh My blood dwelleth in Me and I in him. The words that I speak unto you, they are spirit, and they are life.(4)
+
+(1) Matthew xi. 28 (2) John vi. 51. (3) Matthew xxvi. 26; Luke xxii. 19. (4) John vi. 51, 63.
+
+### With how great reverence Christ must be received
+
+The Voice of the Disciple
+
+These are Thy words, O Christ, Eternal Truth; though not uttered at one time nor written together in one place of Scripture. Because therefore they are Thy words and true, I must gratefully and faithfully receive them all. They are Thine, and Thou hast uttered them; and they are mine also, because Thou didst speak them for my salvation. Gladly I receive them from Thy mouth, that they may be more deeply implanted in my heart. Words of such great grace arouse me, for they are full of sweetness and love; but my own sins terrify me, and my impure conscience driveth me away from receiving so great mysteries. The sweetness of Thy words encourageth me, but the multitude of my faults presseth me down.
+
+2. Thou commandest that I draw near to Thee with firm confidence, if I would have part with Thee, and that I receive the food of immortality, if I desire to obtain eternal life and glory. Come unto Me, sayest Thou, all that labour and are heavy laden, and I will refresh you. Oh, sweet and lovely word in the ear of the sinner, that Thou, O Lord my God, dost invite the poor and needy to the Communion of Thy most holy body and blood. But who am I, O Lord, that I should presume to approach unto Thee? Behold the heaven of heavens cannot contain Thee, and yet Thou sayest, Come ye all unto Me.
+
+3. What meaneth this most gracious condescension, this most lovely invitation? How shall I dare to come, who know no good thing of myself, whence I might be able to presume? How shall I bring Thee within my house, seeing that I so often have sinned in Thy most loving sight? Angels and Archangels stand in awe of Thee, the Saints and just men fear Thee, and Thou sayest, Come unto Me! Except Thou, Lord, hadst said it, who should believe it true? And except Thou hadst commanded, who should attempt to draw near?
+
+4. Behold, Noah, that just man, laboured for a hundred years in building the ark, that he might be saved with the few; and I, how shall I be able in one hour to prepare myself to receive the Builder of the world with reverence? Moses, Thy servant, Thy great and especial friend, made an ark of incorruptible wood, which also he covered with purest gold, that he might lay up in it the tables of the law, and I, a corruptible creature, shall I dare thus easily to receive Thee, the Maker of the Law and the Giver of life? Solomon, the wisest of the kings of Israel, was seven years building his magnificent temple to the praise of Thy Name, and for eight days celebrated the feast of its dedication, offered a thousand peace offerings, and solemnly brought up the Ark of the Covenant to the place prepared for it, with the sound of trumpets and great joy, and I, unhappy and poorest of mankind, how shall I bring Thee into my house, who scarce know how to spend half an hour in devotion? And oh that it were even one half hour worthily spent!
+
+5. O my God, how earnestly these holy men strove to please Thee! And alas! how little and trifling is that which I do! how short a time do I spend, when I am disposing myself to Communion. Rarely altogether collected, most rarely cleansed from all distraction. And surely in the saving presence of Thy Godhead no unmeet thought ought to intrude, nor should any creature take possession of me, because it is not an Angel but the Lord of the Angels, that I am about to receive as my Guest.
+
+6. Yet there is a vast difference between the Ark of the Covenant with its relics, and Thy most pure Body with its ineffable virtues, between those sacrifices of the law, which were figures of things to come, and the true sacrifice of Thy Body, the completion of all the ancient sacrifices.
+
+7. Wherefore then do I not yearn more ardently after Thy adorable presence? Why do I not prepare myself with greater solicitude to receive Thy holy things, when those holy Patriarchs and Prophets of old, kings also and princes, with the whole people, manifested so great affection of devotion towards Thy Divine Service?
+
+8. The most devout king David danced with all his might before the Ark of God, calling to mind the benefits granted to his forefathers in days past; he fashioned musical instruments of various sorts, put forth Psalms, and appointed them to be sung with joy, played also himself ofttimes on the harp, being inspired with the grace of the Holy Ghost; he taught the people of Israel to praise God with the whole heart, and with unity of voice to bless and praise Him every day. If so great devotion was then exercised, and celebration of divine praise was carried on before the Ark of the Testimony, how great reverence and devotion ought now to be shown by me and all Christian people at the ministering of the Sacrament, at receiving the most precious Body and Blood of Christ.
+
+9. Many run to diverse places to visit the memorials of departed Saints, and rejoice to hear of their deeds and to look upon the beautiful buildings of their shrines. And behold, Thou art present here with me, O my God, Saint of Saints, Creator of men and Lord of the Angels. Often in looking at those memorials men are moved by curiosity and novelty, and very little fruit of amendment is borne away, especially when there is so much careless trifling and so little true contrition. But here in the Sacrament of the Altar, Thou art present altogether, My God, the Man Christ Jesus; where also abundant fruit of eternal life is given to every one soever that receiveth Thee worthily and devoutly. But to this no levity draweth, no curiosity, nor sensuality, only steadfast faith, devout hope, and sincere charity.
+
+10. O God, invisible Creator of the world, how wondrously dost Thou work with us, how sweetly and graciously Thou dealest with Thine elect, to whom Thou offerest Thyself to be received in this Sacrament! For this surpasseth all understanding, this specially draweth the hearts of the devout and enkindleth their affections. For even thy true faithful ones themselves, who order their whole life to amendment, oftentimes gain from this most excellent Sacrament great grace of devotion and love of virtue.
+
+11. Oh admirable and hidden grace of the Sacrament, which only Christ’s faithful ones know, but the faithless and those who serve sin cannot experience! In this Sacrament is conferred spiritual grace, and lost virtue is regained in the soul, and the beauty which was disfigured by sin returneth again. So great sometimes is this grace that out of the fulness of devotion given, not only the mind but also the weak body feeleth that more strength is supplied unto it.
+
+12. But greatly must we mourn and lament over our lukewarmness and negligence, that we are not drawn by greater affection to become partakers of Christ, in whom all the hope and the merit of those that are to be saved consist. For He Himself is our sanctification and redemption.(1) He is the consolation of pilgrims and the eternal fruition of the Saints. Therefore it is grievously to be lamented that many so little consider this health-giving mystery, which maketh heaven glad and preserveth the whole world. Alas for the blindness and hardness of man’s heart, that he considereth not more this unspeakable gift, and even slippeth down through the daily use, into carelessness.
+
+13. For if this most holy Sacrament were celebrated in one place only, and were consecrated only by one priest in the whole world, with what great desire thinkest thou, would men be affected towards that place and towards such a priest of God, that they might behold the divine mysteries celebrated? But now are many men made priests and in many places the Sacrament is celebrated, that the grace and love of God towards men might the more appear, the more widely the Holy Communion is spread abroad over all the world. Thanks be unto Thee, O good Jesus, Eternal Shepherd, who hast vouchsafed to refresh us, poor and exiled ones, with Thy precious Body and Blood, and to invite us to partake these holy mysteries by the invitation from Thine own mouth, saying, Come unto Me, ye who labour and are heavy laden, and I will refresh you.
+
+(1) 1 Corinthians i. 30.
+
+### That the greatness and charity of God is shown to men in the Sacrament
+
+The Voice of the Disciple
+
+Trusting in Thy goodness and great mercy, O Lord, I draw near, the sick to the Healer, the hungering and thirsting to the Fountain of life, the poverty-stricken to the King of heaven, the servant to the Lord, the creature to the Creator, the desolate to my own gentle Comforter. But whence is this unto me, that Thou comest unto me? Who am I that Thou shouldest offer me Thyself? How doth a sinner dare to appear before Thee? And how dost thou vouchsafe to come to the sinner? Thou knowest Thy servant, and Thou knowest that he hath in him no good thing for which Thou shouldest grant him this grace. I confess therefore mine own vileness, I acknowledge Thy goodness, I praise Thy tenderness, and I give Thee thanks for Thine exceeding great love. For Thou doest this for Thine own sake, not for my merits, that Thy goodness may be more manifest unto me, Thy charity more abundantly poured out upon me, and Thy humility more perfectly commended unto me. Therefore because this pleaseth Thee and Thou hast commanded that thus it shall be, Thy condescension pleaseth me also; and oh that mine iniquity hinder it not.
+
+2. O most sweet and tender Jesus, what reverence, what giving of thanks is due to Thee with perpetual praise for the receiving of Thy sacred Body and Blood, the dignity whereof no man is found able to express. But what shall I think upon in this Communion in approaching my Lord, whom I am not able worthily to honour, and nevertheless whom I long devoutly to receive? What shall be better and more healthful meditation for me, than utter humiliation of myself before Thee, and exaltation of Thine infinite goodness towards me? I praise Thee, O my God, and exalt Thee for evermore. I despise myself, and cast myself down before Thee into the deep of my vileness.
+
+3. Behold, Thou art the Saint of saints and I the refuse of sinners; behold, Thou stoopest unto me who am not worthy to look upon Thee; behold, Thou comest unto me, Thou willest to be with me, Thou invitest me to Thy feast. Thou willest to give me the heavenly food and bread of angels to eat; none other, in truth, than Thyself, The living bread, which didst descend from heaven; and givest life to the world.(1)
+
+4. Behold, whence this love proceedeth! what manner of condescension shineth forth herein. What great giving of thanks and praise is due unto Thee for these benefits! Oh how salutary and profitable Thy purpose when Thou didst ordain this! How sweet and pleasant the feast when Thou didst give Thyself for food! Oh how admirable is thy working, O Lord, how mighty Thy power, how unspeakable Thy truth! For Thou didst speak the word, and all things were made; and this is done which Thou hast commanded.
+
+5. A thing wonderful, and worthy of faith, and surpassing all the understanding of man, that Thou, O Lord my God, very God and very man, givest Thyself altogether to us in a little bread and wine, and art so our inexhaustible food. Thou, O Lord of all, who hast need of nothing, hast willed to dwell in us through Thy Sacrament. Preserve my heart and my body undefiled, that with a joyful and pure conscience I may be able very often to [celebrate, and](2) receive to my perpetual health. Thy mysteries, which Thou hast consecrated and instituted both for Thine own honour, and for a perpetual memorial.
+
+6. Rejoice, O my soul, and give thanks unto God for so great a gift and precious consolation, left unto thee in this vale of tears. For so oft as thou callest this mystery to mind and receivest the body of Christ, so often dost thou celebrate the work of thy redemption, and art made partaker of all the merits of Christ. For the charity of Christ never groweth less, and the greatness of His propitiation is never exhausted. Therefore, by continual renewal of thy spirit, thou oughtest to dispose thyself hereunto and to weigh the great mystery of salvation with attentive consideration. So great, new, and joyful ought it to appear to thee when thou comest to communion, as if on this self-same day Christ for the first time were descending into the Virgin’s womb and becoming man, or hanging on the cross, suffering and dying for the salvation of mankind.
+
+(1) John vi. 51. (2) The words in brackets are only suitable for a priest.
+
+### That it is profitable to Communicate often
+
+The Voice of the Disciple
+
+Behold I come unto Thee, O Lord, that I may be blessed through Thy gift, and be made joyful in Thy holy feast which Thou, O God, of Thy goodness hast prepared for the poor.(1) Behold in Thee is all that I can and ought to desire, Thou art my salvation and redemption, my hope and strength, my honour and glory. Therefore rejoice the soul of Thy servant this day, for unto Thee, O Lord Jesus, do I lift up my soul.(2) I long now to receive Thee devoutly and reverently, I desire to bring Thee into my house, so that with Zacchaeus I may be counted worthy to be blessed by Thee and numbered among the children of Abraham. My soul hath an earnest desire for Thy Body, my heart longeth to be united with Thee.
+
+2. Give me Thyself and it sufficeth, for besides Thee no consolation availeth. Without Thee I cannot be, and without Thy visitation I have no power to live. And therefore I must needs draw nigh unto Thee often, and receive Thee for the healing of my soul, lest haply I faint by the way if I be deprived of heavenly food. For so Thou, most merciful Jesus, preaching to the people and healing many sick, didst once say, I will not send them away fasting to their own homes, lest they faint by the way.(3) Deal therefore now to me in like manner, for Thou left Thyself for the consolation of the faithful in the Sacrament. For Thou art the sweet refreshment of the soul, and he who shall eat Thee worthily shall be partaker and inheritor of the eternal glory. Necessary indeed it is for me, who so often slide backwards and sin, so quickly wax cold and faint, to renew, cleanse, enkindle myself by frequent prayers and penitences and receiving of Thy sacred Body and Blood lest haply by too long abstinence, I fall short of my holy resolutions.
+
+3. For the imaginations of man’s heart are evil from his youth,(4) and except divine medicine succour him, man slideth away continually unto the worse. The Holy Communion therefore draweth us back from evil, and strengtheneth us for good. For if I now be so negligent and lukewarm when I communicate [or celebrate], how should it be with me, if I receive not this medicine, and sought not so great a help? [And though I am not every day fit nor well prepared to celebrate, I will nevertheless give diligent heed at due season, to receive the divine mysteries, and to become partaker of so great grace]. For this is the one principal consolation of a faithful soul, so long as it is absent from Thee in mortal body, that being continually mindful of its God, it receiveth its Beloved with devout spirit.
+
+4. Oh wonderful condescension of Thy pity surrounding us, that Thou, O Lord God, Creator and Quickener of all spirits, deignest to come unto a soul so poor and weak, and to appease its hunger with Thy whole Deity and Humanity. Oh happy mind and blessed soul, to which is granted devoutly to receive Thee its Lord God, and in so receiving Thee to be filled with all spiritual joy! Oh how great a Lord doth it entertain, how beloved a Guest doth it bring in, how delightful a Companion doth it receive, how faithful a Friend doth it welcome, how beautiful and exalted a Spouse, above every other Beloved, doth it embrace, One to be loved above all things that can be desired! Oh my most sweet Beloved, let heaven and earth and all the glory of them, be silent in Thy presence; seeing whatsoever praise and beauty they have it is of Thy gracious bounty; and they shall never reach unto the loveliness of Thy Name, Whose Wisdom is infinite.(5)
+
+(1) Psalm lxviii. 10. (2) Psalm lxxxvi. 4. (3) Matthew xv. 32. (4) Genesis viii. 21. (5) Psalm cxlvii. 5.
+
+### That many good gifts are bestowed upon those who Communicate devoutly
+
+The Voice of the Disciple
+
+O Lord my God, prevent Thou Thy servant with the blessings of Thy sweetness, that I may be enabled to draw near worthily and devoutly to Thy glorious Sacrament. Awaken my heart towards Thee, and deliver me from heavy slumber. Visit me with Thy salvation that I may in spirit taste Thy sweetness, which plentifully lieth hid in this Sacrament as in a fountain. Lighten also mine eyes to behold this so great mystery, and strengthen me that I may believe it with undoubting faith. For it is Thy word, not human power; it is Thy holy institution, not the invention of man. For no man is found fit in himself to receive and to understand these things, which transcend even the wisdom of the Angels. What portion then shall I, unworthy sinner, who am but dust and ashes, be able to search into and comprehend of so deep a Sacrament?
+
+2. O Lord, in the simplicity of my heart, in good and firm faith, and according to Thy will, I draw nigh unto Thee with hope and reverence, and truly believe that Thou art here present in the Sacrament, God and man. Thou willest therefore that I receive Thee and unite myself to Thee in charity. Wherefore I beseech Thy mercy, and implore Thee to give me Thy special grace, to this end, that I may be wholly dissolved and overflow with love towards Thee, and no more suffer any other consolation to enter into me. For this most high and most glorious Sacrament is the health of the soul and the body, the medicine of all spiritual sickness, whereby I am healed of my sins, my passions are bridled, temptations are conquered or weakened, more grace is poured into me, virtue begun is increased, faith is made firm, hope is strengthened, and charity is enkindled and enlarged.
+
+3. For in this Sacrament Thou hast bestowed many good things and still bestowest them continually on Thine elect who communicate devoutly, O my God, Lifter up of my soul, Repairer of human infirmity, and Giver of all inward consolation. For Thou pourest into them much consolation against all sorts of tribulation, and out of the deep of their own misery Thou liftest them up to the hope of Thy protection, and with ever new grace, dost inwardly refresh and enlighten them; so that they who felt themselves to be anxious and without affection before Communion, afterwards being refreshed with heavenly food and drink, find themselves changed for the better. And even in such wise Thou dealest severally with Thine elect, that they may truly acknowledge and clearly make proof that they have nothing whatsoever of their own, and what goodness and grace come to them from Thee; because being in themselves cold, hard of heart, indevout, through Thee they become fervent, zealous, and devout. For who is there coming humbly to the fountain of sweetness, carrieth not away thence at the least some little of that sweetness? Or who standing by a large fire, feeleth not from thence a little of its heat? And Thou art ever a full and overflowing fountain, a fire continually burning, and never going out.
+
+4. Wherefore if it is not suffered to me to draw from the fulness of the fountain, nor to drink unto satisfying, yet will I set my lips to the mouth of the heavenly conduit, that at least I may receive a small drop to quench my thirst, that I dry not up within my heart. And if I am not yet able to be altogether heavenly and so enkindled as the Cherubim and Seraphim, yet will I endeavour to give myself unto devotion, and to prepare my heart, that I may gain if it be but a little flame of the divine fire, through the humble receiving of the life-giving Sacrament. But whatsoever is wanting unto me, O merciful Jesus, Most Holy Saviour, do Thou of Thy kindness and grace supply, who hast vouchsafed to call all unto Thee, saying, Come unto me, all ye that are weary and heavy laden, and I will refresh you.
+
+5. I indeed labour in the sweat of my face, I am tormented with sorrow of heart, I am burdened with sins, I am disquieted with temptations, I am entangled and oppressed with many passions, and there is none to help me, there is none to deliver and ease me, but Thou, O Lord God, my Saviour, to whom I commit myself and all things that are mine, that Thou mayest preserve me and lead me unto life eternal.
+
+Receive me unto the praise and glory of Thy name, who hast prepared Thy Body and Blood to be my meat and drink. Grant, O Lord God my Saviour, that with coming often to Thy mysteries the zeal of my devotion may increase.
+
+### Of the dignity of this Sacrament, and of the office of the priest
+
+The Voice of the Beloved
+
+If thou hadst angelic purity and the holiness of holy John the Baptist, thou wouldest not be worthy to receive or to minister this Sacrament. For this is not deserved by merit of man that a man should consecrate and minister the Sacrament of Christ, and take for food the bread of Angels. Vast is the mystery, and great is the dignity of the priests, to whom is given what is not granted to Angels. For priests only, rightly ordained in the church, have the power of consecrating and celebrating the Body of Christ. The priest indeed is the minister of God, using the Word of God by God’s command and institution; nevertheless God is there the principal Author and invisible Worker, that to whom all that He willeth is subject, and all He commandeth is obedient.
+
+2. Therefore thou must believe God Almighty in this most excellent Sacrament, more than thine own sense or any visible sign at all. And therefore with fear and reverence is this work to be approached. Take heed therefore and see what it is of which the ministry is committed to thee by the laying on of the Bishop’s hand. Behold thou art made a priest and art consecrated to celebrate. See now that thou do it before God faithfully and devoutly at due time, and shew thyself without blame. Thou hast not lightened thy burden, but art now bound with a straiter bond of discipline, and art pledged to a higher degree of holiness. A priest ought to be adorned with all virtues and to afford to others an example of good life. His conversation must not be with the popular and common ways of men, but with Angels in Heaven or with perfect men on earth.
+
+3. A priest clad in holy garments taketh Christ’s place that he may pray unto God with all supplication and humility for himself and for the whole people. He must always remember the Passion of Christ. He must diligently look upon Christ’s footsteps and fervently endeavour himself to follow them. He must bear meekly for God whatsoever ills are brought upon him by others. He must mourn for his own sins, and for the sins committed by others, and may not grow careless of prayer and holy oblation, until he prevail to obtain grace and mercy. When the priest celebrateth, he honoureth God, giveth joy to the Angels, buildeth up the Church, helpeth the living, hath communion with the departed, and maketh himself a partaker of all good things.
+
+### An inquiry concerning preparation for Communion
+
+The Voice of the Disciple
+
+When I consider Thy dignity, O Lord, and mine own vileness, I tremble very exceedingly, and am confounded within myself. For if I approach not, I fly from life; and if I intrude myself unworthily, I run into Thy displeasure. What then shall I do, O my God, Thou helper and Counsellor in necessities.
+
+2. Teach Thou me the right way; propound unto me some short exercise befitting Holy Communion. For it is profitable to know how I ought to prepare my heart devoutly and reverently for Thee, to the intent that I may receive Thy Sacrament to my soul’s health [or it may be also for the celebrating this so great and divine mystery].
+
+### Of the examination of conscience, and purpose of amendment
+
+The Voice of the Beloved
+
+Above all things the priest of God must draw nigh, with all humility of heart and supplicating reverence, with full faith and pious desire for the honour of God, to celebrate, minister, and receive this Sacrament. Diligently examine thy conscience and with all thy might with true contrition and humble confession cleanse and purify it, so that thou mayest feel no burden, nor know anything which bringeth thee remorse and impedeth thy free approach. Have displeasure against all thy sins in general, and specially sorrow and mourn because of thy daily transgressions. And if thou have time, confess unto God in the secret of thine heart, all miseries of thine own passion.
+
+2. Lament grievously and be sorry, because thou art still so carnal and worldly, so unmortified from thy passions, so full of the motion of concupiscENCE, so unguarded in thine outward senses, so often entangled in many vain fancies, so much inclined to outward things, so negligent of internal; so ready to laughter and dissoluteness, so unready to weeping and contrition; so prone to ease and indulgence of the flesh, so dull to zeal and fervour; so curious to hear novelties and behold beauties, so loth to embrace things humble and despised; so desirous to have many things, so grudging in giving, so close in keeping; so inconsiderate in speaking, so reluctant to keep silence; so disorderly in manners, so inconsiderate in actions; so eager after food, so deaf towards the Word of God; so eager after rest, so slow to labour; so watchful after tales, so sleepy towards holy watchings; so eager for the end of them, so wandering in attention to them; so negligent in observing the hours of prayer, so lukewarm in celebrating, so unfruitful in communicating; so quickly distracted, so seldom quite collected with thyself; so quickly moved to anger, so ready for displeasure at others; so prone to judging, so severe at reproving; so joyful in prosperity, so weak in adversity; so often making many good resolutions and bringing them to so little effect.
+
+3. When thou hast confessed and bewailed these and thy other shortcomings, with sorrow and sore displeasure at thine own infirmity, make then a firm resolution of continual amendment of life and of progress in all that is good. Then moreover with full resignation and entire will offer thyself to the honour of My name on the altar of thine heart as a perpetual whole burnt-offering, even by faithfully presenting thy body and soul unto Me, to the end that thou mayest so be accounted worthy to draw near to offer this sacrifice of praise and thanksgiving to God, and to receive the Sacrament of My Body and Blood to thy soul’s health. For there is no oblation worthier, no satisfaction greater for the destroying of sin, than that a man offer himself to God purely and entirely with the oblation of the Body and Blood of Christ in the Holy Communion. If a man shall have done what in him lieth, and shall repent him truly, then how often soever he shall draw nigh unto Me for pardon and grace, As I live, saith the Lord, I have no pleasure in the death of a sinner, but rather that he should be converted, and live. All his transgressions that he hath committed, they shall not be mentioned unto him.(1)
+
+(1) Ezekiel xviii. 22, 23.
+
+### Of the oblation of Christ upon the cross, and of resignation of self
+
+The Voice of the Beloved
+
+As I of my own will offered myself unto God the Father on the Cross for thy sins with outstretched hands and naked body, so that nothing remained in Me that did not become altogether a sacrifice for the Divine propitiation; so also oughtest thou every day to offer thyself willingly unto Me for a pure and holy oblation with all thy strength and affections, even to the utmost powers of thine heart. What more do I require of thee than thou study to resign thyself altogether unto Me? Whatsoever thou givest besides thyself, I nothing care for, for I ask not thy gift, but thee.
+
+2. As it would not be sufficient for thee if thou hadst all things except Me, even so whatsoever thou shalt give Me, if thou give Me not thyself, it cannot please Me. Offer thyself to Me, and give thyself altogether for God, so shall thy offering be accepted. Behold I offered Myself altogether to the Father for thee, I give also My whole body and blood for food, that thou mightest remain altogether Mine and I thine. But if thou stand in thyself, and offer not thyself freely to My will, thy offering is not perfect, neither shall the union betwixt us be complete. Therefore ought the freewill offering of thyself into the hands of God to go before all thy works, if thou wilt attain liberty and grace. For this is the cause that so few are inwardly enlightened and made free, that they know not how to deny themselves entirely. My word standeth sure, Except a man forsake all, he cannot be My disciple.(1) Thou therefore, if thou wilt be My disciple, offer thyself to Me with all thy affections.
+
+(1) Luke xiv. 33.
+
+### That we ought to offer ourselves and all that is ours to God, and to pray for all
+
+The Voice of the Disciple
+
+Lord, all that is in the heaven and in the earth is Thine.(1) I desire to offer myself up unto thee as a freewill offering, and to continue Thine for ever. Lord, in the uprightness of mine heart I willingly offer(2) myself to Thee to-day to be Thy servant for ever, in humble submission and for a sacrifice of perpetual praise. Receive me with this holy Communion of Thy precious Body, which I celebrate before Thee this day in the presence of the Angels invisibly surrounding, that it may be for the salvation of me and of all Thy people.
+
+2. Lord, I lay before Thee at this celebration all my sins and offences which I have committed before Thee and Thy holy Angels, from the day whereon I was first able to sin even unto this hour; that Thou mayest consume and burn them every one with the fire of Thy charity, and mayest do away all the stains of my sins, and cleanse my conscience from all offence, and restore me to Thy favour which by sinning I have lost, fully forgiving me all, and mercifully admitting me to the kiss of peace.
+
+3. What can I do concerning my sins, save humbly to confess and lament them and unceasingly to beseech Thy propitiation? I beseech Thee, be propitious unto me and hear me, when I stand before Thee, O my God. All my sins displease me grievously: I will never more commit them; but I grieve for them and will grieve so long as I live, steadfastly purposing to repent me truly, and to make restitution as far as I can. Forgive, O God, forgive me my sins for Thy holy Name’s sake; save my soul, which Thou hast redeemed with Thy precious blood. Behold I commit myself to Thy mercy, I resign myself to Thy hands. Deal with me according to Thy loving-kindness, not according to my wickedness and iniquity.
+
+4. I offer also unto Thee all my goodness, though it is exceedingly little and imperfect, that Thou mayest mend and sanctify it, that Thou mayest make it well pleasing and acceptable in Thy sight, and ever draw it on towards perfection; and furthermore bring me safely, slothful and useless poor creature that I am, to a happy and blessed end.
+
+5. Moreover I offer unto Thee all pious desires of the devout, necessities of parents, friends, brothers, sisters, and all who are dear to me, and of those who have done good to me, or to others for Thy love; and those who have desired and besought my prayers for themselves and all belonging to them; that all may feel themselves assisted by Thy grace, enriched by consolation, protected from dangers, freed from pains; and that being delivered from all evils they may joyfully give Thee exceeding thanks.
+
+6. I offer also to Thee prayers and Sacramental intercessions for those specially who have injured me in aught, made me sad, or spoken evil concerning me, or have caused me any loss or displeasure; for all those also whom I have at any time made sad, disturbed, burdened, and scandalized, by words or deeds, knowingly or ignorantly; that to all of us alike, Thou mayest equally pardon our sins and mutual offences. Take away, O Lord, from our hearts all suspicion, indignation, anger, and contention, and whatsoever is able to injure charity and diminish brotherly love. Have mercy, have mercy, Lord, on those who entreat Thy mercy; give grace to the needy; and make us such that we may be worthy to enjoy Thy grace, and go forward to the life eternal. Amen.
+
+(1) 1 Chronicles xxix. 11. (2) 1 Chronicles xxix. 17.
+
+### That Holy Communion is not lightly to be omitted
+
+The Voice of the Beloved
+
+Thou must frequently betake thee to the Fountain of grace and divine mercy, to the Fountain of goodness and all purity; to the end that thou mayest obtain the healing of thy passions and vices, and mayest be made stronger and more watchful against all temptations and wiles of the devil. The enemy, knowing what profit and exceeding strong remedy lieth in the Holy Communion, striveth by all means and occasions to draw back and hinder the faithful and devout, so far as he can.
+
+2. For when some set about to prepare themselves for Holy Communion, they suffer from the more evil suggestions of Satan. The very evil spirit himself (as is written in Job), cometh among the sons of God that he may trouble them by his accustomed evil dealing, or make them over timid and perplexed; to the intent that he may diminish their affections, or take away their faith by his attacks, if haply he may prevail upon them to give up Holy Communion altogether, or to come thereto with lukewarm hearts. But his wiles and delusions must not be heeded, howsoever wicked and terrible they be; but all his delusion must be cast back upon his own head. The wretch must be despised and laughed to scorn: neither must Holy Communion be omitted because of his insults and the inward troubles which he stirreth up.
+
+3. Often also too much carefulness or some anxiety or other touching confession hindereth from obtaining devotion. Do thou according to the counsel of wise men, and lay aside anxiety and scruple, because it hindereth the grace of God and destroyeth devotion of mind. Because of some little vexation or trouble do not thou neglect Holy Communion, but rather hasten to confess it, and forgive freely all offences committed against thee. And if thou hast offended any man, humbly beg for pardon, and God shall freely forgive thee.
+
+4. What profiteth it to put off for long time the confession of thy sins, or to defer Holy Communion? Cleanse thyself forthwith, spit out the poison with all speed, hasten to take the remedy, and thou shalt feel thyself better than if thou didst long defer it. If to-day thou defer it on one account, to-morrow perchance some greater obstacle will come, and so thou mayest be long time hindered from Communion and become more unfit. As soon as thou canst, shake thyself from thy present heaviness and sloth, for it profiteth nothing to be long anxious, to go long on thy way with heaviness of heart, and because of daily little obstacles to sever thyself from divine things: nay it is exceeding hurtful to defer thy Communion long, for this commonly bringeth on great torpor. Alas! there are some, lukewarm and undisciplined, who willingly find excuses for delaying repentance, and desire to defer Holy Communion, lest they should be bound to keep stricter watch upon themselves.
+
+5. Alas! how little charity, what flagging devotion, have they who so lightly put off Holy Communion. How happy is he, how acceptable to God, who so liveth, and in such purity of conscience keepeth himself, that any day he could be ready and well inclined to communicate, if it were in his power, and might be done without the notice of others. If a man sometimes abstaineth for the sake of humility or some sound cause, he is to be commended for his reverence. But if drowsiness have taken hold of him, he ought to rouse himself and to do what in him lieth; and the Lord will help his desire for the good will which he hath, which God specially approveth.
+
+6. But when he is hindered by sufficient cause, yet will he ever have a good will and pious intention to communicate; and so he shall not be lacking in the fruit of the Sacrament. For any devout man is able every day and every hour to draw near to spiritual communion with Christ to his soul’s health and without hindrance. Nevertheless on certain days and at the appointed time he ought to receive the Body and Blood of his Redeemer with affectionate reverence, and rather to seek after the praise and honour of God, than his own comfort. For so often doth he communicate mystically, and is invisibly refreshed, as he devoutly calleth to mind the mystery of Christ’s incarnation and His Passion, and is inflamed with the love of Him.
+
+7. He who only prepareth himself when a festival is at hand or custom compelleth, will too often be unprepared. Blessed is he who offereth himself to God for a whole burnt-offering, so often as he celebrateth or communicateth! Be not too slow nor too hurried in thy celebrating, but preserve the good received custom of those with whom thou livest. Thou oughtest not to produce weariness and annoyance in others, but to observe the received custom, according to the institution of the elders; and to minister to the profit of others rather than to thine own devotion or feeling.
+
+### That the Body and Blood of Christ and the Holy Scriptures are most necessary to a faithful soul
+
+The Voice of the Disciple
+
+O most sweet Lord Jesus, how great is the blessedness of the devout soul that feedeth with Thee in Thy banquet, where there is set before it no other food than Thyself its only Beloved, more to be desired than all the desires of the heart? And to me it would verily be sweet to pour forth my tears in Thy presence from the very bottom of my heart, and with the pious Magdalene to water Thy feet with my tears. But where is this devotion? Where the abundant flowing of holy tears? Surely in Thy presence and in the presence of the holy Angels my whole heart ought to burn and to weep for joy; for I have Thee in the Sacrament verily present, although hidden under other form.
+
+2. For in Thine own Divine brightness, mine eyes could not endure to behold Thee, neither could the whole world stand before the splendour of the glory of Thy Majesty. In this therefore Thou hast consideration unto my weakness, that Thou hidest Thyself under the Sacrament. I verily possess and adore Him whom the Angels adore in heaven; I yet for a while by faith, but they by sight and without a veil. It is good for me to be content with the light of true faith, and to walk therein until the day of eternal brightness dawn, and the shadows of figures flee away.(1) But when that which is perfect is come, the using of Sacraments shall cease, because the Blessed in heavenly glory have no need of Sacramental remedy. For they rejoice unceasingly in the presence of God, beholding His glory face to face, and *being changed from glory to glory*(2) of the infinite God, they taste the Word of God made flesh, as He was in the beginning and remaineth for everlasting.
+
+3. When I think on these wondrous things, even spiritual comfort whatsoever it be becometh sore weariness to me; for so long as I see not openly my Lord in His own Glory, I count for nothing all which I behold and hear in the world. Thou, O God, art my witness that nothing is able to comfort me, no creature is able to give me rest, save Thou, O my God, whom I desire to contemplate everlastingly. But this is not possible, so long as I remain in this mortal state. Therefore ought I to set myself unto great patience, and submit myself unto Thee in every desire. For even Thy Saints, O Lord, who now rejoice with Thee in the kingdom of heaven, waited for the coming of Thy glory whilst they lived here, in faith and great glory. What they believed, that believe I; what they hoped, I hope; whither they have attained to, thither through Thy grace hope I to come. I will walk meanwhile in faith, strengthened by the examples of the Saints. I will have also holy books for comfort and for a mirror of life, and above them all Thy most holy Body and Blood shall be for me a special remedy and refuge.
+
+4. For two things do I feel to be exceedingly necessary to me in this life, without which this miserable life would be intolerable to me; being detained in the prison of this body, I confess that I need two things, even food and light. Thou hast therefore given to me who am so weak, Thy sacred Body and Blood, for the refreshing of my soul and body, and hast set *Thy Word for a lantern to my feet*.(3) Without these two I could not properly live; for the Word of God is the light of my soul, and Thy Sacrament the bread of life. These may also be called the two tables, placed on this side and on that, in the treasury of Thy holy Church. One table is that of the Sacred Altar, bearing the holy bread, that is the precious Body and Blood of Christ; the other is the table of the Divine Law, containing holy doctrine, teaching the true faith, and leading steadfastly onwards even to that which is within the veil, where the Holy of Holies is.
+
+5. Thanks be unto Thee, O Lord Jesus, Light of Light everlasting, for that table of holy doctrine which Thou has furnished unto us by Thy servants the Prophets and Apostles and other teachers. Thanks be to Thee, O Creator and Redeemer of men, who to make known Thy love to the whole world has prepared a great supper, in which Thou hast set forth for good not the typical lamb, but Thine own most Holy Body and Blood; making all Thy faithful ones joyful with this holy banquet and giving them to drink the cup of salvation, wherein are all the delights of Paradise, and the holy Angels do feed with us, and with yet happier sweetness.
+
+6. Oh how great and honourable is the office of the priests, to whom it is given to consecrate the Sacrament of the Lord of majesty with holy words, to bless it with the lips, to hold it in their hands, to receive it with their own mouth, and to administer it to others! Oh how clean ought those hands to be, how pure the mouth, how holy the body, how unspotted the heart of the priest, to whom so often the Author of purity entereth in! From the mouth of the priest ought naught to proceed but what is holy, what is honest and profitable, because he so often receiveth the Sacrament of Christ.
+
+7. His eyes ought to be single and pure, seeing they are wont to look upon the Body of Christ; the hands should be pure and lifted towards heaven, which are wont to hold within them the Creator of heaven and earth. To priests is it specially said in the Law, *Be ye holy, for I the Lord your God am holy.*(4)
+
+8. Assist us with Thy grace, O Almighty God, that we who have taken upon us the priestly office, may be able to converse worthily and devoutly with Thee in all purity and good conscience. And if we are not able to have our conversation in such innocency of life as we ought, yet grant unto us worthily to lament the sins which we have committed, and in the spirit of humility and full purpose of a good will, to serve Thee more earnestly for the future.
+
+(1) Cant. ii. 17. (2) 2 Corinthians iii. 18. (3) Psalm cxix. 105. (4) Leviticus xix. 2.
+
+### That he who is about to Communicate with Christ ought to prepare himself with great diligence
+
+The Voice of the Beloved
+
+I am the Lover of purity, and Giver of sanctity. I seek a pure heart, and there is the place of My rest. Prepare for Me the larger upper room furnished, and I will keep the Passover at thy house with my disciples.(1) If thou wilt that I come unto thee and abide with thee, purge out the old leaven,(2) and cleanse the habitation of thy heart. Shut out the whole world, and all the throng of sins; sit as a sparrow alone upon the house-top,(3) and think upon thy transgressions with bitterness of thy soul. For everyone that loveth prepareth the best and fairest place for his beloved, because hereby the affection of him that entertaineth his beloved is known.
+
+2. Yet know thou that thou canst not make sufficient preparation out of the merit of any action of thine, even though thou shouldest prepare thyself for a whole year, and hadst nothing else in thy mind. But out of My tenderness and grace alone art thou permitted to draw nigh unto My table; as though a beggar were called to a rich man’s dinner, and had no other recompense to offer him for the benefits done unto him, but to humble himself and to give him thanks. Do therefore as much as lieth in thee, and do it diligently, not of custom, nor of necessity, but with fear, reverence, and affection, receive the Body of thy beloved Lord God, who vouchsafeth to come unto thee. I am He who hath called thee; I commanded it to be done; I will supply what is lacking to thee; come and receive Me.
+
+3. When I give the grace of devotion, give thanks unto thy God; it is not because thou art worthy, but because I had mercy on thee. If thou hast not devotion, but rather feelest thyself dry, be instant in prayer, cease not to groan and knock; cease not until thou prevail to obtain some crumb or drop of saving grace. Thou hast need of Me, I have no need of thee. Nor dost thou come to sanctify Me, but I come to sanctify thee and make thee better. Thou comest that thou mayest be sanctified by Me, and be united to Me; that thou mayest receive fresh grace, and be kindled anew to amendment of life. See that thou neglect not this grace, but prepare thy heart with all diligence, and receive thy Beloved unto thee.
+
+4. But thou oughtest not only to prepare thyself for devotion before Communion, thou must also keep thyself with all diligence therein after receiving the Sacrament; nor is less watchfulness needed afterwards, than devout preparation beforehand: for good watchfulness afterwards becometh in turn the best preparation for the gaining more grace. For hereby is a man made entirely indisposed to good, if he immediately return from Communion to give himself up to outward consolations. Beware of much speaking; remain in a secret place, and hold communion with thy God; for thou hast Him whom the whole world cannot take away from thee. I am He to whom thou oughtest wholly to give thyself; so that now thou mayest live not wholly in thyself, but in Me, free from all anxiety.
+
+(1) Mark xiv. 14, 15. (2) 1 Corinthians v. 7. (3) Psalm cii. 7.
+
+### That the devout soul ought with the whole heart to yearn after union with Christ in the Sacrament
+
+The Voice of the Disciple
+
+Who shall grant unto me, O Lord, that I may find Thee alone, and open all my heart unto Thee, and enjoy Thee as much as my soul desireth; and that no man may henceforth look upon me, nor any creature move me or have respect unto me, but Thou alone speak unto me and I unto Thee, even as beloved is wont to speak unto beloved, and friend to feast with friend? For this do I pray, this do I long for, that I may be wholly united unto Thee, and may withdraw my heart from all created things, and by means of Holy Communion and frequent celebration may learn more and more to relish heavenly and eternal things. Ah, Lord God, when shall I be entirely united and lost in Thee, and altogether forgetful of myself? Thou in me, and I in Thee;(1) even so grant that we may in like manner continue together in one.
+
+2. Verily Thou art my Beloved, the choicest among ten thousand,(2) in whom my soul delighteth to dwell all the days of her life. Verily Thou art my Peacemaker, in Whom is perfect peace and true rest, apart from Whom is labour and sorrow and infinite misery. Verily Thou art a God that hidest Thyself, and Thy counsel is not with the wicked, but Thy Word is with the humble and the simple. O how sweet, O Lord, is Thy spirit, who that Thou mightest manifest Thy sweetness towards Thy children, dost vouchsafe to refresh them with the bread which is full of sweetness, which cometh down from heaven. Verily there is no other nation so great, which hath its gods drawing nigh to them, as Thou, our God, art present unto all Thy faithful ones,(3) unto whom for their daily solace, and for lifting up their heart unto heaven, Thou givest Thyself for their food and delight.
+
+3. For what other nation is there so renowned as the Christian people? Or what creature is so beloved under heaven as the devout soul to which God entereth in, that he may feed it with His glorious flesh? O unspeakable grace! O wonderful condescension! O immeasurable love specially bestowed upon men! But what reward shall I give unto the Lord for this grace, for charity so mighty? There is nothing which I am able to present more acceptable than to give my heart altogether unto God, and to join it inwardly to Him. Then all my inward parts shall rejoice, when my soul shall be perfectly united unto God. Then shall He say unto me, “If thou wilt be with Me, I will be with thee.” And I will answer Him, “Vouchsafe, O Lord, to abide with me, I will gladly be with Thee; this is my whole desire, even that my heart be united unto Thee.”
+
+(1) John xv. 4. (2) Cant. v. 10. (3) Deuteronomy iv. 7.
+
+### Of the fervent desire of certain devout persons to receive the Body and Blood of Christ
+
+The Voice of the Disciple
+
+O how great is the abundance of Thy sweetness, O Lord, which Thou hast laid up for them that fear Thee. When I call to mind some devout persons who draw nigh to Thy Sacrament, O Lord, with the deepest devotion and affection, then very often I am confounded in myself and blush for shame, that I approach Thine altar and table of Holy Communion so carelessly and coldly, that I remain so dry and without affection, that I am not wholly kindled with love before Thee, my God, nor so vehemently drawn and affected as many devout persons have been, who out of the very earnest desire of the Communion, and tender affection of heart, could not refrain from weeping, but as it were with mouth of heart and body alike panted inwardly after Thee, O God, O Fountain of Life, having no power to appease or satiate their hunger, save by receiving Thy Body with all joyfulness and spiritual eagerness.
+
+2. O truly ardent faith of those, becoming a very proof of Thy Sacred Presence! For they verily know their Lord in the breaking of bread, whose heart so ardently burneth within them(1) when Jesus walketh with them by the way. Ah me! far from me for the most part is such love and devotion as this, such vehement love and ardour. Be merciful unto me, O Jesus, good, sweet, and kind, and grant unto Thy poor suppliant to feel sometimes, in Holy Communion, though it be but a little, the cordial affection of Thy love, that my faith may grow stronger, my hope in Thy goodness increase, and my charity, once kindled within me by the tasting of the heavenly manna, may never fail.
+
+3. But Thy mercy is able even to grant me the grace which I long for, and to visit me most tenderly with the spirit of fervour when the day of Thy good pleasure shall come. For, although I burn not with desire so vehement as theirs who are specially devout towards Thee, yet, through Thy grace, I have a desire after that greatly inflamed desire, praying and desiring to be made partaker with all those who so fervently love Thee, and to be numbered among their holy company.
+
+(1) Luke xxiv. 32.
+
+### That the grace of devotion is acquired by humility and self-denial
+
+The Voice of the Beloved
+
+Thou oughtest to seek earnestly the grace of devotion, to ask it fervently, to wait for it patiently and faithfully, to receive it gratefully, to preserve it humbly, to work with it diligently, and to leave to God the time and manner of heavenly visitation until it come. Chiefly oughtest thou to humble thyself when thou feelest inwardly little or no devotion, yet not to be too much cast down, nor to grieve out of measure. God ofttimes giveth in one short moment what He hath long time denied; He sometimes giveth at the end what at the beginning of prayer He hath deferred to give.
+
+2. If grace were always given immediately, and were at hand at the wish, it would be hardly bearable to weak man. Wherefore the grace of devotion is to be waited for with a good hope and with humble patience. Yet impute it to thyself and to thy sins when it is not given, or when it is mysteriously taken away. It is sometimes a small thing which hindereth and hideth grace; (if indeed that ought to be called *small* and not rather *great*, which hindereth so great a good); but if thou remove this, be it small or great, and perfectly overcome it, thou wilt have what thou hast asked.
+
+3. For immediately that thou hast given thyself unto God with all thine heart, and hast sought neither this nor that according to thine own will and pleasure, but hast altogether settled thyself in Him, thou shalt find thyself united and at peace; because nothing shall give thee so sweet relish and delight, as the good pleasure of the Divine will. Whosoever therefore shall have lifted up his will unto God with singleness of heart, and shall have delivered himself from every inordinate love or dislike of any created thing, he will be the most fit for receiving grace, and worthy of the gift of devotion. For where the Lord findeth empty vessels,(1) there giveth He His blessing. And the more perfectly a man forsaketh things which cannot profit, and the more he dieth to himself, the more quickly doth grace come, the more plentifully doth it enter in, and the higher doth it lift up the free heart.
+
+4. Then shall he see, and flow together, and wonder, and his heart shall be enlarged within him,(2) because the hand of the Lord is with him, and he hath put himself wholly in His hand, even for ever. Lo, thus shall the man be blessed, that seeketh God with all his heart, and receiveth not his soul in vain. This man in receiving the Holy Eucharist obtaineth the great grace of Divine Union; because he hath not regard to his own devotion and comfort, but, above all devotion and comfort, to the glory and honour of God.
+
+(1) 2 Kings iv. (2) Isaiah lx. 5.
+
+### That we ought to lay open our necessities to Christ and to require His Grace
+
+The Voice of the Disciple
+
+O most sweet and loving Lord, whom now I devoutly desire to receive, Thou knowest my infirmity and the necessity which I suffer, in what evils and vices I lie; how often I am weighed down, tempted, disturbed, and defiled. I come unto Thee for remedy, I beseech of Thee consolation and support. I speak unto Thee who knowest all things, to whom all my secrets are open, and who alone art able perfectly to comfort and help me. Thou knowest what good thing I most stand in need of, and how poor I am in virtues.
+
+2. Behold, I stand poor and naked before Thee, requiring grace, and imploring mercy. Refresh the hungry suppliant, kindle my coldness with the fire of Thy love, illuminate my blindness with the brightness of Thy presence. Turn thou all earthly things into bitterness for me, all grievous and contrary things into patience, all things worthless and created into contempt and oblivion. Lift up my heart unto Thee in Heaven, and suffer me not to wander over the earth. Be Thou alone sweet unto me from this day forward for ever, because Thou alone art my meat and drink, my love and joy, my sweetness and my whole good.
+
+3. Oh that Thou wouldest altogether by Thy presence, kindle, consume, and transform me into Thyself; that I may be made one spirit with Thee, by the grace of inward union, and the melting of earnest love! Suffer me not to go away from Thee hungry and dry; but deal mercifully with me, as oftentimes Thou hast dealt wondrously with Thy saints. What marvel if I should be wholly kindled from Thee, and in myself should utterly fail, since Thou art fire always burning and never failing, love purifying the heart and enlightening the understanding.
+
+### Of fervent love and vehement desire of receiving Christ
+
+The Voice of the Disciple
+
+With the deepest devotion and fervent love, with all affection and fervour of heart, I long to receive Thee, O Lord, even as many Saints and devout persons have desired Thee in communicating, who were altogether well pleasing to Thee by their sanctity of life, and dwelt in all ardent devotion. O my God, Eternal Love, my whole Good, Happiness without measure, I long to receive Thee with the most vehement desire and becoming reverence which any Saint ever had or could have.
+
+2. And although I be unworthy to have all those feelings of devotion, yet do I offer Thee the whole affection of my heart, even as though I alone had all those most grateful inflamed desires. Yea, also, whatsoever things a pious mind is able to conceive and long for, all these with the deepest veneration and inward fervour do I offer and present unto Thee. I desire to reserve nothing unto myself, but freely and entirely to offer myself and all that I have unto Thee for a sacrifice. O Lord my God, my Creator and Redeemer! with such affection, reverence, praise, and honour, with such gratitude, worthiness, and love, with such faith, hope, and purity do I desire to receive Thee this day, as Thy most blessed Mother, the glorious Virgin Mary, received and desired Thee, when she humbly and devoutly answered the Angel who brought unto her the glad tidings of the mystery of the Incarnation. Behold the handmaid of the Lord; be it unto me according to thy word.(1)
+
+3. And as Thy blessed forerunner, the most excellent of Saints, John Baptist, being full of joy in Thy presence, leapt while yet in the womb of his mother, for joy in the Holy Ghost; and afterwards discerning Jesus walking amongst men, humbled himself exceedingly, and said, with devout affection, The friend of the bridegroom, who standeth and heareth him, rejoiceth greatly because of the bridegroom’s voice;(2) even so I wish to be inflamed with great and holy desires, and to present myself unto Thee with my whole heart. Whence also, on behalf of myself and of all commended to me in prayer, I offer and present unto Thee the jubilation of all devout hearts, their ardent affections, their mental ecstasies, and supernatural illuminations and heavenly visions, with all the virtues and praises celebrated and to be celebrated by every creature in heaven and earth; to the end that by all Thou mayest worthily be praised and glorified for ever.
+
+4. Receive my prayers, O Lord my God, and my desires of giving Thee infinite praise and unbounded benediction, which, according to the multitude of Thine unspeakable greatness, are most justly due unto Thee. These do I give Thee, and desire to give every day and every moment; and with beseechings and affectionate desires I call upon all celestial spirits and all Thy faithful people to join with me in rendering Thee thanks and praises.
+
+5. Let all peoples, nations, and tongues praise Thee, and magnify Thy holy and sweet-sounding Name, with highest jubilations and ardent devotion. And let all who reverently and devoutly celebrate Thy most high Sacrament, and receive it with full assurance of faith, be accounted worthy to find grace and mercy with Thee, and intercede with all supplication for me a sinner; and when they shall have attained unto their wished-for devotion and joyous union with Thee, and shall depart full of comfort and wondrously refreshed from Thy holy, heavenly table, let them vouchsafe to be mindful of me, for I am poor and needy.
+
+(1) Luke i. 38. (2) John iii. 29.
+
+### That a man should not be a curious searcher of the Sacrament, but a humble imitator of Christ, submitting his sense to holy faith
+
+The Voice of the Beloved
+
+Thou must take heed of curious and useless searching into this most profound Sacrament, if thou wilt not be plunged into the abyss of doubt. He that is a searcher of Majesty shall be oppressed by the glory thereof.(1) God is able to do more than man can understand. A pious and humble search after truth is to be allowed, when it is always ready to be taught, and striving to walk after the wholesome opinions of the fathers.
+
+2. Blessed is the simplicity which leaveth alone the difficult paths of questionings, and followeth the plain and firm steps of God’s commandments. Many have lost devotion whilst they sought to search into deeper things. Faith is required of thee, and a sincere life, not loftiness of intellect, nor deepness in the mysteries of God. If thou understandest not nor comprehendest the things which are beneath thee, how shalt thou comprehend those which are above thee? Submit thyself unto God, and humble thy sense to faith, and the light of knowledge shall be given thee, as shall be profitable and necessary unto thee.
+
+3. There are some who are grievously tempted concerning faith and the Sacrament; but this is not to be imputed to themselves but rather to the enemy. Care not then for this, dispute not with thine own thoughts, nor make answer to the doubts which are cast into thee by the devil; but believe the words of God, believe His Saints and Prophets, and the wicked enemy shall flee from thee. Often it profiteth much, that the servant of God endureth such things. For the enemy tempteth not unbelievers and sinners, because he already hath secure possession of them; but he tempteth and harasseth the faithful and devout by various means.
+
+4. Go forward therefore with simple and undoubting faith, and draw nigh unto the Sacrament with supplicating reverence. And whatsoever thou art not enabled to understand, that commit without anxiety to Almighty God. God deceiveth thee not; he is deceived who believeth too much in himself. God walketh with the simple, revealeth Himself to the humble, giveth understanding to babes, openeth the sense to pure minds, and hideth grace from the curious and proud. Human reason is weak and may be deceived; but true faith cannot be deceived.
+
+5. All reason and natural investigation ought to follow faith, not to precede, nor to break it. For faith and love do here especially take the highest place, and work in hidden ways in this most holy and exceeding excellent Sacrament. God who is eternal and incomprehensible, and of infinite power, doth great and inscrutable things in heaven and in earth, and His wonderful works are past finding out. If the works of God were of such sort that they might easily be comprehended by human reason, they should no longer be called wonderful or unspeakable.
+
+(1) Proverbs xxv. 27 (Vulg.).
+
+## Addendum: Project Gutenberg License
+
+**PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK.**
+
+
+Updated editions will replace the previous one—the old editions will be renamed.
+
+Creating the works from print editions not protected by U.S. copyright law means that no one owns a United 
+States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States 
+without permission and without paying copyright royalties. Special rules, set forth in the General Terms of 
+Use part of this license, apply to copying and distributing Project Gutenberg™ electronic works to protect 
+the PROJECT GUTENBERG™ concept and trademark. Project Gutenberg is a registered trademark, and may not be 
+used if you charge for an eBook, except by following the terms of the trademark license, including paying 
+royalties for use of the Project Gutenberg trademark. If you do not charge anything for copies of this eBook, 
+complying with the trademark license is very easy. You may use this eBook for nearly any purpose such as 
+creation of derivative works, reports, performances and research. Project Gutenberg eBooks may be modified 
+and printed and given away—you may do practically ANYTHING in the United States with eBooks not protected 
+by U.S. copyright law. Redistribution is subject to the trademark license, especially commercial redistribution.
+
+To protect the Project Gutenberg™ mission of promoting the free distribution of electronic works, by 
+using or distributing this work (or any other work associated in any way with the phrase “Project Gutenberg”), 
+you agree to comply with all the terms of the Full Project Gutenberg™ License available with this file or 
+online at www.gutenberg.org/license.
+
+## Section 1. General Terms of Use and Redistributing Project Gutenberg™ electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™ electronic work, you indicate that you have read, 
+understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. 
+If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all 
+copies of Project Gutenberg™ electronic works in your possession. If you paid a fee for obtaining a copy of or 
+access to a Project Gutenberg™ electronic work and you do not agree to be bound by the terms of this agreement, 
+you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be used on or associated in any way with an electronic 
+work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most 
+Project Gutenberg™ electronic works even without complying with the full terms of this agreement. See paragraph 1.C below. 
+There are a lot of things you can do with Project Gutenberg™ electronic works if you follow the terms of this agreement 
+and help preserve free future access to Project Gutenberg™ electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the Foundation” or PGLAF), owns a compilation copyright in the 
+collection of Project Gutenberg™ electronic works. Nearly all the individual works in the collection are in the public 
+domain in the United States. If an individual work is unprotected by copyright law in the United States and you are 
+located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying 
+or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, 
+we hope that you will support the Project Gutenberg™ mission of promoting free access to electronic works by freely 
+sharing Project Gutenberg™ works in compliance with the terms of this agreement for keeping the Project Gutenberg™ name 
+associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format 
+with its attached full Project Gutenberg™ License when you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws 
+in most countries are in a constant state of change. If you are outside the United States, check the laws of your country 
+in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating 
+derivative works based on this work or any other Project Gutenberg™ work. The Foundation makes no representations concerning 
+the copyright status of any work in any country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other immediate access to, the full Project Gutenberg™ 
+License must appear prominently whenever any copy of a Project Gutenberg™ work (any work on which the 
+phrase “Project Gutenberg” appears, or with which the phrase “Project Gutenberg” is associated) is accessed, 
+displayed, performed, viewed, copied or distributed:
+
+> This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no
+> cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms
+> of the Project Gutenberg License included with this eBook or online at [www.gutenberg.org](https://www.gutenberg.org).
+> If you are not located in the United States, you will have to check the laws of the country where you are
+> located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg™ electronic work is derived from texts not protected by U.S. copyright 
+law (does not contain a notice indicating that it is posted with permission of the copyright holder), the work 
+can be copied and distributed to anyone in the United States without paying any fees or charges. If you are 
+redistributing or providing access to a work with the phrase “Project Gutenberg” associated with or appearing 
+on the work, you must comply either with the requirements of paragraphs 1.E.1 through 1.E.7 or obtain permission 
+for the use of the work and the Project Gutenberg™ trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted with the permission of the copyright holder, 
+your use and distribution must comply with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed 
+by the copyright holder. Additional terms will be linked to the Project Gutenberg™ License for all works posted 
+with the permission of the copyright holder found at the beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™ License terms from this work, or any files 
+containing a part of this work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this 
+electronic work, without prominently displaying the sentence set forth in paragraph 1.E.1 with active links or 
+immediate access to the full terms of the Project Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or 
+proprietary form, including any word processing or hypertext form. However, if you provide access to or 
+distribute copies of a Project Gutenberg™ work in a format other than “Plain Vanilla ASCII” or other format 
+used in the official version posted on the official Project Gutenberg™ website (www.gutenberg.org), you must, 
+at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means 
+of obtaining a copy upon request, of the work in its original “Plain Vanilla ASCII” or other form. Any 
+alternate format must include the full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any 
+Project Gutenberg™ works unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing access to or distributing Project 
+Gutenberg™ electronic works provided that:
+
+*   You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg™ works
+    calculated using the method you already use to calculate your applicable taxes. The fee is owed to the
+    owner of the Project Gutenberg™ trademark, but he has agreed to donate royalties under this paragraph
+    to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days
+    following each date on which you prepare (or are legally required to prepare) your periodic tax returns.
+    Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive
+    Foundation at the address specified in Section 4, “Information about donations to the Project Gutenberg
+    Literary Archive Foundation.”
+*   You provide a full refund of any money paid by a user who notifies you in writing (or by e-mail) within
+    30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg™ License. You must
+    require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue
+    all use of and all access to other copies of Project Gutenberg™ works.
+    
+*   You provide, in accordance with paragraph 1.F.3, a full refund of any money paid for a work or a replacement
+    copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.
+
+*   You comply with all other terms of this agreement for free distribution of Project Gutenberg™ works.
+
+1.E.9. If you wish to charge a fee or distribute a Project Gutenberg™ electronic work or group of works on different 
+terms than are set forth in this agreement, you must obtain permission in writing from the Project Gutenberg 
+Literary Archive Foundation, the manager of the Project Gutenberg™ trademark. Contact the Foundation as set forth 
+in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, 
+transcribe and proofread works not protected by U.S. copyright law in creating the Project Gutenberg™ collection. 
+Despite these efforts, Project Gutenberg™ electronic works, and the medium on which they may be stored, may contain 
+“Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or 
+other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer 
+codes that damage or cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right of Replacement or Refund” described in 
+paragraph 1.F.3, the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg™ trademark, 
+and any other party distributing a Project Gutenberg™ electronic work under this agreement, disclaim all liability 
+to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, 
+STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE 
+THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR 
+ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY 
+OF SUCH DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a defect in this electronic work within 90 days of 
+receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the 
+person you received the work from. If you received the work on a physical medium, you must return the medium with 
+your written explanation. The person or entity that provided you with the defective work may elect to provide a 
+replacement copy in lieu of a refund. If you received the work electronically, the person or entity providing it 
+to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund. If the 
+second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth in paragraph 1.F.3, this work is provided 
+to you ‘AS-IS’, WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES 
+OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain 
+types of damages. If any disclaimer or limitation set forth in this agreement violates the law of the state applicable 
+to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the 
+applicable state law. The invalidity or unenforceability of any provision of this agreement shall not void the remaining 
+provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the 
+Foundation, anyone providing copies of Project Gutenberg™ electronic works in accordance with this agreement, and any 
+volunteers associated with the production, promotion and distribution of Project Gutenberg™ electronic works, harmless 
+from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the 
+following which you do or cause to occur: (a) distribution of this or any Project Gutenberg™ work, (b) alteration, 
+modification, or additions or deletions to any Project Gutenberg™ work, and (c) any Defect you cause.
+
+### Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of electronic works in formats readable by 
+the widest variety of computers including obsolete, old, middle-aged and new computers. It exists 
+because of the efforts of hundreds of volunteers and donations from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the assistance they need are critical to 
+reaching Project Gutenberg™’s goals and ensuring that the Project Gutenberg™ collection will remain 
+freely available for generations to come. In 2001, the Project Gutenberg Literary Archive Foundation 
+was created to provide a secure and permanent future for Project Gutenberg™ and future generations. 
+To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations 
+can help, see Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+### Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit 501(c)(3) educational corporation 
+organized under the laws of the state of Mississippi and granted tax exempt status by the Internal 
+Revenue Service. The Foundation’s EIN
