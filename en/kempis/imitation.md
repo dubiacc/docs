@@ -21,8 +21,6 @@ you are located before using this eBook.
 > If you are not located in the United States, you will have to check the laws of the country where you are
 > located before using this eBook.
 
-# The Imitation of Christ
-
 ## Introductory Note
 
 The treatise “Of the Imitation of Christ” appears to have been originally written in Latin 
@@ -1609,7 +1607,6 @@ Thou must take heed of curious and useless searching into this most profound Sac
 
 **PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK.**
 
-
 Updated editions will replace the previous one—the old editions will be renamed.
 
 Creating the works from print editions not protected by U.S. copyright law means that no one owns a United 
@@ -1629,7 +1626,7 @@ using or distributing this work (or any other work associated in any way with th
 you agree to comply with all the terms of the Full Project Gutenberg™ License available with this file or 
 online at www.gutenberg.org/license.
 
-## Section 1. General Terms of Use and Redistributing Project Gutenberg™ electronic works
+### General Terms of Use and Redistributing Project Gutenberg™ electronic works
 
 1.A. By reading or using any part of this Project Gutenberg™ electronic work, you indicate that you have read, 
 understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. 
