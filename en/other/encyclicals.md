@@ -3,7 +3,7 @@
 
 A comprehensive collection of papal encyclicals, bulls, apostolic exhortations, and other major documents from approximately 1225 to present, organized by pope in reverse chronological order.
 
-## Pope Francis (2013 - present)
+## Francis I (2013 - 2025)
 
 The first Jesuit pope and first pope from the Americas, Francis has focused on social justice, environmental concerns, and church reform during his papacy.
 
@@ -23,7 +23,7 @@ The first Jesuit pope and first pope from the Americas, Francis has focused on s
 **Apostolic Letters:**
 - [2016 - Misericordia et Misera](https://w2.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco-lettera-ap_20161120_misericordia-et-misera.html): On Mercy and Peace
 
-## Pope Benedict XVI (2005 - 2013)
+## Benedict XVI (2005 - 2013)
 
 A renowned theologian who served during a period of church scandals and secularization, becoming the first pope to resign in nearly 600 years.
 
@@ -42,7 +42,7 @@ A renowned theologian who served during a period of church scandals and seculari
 **Motu Proprio:**
 - [2007 - Summorum Pontificum](https://www.papalencyclicals.net/paul06/ben16summorum.htm): On the Roman Liturgy prior to the reform of 1970
 
-## Pope John Paul II (1978 - 2005)
+## John Paul II (1978 - 2005)
 
 The first non-Italian pope in 455 years, he played a crucial role in ending communism in Eastern Europe and was a prominent figure on the world stage.
 
@@ -92,7 +92,7 @@ The first non-Italian pope in 455 years, he played a crucial role in ending comm
 - [1990 - Ex Corde Ecclesiae](https://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_15081990_ex-corde-ecclesiae_en.html): On Catholic Universities
 - [1988 - Pastor Bonus](https://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-index_en.html): On the Roman Curia
 
-## Pope Paul VI (1963 - 1978)
+## Paul VI (1963 - 1978)
 
 Led the Church through the conclusion of Vatican II and its implementation, facing the challenges of modernization and social upheaval of the 1960s.
 
@@ -121,7 +121,7 @@ Led the Church through the conclusion of Vatican II and its implementation, faci
 - [1966 - Ecclesiae Sanctae](https://www.papalencyclicals.net/paul06/p6ecclss.htm): On the implementation of Vatican II decrees
 - [1964 - Sacram Liturgiam](https://www.papalencyclicals.net/paul06/p6saclit.htm): On the sacred liturgy
 
-## Pope St. John XXIII (1958 - 1963)
+## St. John XXIII (1958 - 1963)
 
 Known as "Good Pope John," he convened the Second Vatican Council and promoted world peace during the Cold War.
 
@@ -138,7 +138,7 @@ Known as "Good Pope John," he convened the Second Vatican Council and promoted w
 **Apostolic Constitutions:**
 - [1962 - Veterum Sapientia](https://www.papalencyclicals.net/john23/j23veterum.htm): On the promotion of the study of Latin
 
-## Pope Pius XII (1939 - 1958)
+## Pius XII (1939 - 1958)
 
 Led the Church through World War II and the early Cold War, addressing modern challenges while maintaining traditional teachings.
 
@@ -193,7 +193,7 @@ Led the Church through World War II and the early Cold War, addressing modern ch
 **Apostolic Exhortations:**
 - [1950 - Menti Nostrae](https://www.papalencyclicals.net/pius12/p12clerg.htm): On the development of holiness in priestly life
 
-## Pope Pius XI (1922 - 1939)
+## Pius XI (1922 - 1939)
 
 Faced the rise of totalitarian regimes and defended the Church against fascism, communism, and secularism.
 
@@ -230,7 +230,7 @@ Faced the rise of totalitarian regimes and defended the Church against fascism, 
 - [1923 - Rerum Omnium Perturbationem](https://www.papalencyclicals.net/pius11/p11pertu.htm): On St. Francis de Sales
 - [1922 - Ubi Arcano Dei Consilio](https://www.papalencyclicals.net/pius11/p11arcan.htm): His first encyclical, on the peace of Christ
 
-## Pope Benedict XV (1914 - 1922)
+## Benedict XV (1914 - 1922)
 
 Led the Church through World War I, earning recognition as a peacemaker and advocate for humanitarian causes.
 
@@ -248,7 +248,7 @@ Led the Church through World War I, earning recognition as a peacemaker and advo
 - [1917 - Humani Generis Redemptionem](https://www.papalencyclicals.net/ben15/b15human.htm): On preaching the Word of God
 - [1914 - Ad Beatissimi Apostolorum](https://www.papalencyclicals.net/ben15/b15adbea.htm): His first encyclical, appealing for peace as WWI began
 
-## Pope St. Pius X (1903 - 1914)
+## St. Pius X (1903 - 1914)
 
 Known for his efforts to reform the Church and combat modernism, while promoting frequent Communion and early reception by children.
 
@@ -279,7 +279,7 @@ Known for his efforts to reform the Church and combat modernism, while promoting
 - [1907 - Lamentabili Sane](https://www.papalencyclicals.net/pius10/p10lamen.htm): Syllabus condemning the errors of the modernists
 - [1903 - Tra Le Sollecitudini](http://www.adoremus.org/TraLeSollecitudini.html): On sacred music
 
-## Pope Leo XIII (1878 - 1903)
+## Leo XIII (1878 - 1903)
 
 The "Pope of the Workers," he addressed social issues and promoted Catholic social teaching while defending the Church's intellectual tradition.
 
@@ -324,7 +324,7 @@ The "Pope of the Workers," he addressed social issues and promoted Catholic soci
 - [1878 - Quod Apostolici Muneris](https://www.papalencyclicals.net/leo13/l13apost.htm): On socialism
 - [1878 - Inscrutabili Dei Consilio](https://www.papalencyclicals.net/leo13/l13evl.htm): His first encyclical, on the evils of society
 
-## Pope Bl. Pius IX (1846 - 1878)
+## Bl. Pius IX (1846 - 1878)
 
 The longest-reigning pope in history, he convened Vatican I and proclaimed the dogma of papal infallibility while facing the loss of the Papal States.
 
@@ -371,14 +371,14 @@ The longest-reigning pope in history, he convened Vatican I and proclaimed the d
 - [1847 - Praedecessores Nostros](https://www.papalencyclicals.net/pius09/p9praede.htm): On aid for Ireland
 - [1846 - Qui Pluribus](https://www.papalencyclicals.net/pius09/p9quiplu.htm): His first encyclical, on faith and religion
 
-## Pope Pius VIII (1829 - 1830)
+## Pius VIII (1829 - 1830)
 
 A brief but significant pontificate focused on defending Church teaching and addressing contemporary challenges.
 
 **Encyclicals:**
 - [1829 - Traditi Humilitati](https://www.papalencyclicals.net/Pius08/p8tradit.htm): His only encyclical, on his program for the Church
 
-## Pope Leo XII (1823 - 1829)
+## Leo XII (1823 - 1829)
 
 Attempted to restore papal authority and traditional practices after the upheavals of the Napoleonic era.
 
@@ -389,7 +389,7 @@ Attempted to restore papal authority and traditional practices after the upheava
 - [1824 - Quod Hoc Ineunte](https://www.papalencyclicals.net/leo12/l12quodh.htm): On the jubilee
 - [1824 - Ubi Primum](https://www.papalencyclicals.net/leo12/l12ubipr.htm): His first encyclical, on his election to the papacy
 
-## Pope Pius VII (1800 - 1823)
+## Pius VII (1800 - 1823)
 
 Faced Napoleon's persecution and the challenges of restoring the Church after the French Revolution.
 
@@ -397,7 +397,7 @@ Faced Napoleon's persecution and the challenges of restoring the Church after th
 - [1814 - Il trionfo](http://digilander.iol.it/magistero/p7iltrio.htm): On his return from exile
 - [1800 - Diu Satis](https://www.papalencyclicals.net/pius07/p7diusat.htm): His first encyclical, on his election and the state of the Church
 
-## Pope Pius VI (1775 - 1799)
+## Pius VI (1775 - 1799)
 
 Opposed the French Revolution and died in French captivity, symbolizing the Church's struggle against revolutionary forces.
 
@@ -406,7 +406,7 @@ Opposed the French Revolution and died in French captivity, symbolizing the Chur
 - [1791 - Charitas](https://www.papalencyclicals.net/pius06/p6charit.htm): On the civil constitution of the clergy
 - [1775 - Inscrutabile](https://www.papalencyclicals.net/pius06/p6inscru.htm): His first encyclical, on the problems facing the Church
 
-## Pope Clement XIV (1769 - 1774)
+## Clement XIV (1769 - 1774)
 
 Known primarily for suppressing the Jesuit order under pressure from European monarchs.
 
@@ -416,7 +416,7 @@ Known primarily for suppressing the Jesuit order under pressure from European mo
 - [1769 - Decet Quam Maxime](https://www.papalencyclicals.net/clem14/c14decet.htm): His first encyclical, on his elevation to the papacy
 - [1769 - Cum Summi](https://www.papalencyclicals.net/clem14/c14cumsu.htm): On his pontifical program
 
-## Pope Clement XIII (1758 - 1769)
+## Clement XIII (1758 - 1769)
 
 Defended the Jesuits against mounting pressure from European powers and promoted traditional Catholic devotions.
 
@@ -428,7 +428,7 @@ Defended the Jesuits against mounting pressure from European powers and promoted
 - [1759 - Cum Primum](https://www.papalencyclicals.net/clem13/c13cumpr.htm): On unity among Christians
 - [1758 - A Quo Die](https://www.papalencyclicals.net/clem13/c13aquod.htm): His first encyclical, on the unity of Christians
 
-## Pope Benedict XIV (1740 - 1758)
+## Benedict XIV (1740 - 1758)
 
 A scholarly pope who promoted learning and church reform while addressing various theological and pastoral issues.
 
@@ -447,63 +447,63 @@ A scholarly pope who promoted learning and church reform while addressing variou
 - [1741 - Quanta Cura](https://www.papalencyclicals.net/ben14/b14quant.htm): On his care for the Eastern Churches
 - [1740 - Ubi Primum](https://www.papalencyclicals.net/ben14/b14ubipr.htm): His first encyclical, on his duties as pope
 
-## Pope Clement XII (1730 - 1740)
+## Clement XII (1730 - 1740)
 
 Issued the first papal condemnation of Freemasonry and worked to address various church reforms.
 
 **Bulls:**
 - [1738 - In Eminenti](https://www.papalencyclicals.net/clem12/c12inemengl.htm): First papal condemnation of Freemasonry
 
-## Pope Clement XI (1700 - 1721)
+## Clement XI (1700 - 1721)
 
 Faced the challenges of Jansenism and political pressures from European powers.
 
 **Bulls:**
 - [1713 - Unigenitus](https://www.papalencyclicals.net/clem11/c11unige.htm): Against Jansenism
 
-## Pope Clement VIII (1592 - 1605)
+## Clement VIII (1592 - 1605)
 
 Led the Church during the Counter-Reformation period, addressing various disciplinary and doctrinal issues.
 
 **Bulls:**
 - [1595 - Ex supernae dispositionis arbitrio](https://www.papalencyclicals.net/clem08/clem8exsuper.htm): On church discipline
 
-## Pope Clement V (1305 - 1314)
+## Clement V (1305 - 1314)
 
 The first Avignon pope, he moved the papal court to France and suppressed the Knights Templar.
 
 **Bulls:**
 - [1312 - Exivi De Paradiso](https://www.papalencyclicals.net/clem05/exivi-e.htm): Confirming the Rule of the Franciscans
 
-## Pope Boniface VIII (1294 - 1303)
+## Boniface VIII (1294 - 1303)
 
 Asserted strong papal claims over secular authority, leading to conflict with European monarchs.
 
 **Bulls:**
 - [1302 - Unam Sanctam](https://www.papalencyclicals.net/bon08/b8unam.htm): Famous bull asserting papal supremacy over temporal authority
 
-## Pope Benedict XII (1334 - 1342)
+## Benedict XII (1334 - 1342)
 
 A reforming pope who addressed doctrinal issues and worked to end the Avignon Papacy.
 
 **Constitutions:**
 - [1336 - Benedictus Deus](https://www.papalencyclicals.net/ben12/b12bdeus.htm): On the beatific vision
 
-## Pope Alexander VII (1655 - 1667)
+## Alexander VII (1655 - 1667)
 
 Promoted Church renewal and addressed various theological controversies.
 
 **Bulls:**
 - [1659 - Super Cathedram Principis Apostolorum](https://www.papalencyclicals.net/alex07/alex07super.htm): On Church authority
 
-## Pope Alexander VI (1492 - 1503)
+## Alexander VI (1492 - 1503)
 
 A controversial Renaissance pope known for his political machinations and family scandals.
 
 **Bulls:**
 - [1493 - Inter Caetera](https://www.papalencyclicals.net/alex06/alex06inter.htm): Division of the undiscovered world between Spain and Portugal
 
-## Pope Alexander IV (1254 - 1261)
+## Alexander IV (1254 - 1261)
 
 Continued papal policies toward the Franciscan and Dominican orders while facing political challenges.
 
