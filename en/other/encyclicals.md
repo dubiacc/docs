@@ -14,13 +14,28 @@ The first Jesuit pope and first pope from the Americas, Francis has focused on s
 - [2013 - Lumen Fidei](https://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20130629_enciclica-lumen-fidei.html): On faith, largely completed by Benedict XVI
 
 **Apostolic Exhortations:**
+- [2023 - C'est la Confiance](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/20231015-cest-la-confiance.html): On confidence in the merciful love of God
+- [2023 - Laudate Deum](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/20231004-laudate-deum.html): To all people of good will on the climate crisis
+- [2020 - Querida Amazonia](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html): To the people of God and to all persons of good will
+- [2019 - Christus Vivit](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20190325_christus-vivit.html): To young people and to the entire people of God
+- [2018 - Gaudete et Exsultate](https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20180319_gaudete-et-exsultate.html): On the call to holiness in today's world
 - [2016 - Amoris laetitia](https://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html): Post-Synodal Apostolic Exhortation on love in the family
 - [2013 - Evangelii Gaudium](https://w2.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html): On the Proclamation of the Gospel in Today's World
 
 **Apostolic Constitutions:**
+- [2022 - Praedicate Evangelium](https://www.vatican.va/content/francesco/en/apost_constitutions/documents/20220319-costituzione-ap-praedicate-evangelium.html): On the Roman Curia and its service to the Church in the World
+- [2021 - Pascite Gregem Dei](https://www.vatican.va/content/francesco/en/apost_constitutions/documents/20210523-costituzione-ap-pascite-gregem-dei.html): By which Book VI of the Code of Canon Law is reformed
+- [2018 - Episcopalis Communio](https://www.vatican.va/content/francesco/en/apost_constitutions/documents/20180915-costituzione-ap-episcopalis-communio.html): On the Synod of Bishops
+- [2018 - Veritatis Gaudium](https://www.vatican.va/content/francesco/en/apost_constitutions/documents/20180129-costituzione-ap-veritatis-gaudium.html): On Ecclesiastical Universities and Faculties
 - [2016 - Vultum Dei quaerere](https://w2.vatican.va/content/francesco/en/apost_constitutions/documents/papa-francesco_costituzione-ap_20160629_vultum-dei-quaerere.html): On Women's Contemplative Life
 
 **Apostolic Letters:**
+- [2022 - Desiderio Desideravi](https://www.vatican.va/content/francesco/en/apost_letters/documents/20220629-lettera-ap-desiderio-desideravi.html): On the liturgical formation of the People of God
+- [2021 - Traditionis Custodes](https://www.vatican.va/content/francesco/en/motu_proprio/documents/20210716-motu-proprio-traditionis-custodes.html): On the use of the Roman Liturgy prior to the Reform of 1970
+- [2019 - Aperuit Illis](https://www.vatican.va/content/francesco/en/motu_proprio/documents/papa-francesco-motu-proprio-20190930_aperuit-illis.html): Instituting the Sunday of the Word of God
+- [2019 - Vos Estis Lux Mundi](https://www.vatican.va/content/francesco/en/motu_proprio/documents/20190507-vos-estis-lux-mundi.html): On measures to combat sexual abuse
+- [2017 - Magnum Principium](https://www.vatican.va/content/francesco/en/motu_proprio/documents/20170903-motu-proprio-magnum-principium.html): By which can. 838 of the Code of Canon Law is modified
+- [2017 - Maiorem Hac Dilectionem](https://www.vatican.va/content/francesco/en/motu_proprio/documents/20170711-maiorem-hac-dilectionem.html): Regarding the offer of life
 - [2016 - Misericordia et Misera](https://w2.vatican.va/content/francesco/en/apost_letters/documents/papa-francesco-lettera-ap_20161120_misericordia-et-misera.html): On Mercy and Peace
 
 ## Benedict XVI (2005 - 2013)
@@ -33,7 +48,9 @@ A renowned theologian who served during a period of church scandals and seculari
 - [2005 - Deus Caritas Est](https://www.vatican.va/holy_father/benedict_xvi/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est_en.html): On Christian love, both divine and human
 
 **Apostolic Exhortations:**
+- [2012 - Ecclesia in Medio Oriente](https://www.vatican.va/holy_father/benedict_xvi/apost_exhortations/documents/hf_ben-xvi_exh_20120914_ecclesia-in-medio-oriente_en.html): On the Church in the Middle East: Communion and Witness
 - [2011 - Africae Munus](https://www.vatican.va/holy_father/benedict_xvi/apost_exhortations/documents/hf_ben-xvi_exh_20111119_africae-munus_en.html): On the Church in Africa In Service to Reconciliation, Justice and Peace
+- [2010 - Verbum Domini](https://www.vatican.va/holy_father/benedict_xvi/apost_exhortations/documents/hf_ben-xvi_exh_20100930_verbum-domini_en.html): On the Word of God in the Life and Mission of the Church
 - [2007 - Sacramentum Caritatis](https://www.vatican.va/holy_father/benedict_xvi/apost_exhortations/documents/hf_ben-xvi_exh_20070222_sacramentum-caritatis_en.html): Post-Synodal Apostolic Exhortation on the Eucharist
 
 **Apostolic Constitutions:**
@@ -63,6 +80,7 @@ The first non-Italian pope in 455 years, he played a crucial role in ending comm
 - [1979 - Redemptor Hominis](https://www.vatican.va/holy_father/john_paul_ii/encyclicals/documents/hf_jp-ii_enc_04031979_redemptor-hominis_en.html): His first encyclical, on Christ as redeemer of humanity
 
 **Apostolic Exhortations:**
+- [2003 - Ecclesia in Europa](https://www.vatican.va/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_20030628_ecclesia-in-europa_en.html): On the Church in Europe
 - [2003 - Pastores Gregis](https://www.vatican.va/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_20031016_pastores-gregis_en.html): On the Bishop, Servant of the Gospel of Jesus Christ for the Hope of the World
 - [1999 - Ecclesia in Asia](https://www.vatican.va/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_06111999_ecclesia-in-asia_en.html): On Jesus Christ the Saviour and His mission of love and service in Asia
 - [1999 - Ecclesia in America](https://www.vatican.va/holy_father/john_paul_ii/apost_exhortations/documents/hf_jp-ii_exh_22011999_ecclesia-in-america_en.html): On the encounter with the living Jesus Christ: the way to conversion, communion and solidarity in America
@@ -83,14 +101,25 @@ The first non-Italian pope in 455 years, he played a crucial role in ending comm
 - [1995 - Orientale Lumen](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1995/documents/hf_jp-ii_apl_19950502_orientale-lumen.html): On the Eastern Churches
 - [1994 - Ordinatio Sacerdotalis](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1994/documents/hf_jp-ii_apl_19940522_ordinatio-sacerdotalis.html): On reserving priestly ordination to men alone
 - [1994 - Tertio Millennio Adveniente](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1994/documents/hf_jp-ii_apl_19941110_tertio-millennio-adveniente.html): On preparation for the Jubilee of the Year 2000
+- [1988 - Vicesimus Quintus Annus](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1988/documents/hf_jp-ii_apl_04121988_vicesimus-quintus-annus.html): On the 25th anniversary of the Constitution on the Sacred Liturgy
+- [1988 - Euntes in Mundum](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1988/documents/hf_jp-ii_apl_25011988_euntes-in-mundum.html): On the Millennium of the Baptism of Kievan Rus'
 - [1988 - Mulieris Dignitatem](https://w2.vatican.va/content/john-paul-ii/en/apost_letters/1988/documents/hf_jp-ii_apl_15081988_mulieris-dignitatem.html): On the dignity and vocation of women
+- [1987 - Duodecimum Saeculum](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1987/documents/hf_jp-ii_apl_04121987_duodecimum-saeculum.html): On the 1200th anniversary of the Second Council of Nicaea
+- [1986 - Augustinum Hipponensem](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1986/documents/hf_jp-ii_apl_28081986_augustinum-hipponensem.html): On the 16th centenary of the conversion of St. Augustine
 - [1984 - Salvifici Doloris](https://w2.vatican.va/content/john-paul-ii/en/apost_letters/1984/documents/hf_jp-ii_apl_11021984_salvifici-doloris.html): On the Christian meaning of human suffering
+- [1980 - Dominicae Cenae](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1980/documents/hf_jp-ii_apl_24021980_dominicae-cenae.html): On the Mystery and Worship of the Eucharist
+- [1980 - Egregiae Virtutis](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1980/documents/hf_jp-ii_apl_31121980_egregiae-virtutis.html): Proclaiming Saints Cyril and Methodius Co-Patrons of Europe
+- [1980 - Les Grandes Lignes](https://www.vatican.va/content/john-paul-ii/en/apost_letters/1980/documents/hf_jp-ii_apl_15041980_les-grandes-lignes.html): On the Catholic Universities
 
 **Apostolic Constitutions:**
 - [1996 - Universi Dominici Gregis](https://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_22021996_universi-dominici-gregis_en.html): On the vacancy of the Apostolic See and the election of the Roman Pontiff
 - [1992 - Fidei Depositum](https://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19921011_fidei-depositum_en.html): On the publication of the Catechism of the Catholic Church
 - [1990 - Ex Corde Ecclesiae](https://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_15081990_ex-corde-ecclesiae_en.html): On Catholic Universities
 - [1988 - Pastor Bonus](https://www.vatican.va/holy_father/john_paul_ii/apost_constitutions/documents/hf_jp-ii_apc_19880628_pastor-bonus-index_en.html): On the Roman Curia
+
+## John Paul I (1978)
+
+The pontificate of John Paul I lasted only 33 days, so he did not have the opportunity to issue any encyclicals, apostolic exhortations, or apostolic constitutions. His brief pontificate was marked by a series of addresses and letters.
 
 ## Paul VI (1963 - 1978)
 
@@ -109,9 +138,12 @@ Led the Church through the conclusion of Vatican II and its implementation, faci
 **Apostolic Exhortations:**
 - [1975 - Evangelii Nuntiandi](https://www.papalencyclicals.net/paul06/p6evan.htm): On evangelization in the modern world
 - [1975 - Gaudete In Domino](https://www.papalencyclicals.net/paul06/p6gaude.htm): On Christian joy
+- [1974 - Paterna Cum Benevolentia](https://www.vatican.va/content/paul-vi/en/apost_exhortations/documents/hf_p-vi_exh_19741208_paterna-cum-benevolentia.html): On Reconciliation within the Church
+- [1974 - Nobis in Animo](https://www.vatican.va/content/paul-vi/en/apost_exhortations/documents/hf_p-vi_exh_19740325_nobis-in-animo.html): On the Needs of the Church in the Holy Land
 - [1974 - Marialis Cultus](https://www.papalencyclicals.net/paul06/p6marial.htm): On devotion to the Blessed Virgin Mary
 
 **Apostolic Constitutions:**
+- [1975 - Romano Pontifici Eligendo](https://www.vatican.va/content/paul-vi/en/apost_constitutions/documents/hf_p-vi_apc_19751001_romano-pontifici-eligendo.html): On the election of the Roman Pontiff
 - [1969 - Missale Romanum](https://www.papalencyclicals.net/paul06/p6missal.htm): On the Roman Missal
 - [1967 - Indulgentiarum Doctrina](https://www.papalencyclicals.net/paul06/p6indulg.htm): On indulgences
 - [1966 - Paenitemini](https://www.papalencyclicals.net/paul06/p6paen.htm): On fast and abstinence
@@ -137,6 +169,13 @@ Known as "Good Pope John," he convened the Second Vatican Council and promoted w
 
 **Apostolic Constitutions:**
 - [1962 - Veterum Sapientia](https://www.papalencyclicals.net/john23/j23veterum.htm): On the promotion of the study of Latin
+- [1961 - Humanae Salutis](https://www.vatican.va/content/john-xxiii/en/apost_constitutions/documents/hf_j-xxiii_apc_19611225_humanae-salutis.html): Convening the Second Vatican Council
+
+**Apostolic Exhortations:**
+- [1961 - Aeterna Dei Sapientia](https://www.papalencyclicals.net/pope-st-john-xxiii-oct-28-1958-june-3-1963/j23aeter.htm): On the fifteenth centenary of the death of Pope St. Leo the Great
+
+**Other Documents:**
+- [1962 - Gaudet Mater Ecclesia](https://www.vatican.va/content/john-xxiii/en/speeches/1962/documents/hf_j-xxiii_spe_19621011_opening-council.html): Opening address to the Second Vatican Council
 
 ## Pius XII (1939 - 1958)
 
@@ -160,6 +199,7 @@ Led the Church through World War II and the early Cold War, addressing modern ch
 - [1954 - Sacra Virginitas](https://www.papalencyclicals.net/pius12/p12sacra.htm): On consecrated virginity
 - [1953 - Fulgens Corona](https://www.papalencyclicals.net/pius12/p12fulge.htm): On the Marian year
 - [1953 - Doctor Mellifluus](https://www.papalencyclicals.net/pius12/p12docto.htm): On St. Bernard of Clairvaux
+- [1952 - Orientales Ecclesias](https://www.papalencyclicals.net/pius12/p12oriene.htm): On the persecuted Eastern Churches
 - [1951 - Ingruentium Malorum](https://www.papalencyclicals.net/pius12/p12ingru.htm): On reciting the rosary
 - [1951 - Sempiternus Rex Christus](https://www.papalencyclicals.net/pius12/p12sempi.htm): On the Council of Chalcedon
 - [1951 - Evangelii Praecones](https://www.papalencyclicals.net/pius12/p12evang.htm): On promotion of Catholic missions
@@ -191,7 +231,13 @@ Led the Church through World War II and the early Cold War, addressing modern ch
 - [1947 - Sacramentum Ordinis](https://www.papalencyclicals.net/pius12/p12sacrao.htm): On holy orders
 
 **Apostolic Exhortations:**
+- [1957 - Il pellegrinaggio a Lourdes](https://www.vatican.va/content/pius-xii/en/apost_exhortations/documents/hf_p-xii_exh_19570702_pellegrinaggio-lourdes.html): On the centenary of the apparitions at Lourdes
+- [1953 - Artissimum et dulcissimum](https://www.vatican.va/content/pius-xii/en/apost_exhortations/documents/hf_p-xii_exh_19530329_artissimum-et-dulcissimum.html): On the practice and teaching of the catechism
 - [1950 - Menti Nostrae](https://www.papalencyclicals.net/pius12/p12clerg.htm): On the development of holiness in priestly life
+- [1950 - Exhortation to the Clergy of the Entire World](https://www.vatican.va/content/pius-xii/en/apost_exhortations/documents/hf_p-xii_exh_19500923_clero-mondo.html)
+- [1949 - Conflictatio bonorum](https://www.vatican.va/content/pius-xii/en/apost_exhortations/documents/hf_p-xii_exh_19490211_conflictatio-bonorum.html): On the struggle of good against evil
+- [1948 - In auspicando super](https://www.vatican.va/content/pius-xii/en/apost_exhortations/documents/hf_p-xii_exh_19480328_in-auspicando-super.html): On public prayers for world peace and the solution to the problem of Palestine
+- [1940 - Iis qui operi](https://www.vatican.va/content/pius-xii/en/apost_exhortations/documents/hf_p-xii_exh_19400415_iis-qui-operi.html): To the priests of the whole world
 
 ## Pius XI (1922 - 1939)
 
@@ -212,10 +258,11 @@ Faced the rise of totalitarian regimes and defended the Church against fascism, 
 - [1931 - Non Abbiamo Bisogno](https://www.papalencyclicals.net/pius11/p11fac.htm): On Catholic Action in Italy and fascist restrictions
 - [1931 - Quadragesimo Anno](https://www.papalencyclicals.net/pius11/p11quadr.htm): On reconstruction of the social order, 40 years after Rerum Novarum
 - [1930 - Casti Connubii](https://www.papalencyclicals.net/pius11/p11casti.htm): On Christian marriage
-- [1930 - Ad Salutem](https://www.papalencyclicals.net/pius11/p11salut.htm): On the Eastern Churches
+- [1930 - Ad Salutem](https://www.papalencyclicals.net/pius11/p11salut.htm): On St. Augustine
 - [1929 - Quinquagesimo Ante](https://www.papalencyclicals.net/pius11/p11quinq.htm): On the priesthood
 - [1929 - Mens Nostra](https://www.papalencyclicals.net/pius11/p11mens.htm): On promoting spiritual exercises
 - [1929 - Divini Illius Magistri](https://www.papalencyclicals.net/pius11/p11rappr.htm): On the Christian education of youth
+- [1928 - Divini Cultus Sanctitatem](https://www.papalencyclicals.net/pius11/p11divin.htm): On Divine Worship
 - [1928 - Rerum Orientalium](https://www.papalencyclicals.net/pius11/p11reror.htm): On fostering Oriental studies
 - [1928 - Miserentissimus Redemptor](https://www.papalencyclicals.net/pius11/p11miser.htm): On reparation to the Sacred Heart
 - [1928 - Mortalium Animos](https://www.papalencyclicals.net/pius11/p11morta.htm): On religious unity, addressing the ecumenical movement
@@ -248,6 +295,17 @@ Led the Church through World War I, earning recognition as a peacemaker and advo
 - [1917 - Humani Generis Redemptionem](https://www.papalencyclicals.net/ben15/b15human.htm): On preaching the Word of God
 - [1914 - Ad Beatissimi Apostolorum](https://www.papalencyclicals.net/ben15/b15adbea.htm): His first encyclical, appealing for peace as WWI began
 
+**Apostolic Exhortations:**
+- [1917 - Dès le Début](https://www.vatican.va/content/benedict-xv/en/apost_exhortations/documents/hf_ben-xv_exh_19170801_des-le-debut.html): On the outbreak of World War I
+- [1915 - Allorché Fummo Chiamati](https://www.vatican.va/content/benedict-xv/en/apost_exhortations/documents/hf_ben-xv_exh_19150728_allorche-fummo-chiamati.html): To the peoples at war and to their rulers
+- [1914 - Ubi Primum](https://www.vatican.va/content/benedict-xv/en/apost_exhortations/documents/hf_ben-xv_exh_19140908_ubi-primum.html): An appeal for peace
+
+**Bulls:**
+- [1920 - Divina Disponente](https://www.vatican.va/content/benedict-xv/en/bulls/documents/hf_ben-xv_bull_19200315_divina-disponente.html): Establishing the Diocese of Kaifeng
+- [1919 - Sedis Huius](https://www.vatican.va/content/benedict-xv/en/bulls/documents/hf_ben-xv_bull_19190520_sedis-huius.html): On the establishment of the Diocese of Zhengzhou
+- [1917 - Providentissima Mater](https://www.vatican.va/content/benedict-xv/en/bulls/documents/hf_ben-xv_bull_19170527_providentissima-mater.html): Promulgating the first Code of Canon Law
+- [1915 - Incruentum Altaris](https://www.vatican.va/content/benedict-xv/en/bulls/documents/hf_ben-xv_bull_19150614_incruentum-altaris.html): Proclaiming the patronage of St. Joseph over the universal Church
+
 ## St. Pius X (1903 - 1914)
 
 Known for his efforts to reform the Church and combat modernism, while promoting frequent Communion and early reception by children.
@@ -272,11 +330,16 @@ Known for his efforts to reform the Church and combat modernism, while promoting
 - [1904 - Ad Diem Illum Laetissimum](https://www.papalencyclicals.net/pius10/p10imcon.htm): On the Immaculate Conception
 - [1903 - E Supremi](https://www.papalencyclicals.net/pius10/p10supre.htm): His first encyclical, on the restoration of all things in Christ
 
+**Apostolic Exhortations:**
+- [1908 - Haerent Animo](https://www.papalencyclicals.net/pius10/p10haer.htm): To the Catholic clergy on priestly sanctity
+
 **Other Documents:**
+- [1911 - Divino Afflatu](https://www.papalencyclicals.net/Pius10/p10divin.htm): On the reform of the Roman Breviary
 - [1910 - The Oath Against Modernism](https://www.papalencyclicals.net/pius10/p10moath.htm): Prescribed for clergy
 - [1910 - Quam Singulari](https://www.papalencyclicals.net/pius10/p10quam.htm): On early and frequent Communion
-- [1908 - Haerent Animo](https://www.papalencyclicals.net/pius10/p10haer.htm): On priestly sanctity
+- [1908 - Sapienti Consilio](https://www.papalencyclicals.net/Pius10/p10sapie.htm): On the reorganization of the Roman Curia
 - [1907 - Lamentabili Sane](https://www.papalencyclicals.net/pius10/p10lamen.htm): Syllabus condemning the errors of the modernists
+- [1904 - Commissum Nobis](https://www.papalencyclicals.net/Pius10/p10com.htm): Abolishing the "veto" in papal elections
 - [1903 - Tra Le Sollecitudini](http://www.adoremus.org/TraLeSollecitudini.html): On sacred music
 
 ## Leo XIII (1878 - 1903)
@@ -288,41 +351,67 @@ The "Pope of the Workers," he addressed social issues and promoted Catholic soci
 - [1902 - Fin Dal Principio](https://www.papalencyclicals.net/leo13/l13fidal.htm): On the Church in Italy
 - [1902 - Quae Ad Nos](https://www.papalencyclicals.net/leo13/l13qunos.htm): On the Church in Peru
 - [1902 - Mirae Caritatis](https://www.papalencyclicals.net/leo13/l13mirae.htm): On the Most Holy Eucharist
-- [1901 - Urbanitatis Veteris](https://www.papalencyclicals.net/leo13/l13urban.htm): On Hungarian Catholics
+- [1902 - In Amplissimo](https://www.papalencyclicals.net/leo13/l13ampl.htm): On the Church in the United States
+- [1902 - Quod Votis](https://www.papalencyclicals.net/leo13/l13qvot.htm): On the new Catholic University
 - [1901 - Graves De Communi Re](https://www.papalencyclicals.net/leo13/l13grcom.htm): On Christian democracy
+- [1901 - Gravissimas](https://www.papalencyclicals.net/leo13/l13grav.htm): On the religious orders in Portugal
+- [1901 - Reputantibus](https://www.papalencyclicals.net/leo13/l13rep.htm): On the language question in Bohemia
+- [1901 - Urbanitatis Veteris](https://www.papalencyclicals.net/leo13/l13urban.htm): On Hungarian Catholics
+- [1900 - Omnibus Compertum](https://www.papalencyclicals.net/leo13/l13omni.htm): On unity among the Greek Melkites
 - [1900 - Tametsi Futura Prospicientibus](https://www.papalencyclicals.net/leo13/l13tamet.htm): On Jesus Christ our Redeemer
-- [1899 - Testem Benevolentiae Nostrae](https://www.papalencyclicals.net/leo13/l13teste.htm): Concerning new opinions, Americanism
 - [1899 - Annum Sacrum](https://www.papalencyclicals.net/leo13/l13annum.htm): On consecration to the Sacred Heart of Jesus
+- [1899 - Depuis le Jour](https://www.papalencyclicals.net/leo13/l13jour.htm): On the education of the clergy in France
+- [1899 - Paternae](https://www.papalencyclicals.net/leo13/l13pate.htm): On the education of the clergy
+- [1899 - Testem Benevolentiae Nostrae](https://www.papalencyclicals.net/leo13/l13teste.htm): Concerning new opinions, Americanism
+- [1898 - Caritatis Studium](https://www.papalencyclicals.net/leo13/l13stud.htm): On the Church in Scotland
+- [1898 - Spesse Volte](https://www.papalencyclicals.net/leo13/l13spes.htm): On the suppression of Catholic institutions
+- [1897 - Affari Vos](https://www.papalencyclicals.net/leo13/l13affa.htm): On the Manitoba School Question
+- [1897 - Augustissimae Virginis Mariae](https://www.papalencyclicals.net/leo13/l13aug.htm): On the Confraternity of the Holy Rosary
 - [1897 - Divinum Illud Munus](https://www.papalencyclicals.net/leo13/l13divin.htm): On the Holy Spirit
 - [1897 - Militantis Ecclesiae](https://www.papalencyclicals.net/leo13/l13milit.htm): On St. Peter Canisius
-- [1896 - Satis Cognitum](https://www.papalencyclicals.net/leo13/l13satis.htm): On the unity of the Church
 - [1896 - Apostolicae Curae](https://www.papalencyclicals.net/leo13/l13curae.htm): On Anglican ordinations
+- [1896 - Fidentem Piumque Animum](https://www.papalencyclicals.net/leo13/l13fide.htm): On the Rosary
+- [1896 - Satis Cognitum](https://www.papalencyclicals.net/leo13/l13satis.htm): On the unity of the Church
 - [1895 - Adiutricem](https://www.papalencyclicals.net/leo13/l13adiut.htm): On the rosary
 - [1895 - Longinqua](http://www.vatican.va/holy_father/leo_xiii/encyclicals/documents/hf_l-xiii_enc_06011895_longinqua_en.html): To the Church in the United States
-- [1894 - Orientalium Dignitas](https://www.papalencyclicals.net/leo13/l13orient.htm): On the Churches of the East
+- [1895 - Permoti Nos](https://www.papalencyclicals.net/leo13/l13perm.htm): On social conditions in Belgium
+- [1894 - Caritatis](https://www.papalencyclicals.net/leo13/l13cari.htm): On the Church in Poland
 - [1894 - Christi Nomen](https://www.papalencyclicals.net/leo13/l13eas.htm): On the propagation of the Gospel among non-Christians
-- [1893 - Providentissimus Deus](https://www.papalencyclicals.net/leo13/l13provi.htm): On the study of Holy Scripture
-- [1893 - Laetitiae Sanctae](https://www.papalencyclicals.net/leo13/l13ro3.htm): On the rosary
+- [1894 - Orientalium Dignitas](https://www.papalencyclicals.net/leo13/l13orient.htm): On the Churches of the East
 - [1893 - Ad Extremas](https://www.papalencyclicals.net/leo13/l13nat.htm): On Catholics in India
+- [1893 - Laetitiae Sanctae](https://www.papalencyclicals.net/leo13/l13ro3.htm): On the rosary
+- [1893 - Providentissimus Deus](https://www.papalencyclicals.net/leo13/l13provi.htm): On the study of Holy Scripture
 - [1892 - Au Milieu Des Sollicitudes](https://www.papalencyclicals.net/leo13/l13cst.htm): On the Church and State in France
 - [1892 - Magnae Dei Matris](https://www.papalencyclicals.net/leo13/l13ro2.htm): On the rosary
+- [1891 - In Ipso](https://www.papalencyclicals.net/leo13/l13ipso.htm): On episcopal reunions in Austria
 - [1891 - Octobri Mense](https://www.papalencyclicals.net/leo13/l13ro1.htm): On the rosary
+- [1891 - Pastoralis](https://www.papalencyclicals.net/leo13/l13past.htm): On religious union in Portugal
+- [1891 - Pastoralis Officii](https://www.papalencyclicals.net/leo13/l13off.htm): On the morality of dueling
 - [1891 - Rerum Novarum](https://www.papalencyclicals.net/leo13/l13rerum.htm): Landmark encyclical on capital and labor, founding Catholic social teaching
-- [1890 - Sapientiae Christianae](https://www.papalencyclicals.net/leo13/l13sapie.htm): On Christians as citizens
 - [1890 - Catholicae Ecclesiae](https://www.papalencyclicals.net/leo13/l13slv.htm): On slavery in the missions
+- [1890 - Dall'alto dell'Apostolico Seggio](https://www.papalencyclicals.net/leo13/l13dall.htm): On the Freemasons in Italy
+- [1890 - Sapientiae Christianae](https://www.papalencyclicals.net/leo13/l13sapie.htm): On Christians as citizens
+- [1889 - Magni Nobis](https://www.papalencyclicals.net/leo13/l13magn.htm): On the Catholic University of America
 - [1889 - Quamquam Pluries](https://www.papalencyclicals.net/leo13/13jos.htm): On devotion to St. Joseph
-- [1888 - Libertas Praestantissimum](https://www.papalencyclicals.net/leo13/l13liber.htm): On the nature of human liberty
+- [1888 - Exeunte Iam Anno](https://www.papalencyclicals.net/leo13/l13exeu.htm): On the right ordering of Christian life
 - [1888 - In Plurimis](https://www.papalencyclicals.net/leo13/l13abl.htm): On the abolition of slavery
+- [1888 - Libertas Praestantissimum](https://www.papalencyclicals.net/leo13/l13liber.htm): On the nature of human liberty
+- [1888 - Paterna Caritas](https://www.papalencyclicals.net/leo13/l13pate.htm): On the recall of the Armenian dissidents
+- [1886 - Iampridem](https://www.papalencyclicals.net/leo13/l13iam.htm): On Catholicism in Germany
 - [1885 - Immortale Dei](https://www.papalencyclicals.net/leo13/l13sta.htm): On the Christian constitution of states
 - [1884 - Humanum Genus](https://www.papalencyclicals.net/leo13/l13human.htm): On Freemasonry
+- [1884 - Nobilissima Gallorum Gens](https://www.papalencyclicals.net/leo13/l13nobi.htm): On the religious question in France
 - [1883 - Supremi Apostolatus Officio](https://www.papalencyclicals.net/leo13/l13supre.htm): On devotion of the rosary
+- [1882 - Auspicato Concessum](https://www.papalencyclicals.net/leo13/l13ausp.htm): On St. Francis of Assisi
+- [1882 - Cum Multa](https://www.papalencyclicals.net/leo13/l13cum.htm): On conditions in Spain
+- [1882 - Etsi Nos](https://www.papalencyclicals.net/leo13/l13etsi.htm): On conditions in Italy
 - [1881 - Diuturnum](https://www.papalencyclicals.net/leo13/l13civ.htm): On the origin of civil power
-- [1880 - Sancta Dei Civitas](https://www.papalencyclicals.net/leo13/l13mis.htm): On the missions
-- [1880 - Grande Munus](https://www.papalencyclicals.net/leo13/l13cym.htm): On St. Cyril and Methodius
 - [1880 - Arcanum](https://www.papalencyclicals.net/leo13/l13cmr.htm): On Christian marriage
+- [1880 - Grande Munus](https://www.papalencyclicals.net/leo13/l13cym.htm): On St. Cyril and Methodius
+- [1880 - Sancta Dei Civitas](https://www.papalencyclicals.net/leo13/l13mis.htm): On the missions
 - [1879 - Aeterni Patris](https://www.papalencyclicals.net/leo13/l13cph.htm): On the restoration of Christian philosophy according to St. Thomas Aquinas
-- [1878 - Quod Apostolici Muneris](https://www.papalencyclicals.net/leo13/l13apost.htm): On socialism
 - [1878 - Inscrutabili Dei Consilio](https://www.papalencyclicals.net/leo13/l13evl.htm): His first encyclical, on the evils of society
+- [1878 - Quod Apostolici Muneris](https://www.papalencyclicals.net/leo13/l13apost.htm): On socialism
 
 ## Bl. Pius IX (1846 - 1878)
 
@@ -357,7 +446,6 @@ The longest-reigning pope in history, he convened Vatican I and proclaimed the d
 - [1858 - Cum Nuper](https://www.papalencyclicals.net/pius09/p9cumnup.htm): On the care of clerics
 - [1856 - Singulari Quidem](https://www.papalencyclicals.net/pius09/p9singul.htm): On the Church in Austria
 - [1855 - Optime Noscitis](https://www.papalencyclicals.net/pius09/p9optim2.htm): On the Catholics of Ireland
-- [1854 - Ineffabilis Deus](https://www.papalencyclicals.net/pius09/p9ineff.htm): Defining the dogma of the Immaculate Conception
 - [1854 - Apostolicae Nostrae Caritatis](https://www.papalencyclicals.net/pius09/p9aposto.htm): On a collection for the Oriental Churches
 - [1854 - Optime Noscitis](https://www.papalencyclicals.net/pius09/p9optim1.htm): On the Catholics of Ireland
 - [1854 - Neminem Vestrum](https://www.papalencyclicals.net/pius09/p9nemini.htm): On the persecution of Armenians
@@ -367,9 +455,37 @@ The longest-reigning pope in history, he convened Vatican I and proclaimed the d
 - [1851 - Exultavit Cor Nostrum](https://www.papalencyclicals.net/pius09/p9exulta.htm): On the bishops of Ireland
 - [1849 - Nostis Et Nobiscum](https://www.papalencyclicals.net/pius09/p9nostis.htm): On the Church in the Pontifical States
 - [1849 - Ubi Primum](https://www.papalencyclicals.net/pius09/p9ubipr2.htm): On his forthcoming return to Rome
+- [1848 - In Suprema Petri Apostoli Sede](https://www.papalencyclicals.net/pius09/p9insupr.htm): On the Eastern Churches
 - [1847 - Ubi Primum](https://www.papalencyclicals.net/pius09/p9ubipr1.htm): On his election to the pontificate
 - [1847 - Praedecessores Nostros](https://www.papalencyclicals.net/pius09/p9praede.htm): On aid for Ireland
 - [1846 - Qui Pluribus](https://www.papalencyclicals.net/pius09/p9quiplu.htm): His first encyclical, on faith and religion
+
+**Apostolic Constitutions:**
+- [1870 - Pastor Aeternus](https://www.papalencyclicals.net/pius09/p9pastor.htm): Dogmatic constitution of the First Vatican Council defining papal infallibility
+- [1868 - Aeterni Patris](https://www.papalencyclicals.net/pius09/p9aetern.htm): Convoking the First Vatican Council
+- [1867 - Reversurus](https://www.papalencyclicals.net/pius09/p9revers.htm): Concerning the election of bishops in the Armenian Catholic Church
+- [1854 - Ineffabilis Deus](https://www.papalencyclicals.net/pius09/p9ineff.htm): Defining the dogma of the Immaculate Conception
+
+**Apostolic Letters:**
+- [1868 - Iam Vos Omnes](https://www.papalencyclicals.net/pius09/p9iamvos.htm): Addressed to all Protestants and other non-Catholics, inviting them to return to the Catholic Church
+
+## Gregory XVI (1831 - 1846)
+
+**Encyclicals:**
+- [1844 - Inter Praecipuas](https://www.papalencyclicals.net/greg16/g16inter.htm): On biblical societies
+- [1841 - Quas Vestro](https://www.papalencyclicals.net/greg16/g16quasv.htm): On mixed marriages
+- [1840 - Probe Nostis](https://www.papalencyclicals.net/greg16/g16probe.htm): On the Propagation of the Faith
+- [1835 - Commissum Divinitus](https://www.papalencyclicals.net/greg16/g16commi.htm): On Church and State
+- [1834 - Singulari Nos](https://www.papalencyclicals.net/greg16/g16singu.htm): On the errors of Félicité de Lamennais
+- [1833 - Quo Graviora](https://www.papalencyclicals.net/greg16/g16quogr.htm): On the "Pragmatic Constitution"
+- [1832 - Mirari Vos](https://www.papalencyclicals.net/greg16/g16mirar.htm): On liberalism and religious indifferentism
+- [1832 - Cum Primum](https://www.papalencyclicals.net/greg16/g16cumpr.htm): On civil obedience
+- [1832 - Summo Iugiter Studio](https://www.papalencyclicals.net/greg16/g16summo.htm): On mixed marriages
+- [1831 - Le armi valorose](https://www.papalencyclicals.net/greg16/g16learm.htm): On the pacification of the Papal States
+- [1831 - Quel Dio](https://www.papalencyclicals.net/greg16/g16queld.htm): On the end of the insurrection in the Papal States
+
+**Apostolic Constitutions:**
+- [1839 - In Supremo Apostolatus](https://www.papalencyclicals.net/greg16/g16insup.htm): Condemning the slave trade
 
 ## Pius VIII (1829 - 1830)
 
