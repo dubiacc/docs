@@ -42,7 +42,7 @@ A renowned theologian who served during a period of church scandals and seculari
 **Motu Proprio:**
 - [2007 - Summorum Pontificum](https://www.papalencyclicals.net/paul06/ben16summorum.htm): On the Roman Liturgy prior to the reform of 1970
 
-## Pope St. John Paul II (1978 - 2005)
+## Pope John Paul II (1978 - 2005)
 
 The first non-Italian pope in 455 years, he played a crucial role in ending communism in Eastern Europe and was a prominent figure on the world stage.
 
