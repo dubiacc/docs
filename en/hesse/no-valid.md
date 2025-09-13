@@ -1,6 +1,6 @@
 Transcript of the talk by Fr. Hesse: Is the New Mass Valid?
 
-# Fr. Hesse: Is the New Mass Valid?
+# Is the New Mass Valid?
 
 This comprehensive talk by Fr. Hesse examines the Validity of the New Mass, the 1988 papal document *Ecclesia Dei*, which he systematically demonstrates contains heretical statements about tradition's progressive development and Vatican II's "new" doctrines. 
 
