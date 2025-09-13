@@ -1,9 +1,15 @@
+```
+{
+    "date": "1939"
+}
+```
+
 Die Geschichte von Annette, einer Seele in der Hölle, beschreibt eine 
 Lebensweise, die in der heutigen Gesellschaft sehr verbreitet ist, aber 
 in einer Katastrophe endet. Die Göttliche Barmherzigkeit erlaubt uns 
 durch diese Offenbarungen, uns auf unser letztes Ende vorzubereiten.
 
-# Die Geschichte von Annette
+# Die Geschichte von Annette: Eine Seele in der Hölle
 
 > Die Geschichte von Annette, einer Seele in der Hölle, wurde bei ignatianischen 
 > Exerzitien vorgetragen, an denen ein Freund von mir teilnahm. Er war von der 
@@ -15,6 +21,26 @@ durch diese Offenbarungen, uns auf unser letztes Ende vorzubereiten.
 > und zu verbreiten. Und ich ermutige Sie, dies zum Wohle der Seelen zu tun.
 > 
 > -- [Robert T. Hart](https://www.sicutincaelo.org/booklets.html)
+
+Was auf diesen Seiten berichtet wird, ist von größter Wichtigkeit. Obwohl 
+die betreffenden Ereignisse in Deutschland stattfanden, geben wir hier, 
+soweit es uns möglich ist, eine getreue Übersetzung aus der Originalsprache wieder. 
+Übersetzungen wurden auch in verschiedene andere Sprachen angefertigt.
+
+Das „Nihil obstat“ wurde vom Vikar von Rom erteilt, und das „Imprimatur“ des 
+päpstlichen Vikars für Rom garantiert, dass der Text frei von Glaubensirrtümern ist[^1].
+
+Diese erschreckenden Seiten müssen für uns eine *Warnung* sein, da sie eine 
+Lebensweise beschreiben, die in der heutigen Gesellschaft sehr verbreitet ist.
+
+Die göttliche Barmherzigkeit hebt für uns, indem sie diese Offenbarungen zulässt, einen
+Zipfel des Schleiers, der jene ehrfurchtgebietenden Geheimnisse verbirgt, die
+uns alle am Ende unserer Tage auf Erden erwarten.
+
+Wir hoffen, dass viele Seelen zuhören und aufpassen werden.
+
+[^1]: Notiz: Das "nihil obstat" / "Imprimatur" konnte nicht gefunden werden. Der 
+ursprüngliche Text stammte aus dem Englischen.
 
 ## Einleitung
 
