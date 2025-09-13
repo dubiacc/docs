@@ -1,6 +1,6 @@
 Transcript of a talk given by Fr. Hesse: "Man in the Image of God"
 
-# Fr. Hesse: Man in the Image of God
+# Man in the Image of God
 
 In this talk, Fr. Hesse examines the infinite simplicity of God through St. Thomas Aquinas, explaining that God's essence consists purely in His being - the divine name "I AM" reveals three persons sharing one existence within the Trinity. 
 
