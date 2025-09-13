@@ -1,6 +1,6 @@
 Transcript of a talk by Fr. Hesse: The True Notion of Sacred Tradition
 
-# Fr. Hesse: The True Notion of Sacred Tradition
+# The True Notion of Sacred Tradition
 
 In this talk, Fr. Hesse defines essential theological distinctions 
 including schism / heresy, valid / licit, objective / subjective, material / formal, 
