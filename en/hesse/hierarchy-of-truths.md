@@ -1,6 +1,6 @@
 Transcript of a talk by Fr. Hesse: The True Notion of the Hierarchy of Truths
 
-# Fr. Hesse: The True Notion of the Hierarchy of Truths
+# The True Notion of the Hierarchy of Truths
 
 Fr. Hesse contrasts the modern ecumenical inversion of hierarchy of 
 truth—prioritizing beliefs shared by most denominations—with authentic 
