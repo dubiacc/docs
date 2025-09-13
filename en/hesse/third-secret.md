@@ -1,6 +1,6 @@
 Transcript of "On the third secret of Fatima" by Fr. Hesse
 
-# Fr. Hesse: On the Third Secret of Fatima
+# On the Third Secret of Fatima
 
 In this exposé of the Vatican's publication of the Third Secret of Fatima, Fr. Hesse argues the entire document represents a deliberate hoax designed to conceal the authentic message. He presents multiple proofs against authenticity, including Sister Lucia's inappropriate use of the Portuguese word "cadáveres" (cadavers) rather than "dead," the lack of precision compared to previous Fatima secrets, and Cardinal Ratzinger's contradictory statements between 1984 and publication. 
 
