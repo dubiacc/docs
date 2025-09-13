@@ -1,6 +1,6 @@
 Transcript of the talk by Fr. Hesse: Vatican II vs. Syllabus of Errors - Part 3
 
-# Fr. Hesse: Vatican II vs. Syllabus of Errors - Part 3
+# Vatican II vs. Syllabus of Errors - Part 3
 
 Completing his analysis of Vatican II, Fr. Hesse clarifies how Quo Primum's 
 liturgical prescriptions bind papal successors in matters of faith but not mere 
