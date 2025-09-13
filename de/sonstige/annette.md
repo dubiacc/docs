@@ -16,7 +16,7 @@ durch diese Offenbarungen, uns auf unser letztes Ende vorzubereiten.
 > 
 > -- [Robert T. Hart](https://www.sicutincaelo.org/booklets.html)
 
-# Einleitung
+## Einleitung
 
 Claire und Annette waren zwei Mädchen, die für eine Firma in Süddeutschland 
 arbeiteten. Sie waren keine besonders engen Freundinnen, pflegten aber einfach 
