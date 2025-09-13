@@ -472,7 +472,7 @@ Nicht alle Seelen leiden im gleichen Maße. Je bösartiger und systematischer ei
 gesündigt hat, desto schwerer wird der Verlust Gottes auf ihm lasten.
 
 Verdammte Katholiken leiden mehr als Mitglieder anderer Religionen, weil sie normalerweise 
-*mehr Gnaden** und mehr Erleuchtung angeboten bekommen und abgelehnt haben. Der Mensch, 
+*mehr* Gnaden und mehr Erleuchtung angeboten bekommen und abgelehnt haben. Der Mensch, 
 der in seinem Leben mehr Wissen hatte, leidet schwerer als der, der weniger wusste. Wer 
 aus Bosheit gesündigt hat, leidet grausamer als der, der aus Schwäche gesündigt hat. 
 Aber niemand leidet mehr, als er verdient hat. Oh, wenn das nur nicht wahr wäre! Dann 
