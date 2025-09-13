@@ -1,6 +1,6 @@
 Transcript of a talk given by Fr. Hesse: "Modernism and Pope St. Pius X"
 
-# Fr. Hesse: Modernism and Pope St. Pius X
+# Modernism and Pope St. Pius X
 
 In this detailed analysis of Modernism, Fr. Hesse examines Pope St. Pius X's landmark encyclical *Pascendi Dominici Gregis*, tracing the philosophical roots of the crisis from the condemned Synod of Pistoia through to Vatican II. 
 
