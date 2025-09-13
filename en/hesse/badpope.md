@@ -1,6 +1,6 @@
 Transcript of the talk by Fr. Hesse: Clarity on Bad and Heretical Popes
 
-# Fr. Hesse - Clarity on Bad and Heretical Popes
+# Clarity on Bad and Heretical Popes
 
 Establishing the proper limits of papal obedience and authority, this talk by Fr. Hesse explores the distinction between true Catholic obedience rooted in the Ten Commandments and Church tradition versus blind submission to papal commands. 
 
