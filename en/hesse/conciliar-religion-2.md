@@ -1,6 +1,6 @@
 Transcript of a Talk by Fr. Hesse: The New Conciliar Religion - Part 2
 
-# Fr. Hesse: The New Conciliar Religion - Part 2
+# The New Conciliar Religion - Part 2
 
 Fr. Hesse concludes his Vatican II analysis by examining John Paul II's 
 blasphemous definition of Christianity as "amazement about human dignity" 
