@@ -1,6 +1,6 @@
 Transcript of a talk given by Fr. Hesse: "Sacred Mass According To Church Law"
 
-# Fr. Hesse: Sacred Mass According To Church Law
+# Sacred Mass According To Church Law
 
 Defending the Society of Saint Pius X's use of the 1962 Missal, Fr. Hesse clarifies that this Mass remains substantially the Mass of Saint Pius V despite changes he personally rejects. Fr. Hesse explains how Pius V's decree Quo Primum canonically binds successors because the Mass forms the foundation of faith through the principle *lex orandi, lex credendi*. 
 
