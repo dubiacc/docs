@@ -1,6 +1,6 @@
 Transcript of the talk by Fr. Hesse: Vatican II vs. Syllabus of Errors - Part 2
 
-# Fr. Hesse: Vatican II vs. Syllabus of Errors - Part 2
+# Vatican II vs. Syllabus of Errors - Part 2
 
 Dissecting the Constitution on the Sacred Liturgy further, Fr. Hesse exposes 
 Vatican II's demand for "radical adaptation" that produces the chaotic papal 
