@@ -1,6 +1,6 @@
 Transcript of a talk given by Fr. Hesse: Vatican II vs. Church Dogma - Part 1
 
-# Fr. Hesse: Vatican II vs. Church Dogma - Part 1
+# Vatican II vs. Church Dogma - Part 1
 
 Against Vatican II's revolutionary departure from Catholic tradition, Fr. Hesse presents a systematic critique of the council's key documents and their contradiction of papal teaching. 
 
