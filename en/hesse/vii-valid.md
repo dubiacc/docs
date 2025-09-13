@@ -1,6 +1,6 @@
 Transcript of a talk given by Fr. Hesse: "Why Catholics may doubt Whether Vatican II was a valid council"
 
-# Why Catholics may doubt Whether Vatican II was a valid council
+# Was Vatican II was a valid council?
 
 Having exhausted his demonstration of Vatican II's doctrinal errors, Fr. Hesse 
 presents his most radical thesis: that Vatican II may not constitute a valid 
