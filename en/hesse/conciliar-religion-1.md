@@ -1,6 +1,6 @@
 Transcript of a talk given by Fr. Hesse: "The New Conciliar Religion - Part 1"
 
-# Fr. Hesse: The New Conciliar Religion - Part 1
+# The New Conciliar Religion - Part 1
 
 Fr. Hesse shows that Vatican II lacks legitimacy as an ecumenical council due to 
 its unprecedented lack of dogmatic intent and analyzes specific heresies throughout 
