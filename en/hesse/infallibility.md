@@ -1,6 +1,6 @@
 Transcript of a talk by Fr. Hesse: "Papal Infallibility, Fact and Falsehood"
 
-# Fr. Hesse: Papal Infallibility, Fact and Falsehood
+# Papal Infallibility - Fact and Falsehood
 
 Addressing widespread confusion about papal authority, Fr. Hesse distinguishes between authentic papal infallibility and the heretical notion of "papalism"—the belief that the pope can do no wrong. He then examines the precise dogmatic definition from Vatican I, which limits papal infallibility to when the pope speaks ex cathedra on matters of faith and morals for the universal Church. 
 
