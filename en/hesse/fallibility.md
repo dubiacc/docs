@@ -1,6 +1,6 @@
 Talk given by Fr. Hesse: "The Fallibility of the Popes"
 
-# Fr. Hesse: The Fallibility of the Popes
+# The Fallibility of the Popes
 
 Challenging both excessive "papalism" and sedevacantist positions, Fr. Hesse presents extensive historical evidence of papal fallibility to establish proper limits of papal authority. He chronicles numerous papal errors including Pope Liberius signing Semi-Arian creeds, Pope Honorius teaching Monothelite heresy, St. Gregory VII's heretical claim that papal election confers automatic sainthood, the scandalous Pornocracy period, Benedict IX's three separate pontificates, and Renaissance papal corruption. 
 
