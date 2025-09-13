@@ -1,6 +1,6 @@
 Transcription d'une conférence du Père Hesse : "L'homme à l'image de Dieu"
 
-# Père Hesse : L'homme à l'image de Dieu
+# L'homme à l'image de Dieu
 
 Dans cette conférence, le Père Hesse examine l'infinie simplicité de Dieu à travers
 Saint Thomas d'Aquin, expliquant que l'essence de Dieu consiste purement en Son être.
