@@ -1,6 +1,6 @@
 Talk given by Fr. Hesse: "The Mess Manifest"
 
-# Fr. Hesse: The Mess Manifest
+# The Mess Manifest
 
 Fr. Hesse traces the ecclesiastical crisis from Cardinal Rampolla's Masonic influence through Pius XII's liturgical revolution, demonstrating how Vatican II merely formalized changes Pius XII initiated through Bugnini's appointment and Holy Week modifications. 
 
