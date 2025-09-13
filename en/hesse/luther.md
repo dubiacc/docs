@@ -1,6 +1,6 @@
 Transcript of a talk given by Fr. Hesse: "Martin Luther - Saint or Sinner?"
 
-# Fr. Hesse: Martin Luther - Saint or Sinner?
+# Martin Luther - Saint or Sinner?
 
 Fr. Hesse counters modern attempts to rehabilitate Martin Luther, whom he characterizes as fundamentally unholy and destructive to Christendom. He traces Luther's descent from a proud, scrupulous monk who refused proper spiritual direction to a man consumed by despair over his inability to control sexual vices. 
  
