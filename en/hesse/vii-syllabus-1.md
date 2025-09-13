@@ -1,6 +1,6 @@
 Transcript of the talk by Fr. Hesse: Vatican II vs. Syllabus of Errors - Part 1
 
-# Fr. Hesse: Vatican II vs. Syllabus of Errors - Part 1
+# Vatican II vs. Syllabus of Errors - Part 1
 
 Beginning his systematic demonstration of Vatican II's contradiction 
 of the Syllabus of Errors, Fr. Hesse establishes crucial theological distinctions 
