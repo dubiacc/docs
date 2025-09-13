@@ -1,6 +1,6 @@
 Transcript of the talk by Fr. Hesse: Vatican II vs. Church Dogma - Part 3
 
-# Fr. Hesse: Vatican II vs. Church Dogma - Part 3
+# Vatican II vs. Church Dogma - Part 3
 
 Concluding his systematic critique of Vatican II, Fr. Hesse exposes how *Gaudium et Spes*
 blasphemously claims Christ reveals man to himself rather than revealing the Trinity, 
