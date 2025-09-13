@@ -1,7 +1,7 @@
 Transcription d'une conférence du Père Hesse :
 "Infaillibilité papale, fait et contre-vérité"
 
-# Père Hesse : Infaillibilité papale, fait et contre-vérité
+# Infaillibilité papale, fait et contre-vérité
 
 Face à la confusion sur l'autorité papale, le P. Hesse distingue
 l'infaillibilité papale authentique de la notion hérétique de "papalisme" —
