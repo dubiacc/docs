@@ -1,6 +1,6 @@
 Talk given by Fr. Hesse: "On the Validity of the Novus Ordo Sacraments"
 
-# Fr. Hesse: On the Validity of the Novus Ordo Sacraments
+# On the Validity of the Novus Ordo Sacraments
 
 Fr. Hesse adresses concerns about the validity of the Novus Ordo Sacraments and presents a theological analysis of this controversial topic. He examines the essential elements of sacraments—matter, form, and intention—while discussing his own ordination in the New Rite by an Old Rite bishop and Fr. Perez's ordination in the Old Rite by a New Rite bishop. 
 
