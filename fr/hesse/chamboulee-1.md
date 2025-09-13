@@ -1,6 +1,6 @@
 Conférence du P. Hesse : La Messe Chamboulée, Partie 1
 
-# P. Hesse : La Messe Chamboulée - Partie 1
+# La Messe Chamboulée - Partie 1
 
 P. Hesse corrige la terminologie de la "Messe tridentine".
 Il montre que *lex orandi, lex credendi* exige une liturgie immuable.
