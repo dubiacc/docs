@@ -1,6 +1,6 @@
 Transcript of a talk by Fr. Hesse: The Messed-Up Mass, Part 2
 
-# Fr. Hesse: The Messed-Up Mass Part 2
+# The Messed-Up Mass - Part 2
 
 Fr. Hesse contrasts reverent Episcopal churches with desacralized Catholic spaces, defines liturgy as sacramental sign requiring proper form and reverence, shows that attending the New Mass constitutes sin preventing fulfillment of Sunday obligation and explains validity versus licitness distinctions while tracing liturgical corruption to Leo XIII's vernacular permissions.
 
