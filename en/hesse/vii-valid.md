@@ -20,7 +20,7 @@ Fr. Hesse demonstrates that the council's content fails even the test of matter 
 containing objective heresies, including claims that the Church is "in the 
 nature of sacrament," that Muslims "together with us adore one merciful God," and 
 that "all activities are directed towards man as center and summit." He concludes 
-that either Vatican II was not a valid council or the Holy Spirit was wrong.
+that either Vatican II was either not a valid council or the Holy Spirit was wrong.
 
 ## Introduction
 
