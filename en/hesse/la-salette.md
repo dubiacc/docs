@@ -1,6 +1,6 @@
 Transcript of a talk by Fr. Hesse on the Prophecy of La Salette.
 
-# La Salette Prophecy Predicting Two Worm-Ridden Popes
+# La Salette: The "Two Worm-Ridden Popes"
 
 In this talk, Fr. Hesse reveals a censored line from the La Salette prophecy that speaks of "deux papes vermélins" (two worm-ridden popes) in the 20th century, information he received through his connection with Malachi Martin. 
 
